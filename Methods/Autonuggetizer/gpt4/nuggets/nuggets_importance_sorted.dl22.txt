@@ -1,0 +1,973 @@
+2000511_1	End of October average temperature in The Bahamas is around 78.8 degrees	vital
+2000511_2	October average high in The Bahamas is 85.0 degrees	okay
+2000511_3	October average low in The Bahamas is 74.0 degrees	okay
+2000511_4	Daytime temperatures in Nassau reach 30°C in October	okay
+2000511_5	Night temperatures in Nassau fall to 22°C in October	okay
+2000511_6	October in The Bahamas has high rainfall but prevalent sunshine	okay
+2000511_7	Bahamas winter season runs from October through April	okay
+2000511_8	Average winter temperature in The Bahamas is 75 degrees F	okay
+2000511_9	October marks the start of fall but retains mid-80s temperatures	okay
+2000719_1	Business Architects define the business strategy, governance, organization, and key processes	vital
+2000719_2	Business Architects bridge enterprise business model and company strategy	vital
+2000719_3	Business Architects help bridge the gap between strategy and execution	vital
+2000719_4	Business Architects interpret strategy for operational needs and develop business capability maps	vital
+2000719_5	Business Architects align architecture with business value in the digital age	okay
+2000719_6	Business Architects create and maintain business capability, data, process, and technology inventories	okay
+2000719_7	Business Architects engage stakeholders and serve as expert advisors	okay
+2000719_8	Business Architects define strategic, core, and support processes across boundaries	okay
+2000719_9	Business Architects define data sharing and relationships across the enterprise	okay
+2000719_10	Business Architects capture relationships among roles, capabilities, and business units	okay
+2000719_11	Business Architects drive discussions to identify business capabilities for future objectives	okay
+2000719_12	Business Architects present solutions and advocate for best practices standardization	okay
+2000719_13	Business Architects influence technical direction and resource allocation	okay
+2000719_14	Business Architects are not enterprise architects but share commonalities	okay
+2000719_15	Business Architects identify and describe interactions with external entities	okay
+2000719_16	Business Architects are not solution architects or business analysts	okay
+2000719_17	Business Architects are not project managers but may manage business architecture projects	okay
+2000719_18	Business Architects streamline and rationalize IT enablement processes	okay
+2001532_1	Family advocates assist families in crisis and safety planning.	vital
+2001532_2	Family advocates connect families to resources and refer to other services.	vital
+2001532_3	Family advocates speak up in self-advocacy and case advocacy scenarios.	vital
+2001532_4	Family advocates assess family needs and link to community supports.	vital
+2001532_5	Family advocates help families access medical attention and counseling.	vital
+2001532_6	Family advocates provide and coordinate services to strengthen family well-being.	vital
+2001532_7	Family advocates assist families by promoting children's best interests in disputes.	vital
+2001532_8	Family advocates mediate parental disputes over child responsibilities.	vital
+2001532_9	Family advocates connect families with community and health resources.	vital
+2001532_10	Family advocates work with families in crisis intervention programs.	vital
+2001532_11	Family advocates address safety concerns and domestic violence impacts.	vital
+2001532_12	Family advocates make referrals and help coordinate services.	vital
+2001532_13	Family advocates develop Individualized Family Service Plans.	vital
+2001532_14	Family advocates address child abuse and domestic abuse in military communities.	okay
+2001532_15	Family advocates comfort families and listen to their concerns.	okay
+2001532_16	Family advocates counsel parents on treatment options for their children.	okay
+2001532_17	Family advocates follow up with families after case investigations.	okay
+2001532_18	Family advocates intervene in school issues like bullying.	okay
+2001532_19	Family advocates provide ongoing support and follow-up during investigations.	okay
+2001532_20	Family advocates monitor agreements in the best interest of the child.	okay
+2001908_1	Turn off gas supply and ensure grill is off before starting	vital
+2001908_2	Remove cooking grates and heat shields or briquette trays	vital
+2001908_3	Disconnect connector hose from burner assembly using adjustable wrench	vital
+2001908_4	Remove old burners using a 3/8” crescent wrench or socket	vital
+2001908_5	Unscrew burner mounting screw and remove old burner	vital
+2001908_6	Install new burner ensuring it fits into the manifold	vital
+2001908_7	Secure new burner with cotter pin and mounting screw	vital
+2001908_8	Attach ignition electrode to new burner	vital
+2001908_9	Test new burner for proper function by igniting it	vital
+2001908_10	Use penetrating oil if hose connection is sticky	okay
+2001908_11	Use needle-nose pliers to remove cotter pin from burner	okay
+2001908_12	Clean off debris from burner area with a grill brush	okay
+2001908_13	Clear gas port holes with a small drill bit	okay
+2001908_14	Use a venturi brush to clear spider webs from burner tubes	okay
+2001908_15	Replace carry-over tube and hitch pins	okay
+2001908_16	Reinstall cooking grates	okay
+2001975_1	Click the 'Notes' button below the slide.	vital
+2001975_2	Type your notes in the space provided under the slide.	vital
+2001975_3	Click to add notes in the Slide Notes section.	vital
+2001975_4	Open PowerPoint and go to the desired slide.	okay
+2001975_5	Notes entered do not appear on the slide itself during the presentation.	okay
+2001975_6	Press 'Enter' to add additional lines to your notes.	okay
+2001975_7	Notes can be viewed by the presenter during the slide show.	okay
+2001975_8	Notes are not visible to the audience during the presentation.	okay
+2001975_9	Resize the Notes pane by clicking and dragging its edge.	okay
+2001975_10	Set the view in Normal mode to locate the slide notes.	okay
+2002146_1	Cut mature yucca stem to 3-4 inches for propagation	vital
+2002146_2	Allow cut stem to dry for a few days in a cool, dark area	vital
+2002146_3	Dip cut end in rooting hormone to encourage root growth	vital
+2002146_4	Plant stem cutting in well-draining soil mixed with gravel	vital
+2002146_5	Use offsets called pups for propagation	vital
+2002146_6	Remove pup with clean, sharp cut	vital
+2002146_7	Keep away from direct sunlight during rooting	vital
+2002146_8	Remove the lower inch of leaves before planting	vital
+2002146_9	Place new plant in indirect sunlight in a warm area	vital
+2002146_10	Place pot in a cool, bright area to encourage rooting	okay
+2002146_11	Roots typically form within two to three weeks	okay
+2002146_12	Water the offsets every week or two after roots form	okay
+2002146_13	Transplant rooted cutting into high-quality potting mix	okay
+2002146_14	Yuccas are suitable for indoor and outdoor growth	okay
+2002146_15	Water the soil as needed, when it feels dry	okay
+2002146_16	New growth develops from the top or sides of the stem	okay
+2002146_17	Mist plant daily to maintain humidity	okay
+2002269_1	Rabbits grow most rapidly in the first three months of life	vital
+2002269_2	Rabbits are fully grown by 6-8 months of age	vital
+2002269_3	Baby rabbits grow into adolescents in 1 month to 7 weeks	vital
+2002269_4	Flemish Giant rabbits gain 0.5 to 0.75 lb/week from 8 weeks to 8 months	okay
+2002269_5	New Zealand white rabbits reach 72% of adult weight by 16 weeks	okay
+2002269_6	Rabbits reach sexual maturity at about 6 months of age	okay
+2002269_7	Young rabbits become independent at 28-35 days	okay
+2002269_8	Domestic rabbits open their eyes at about 2 weeks of age	okay
+2002269_9	Young wean at about 1 month of age	okay
+2002269_10	New Zealand rabbits reach 8 pounds by 8 weeks old	okay
+2002269_11	Baby domestic rabbits are born fur-less	okay
+2002269_12	Young rabbits leave the nest at 14 days old	okay
+2002533_1	Average cost to plant an 8' tree is $300-$1,200	vital
+2002533_2	Labor costs for tree planting are about 30% of total cost	vital
+2002533_3	Professional tree planting costs $35-$50 per hour	vital
+2002533_4	Cost varies with tree size, type, and planting location	vital
+2002533_5	Mature trees over 100 years may cost over $50,000 to transplant	okay
+2002533_6	Costs decrease when planting multiple trees at once	okay
+2002798_1	Dry-aging enhances flavor and tenderness	vital
+2002798_2	Dry aging evaporates moisture, concentrating flavor and tenderizing meat	vital
+2002798_3	Essential aging equipment includes a fan and humidity control	vital
+2002798_4	Humidity should be maintained around 80% for even aging	vital
+2002798_5	28 to 45 days aged steak develops distinct cheese-like flavors	vital
+2002798_6	Unwrap and rinse the meat before aging	vital
+2002798_7	Minimum aging period is generally 14 days	vital
+2002798_8	Dry-age beef at home safely	vital
+2002798_9	Change the towel wrapping your beef daily during aging	vital
+2002798_10	Age your beef for 10 days to two weeks, then cut off dry outer layers	vital
+2002798_11	Steak aging ranges from 7 to 60 days	okay
+2002798_12	Dry-aged beef can taste similar to rare roast beef with buttered popcorn flavor	okay
+2002798_13	Dry-aging can produce sweet, salty, savory, nutty aromas	okay
+2002798_14	Longer dry-aging periods result in sharper, funkier flavors	okay
+2002798_15	Dry-aged steaks are considered a gourmet item	okay
+2002798_16	Aging over 100 days yields flavors close to blue cheese	okay
+2002798_17	Steakhouse cuts like New York strip are ideal for aging	okay
+2002798_18	45-day-aged steak is preferred for its moisture and juiciness	okay
+2002798_19	Salt the steak well in advance of aging	okay
+2002798_20	Beyond 45 days, no significant difference in tenderness	okay
+2003157_1	Place frozen ham steak directly on NuWave oven rack	vital
+2003157_2	Cook frozen ham steak in NuWave oven for 15 minutes per pound	vital
+2003157_3	Check ham steak for doneness after cooking	vital
+2003157_4	Add 50% more cooking time for frozen ham steak	vital
+2003157_5	No preheating required for NuWave oven	okay
+2003157_6	Use dual Cooking Rack for proper height in NuWave oven	okay
+2003157_7	Cover food with Transparent Dome in NuWave oven	okay
+2003157_8	Optional: Marinate or season ham steak before cooking	okay
+2003157_9	NuWave oven components are dishwasher safe	okay
+2003157_10	NuWave oven can cook frozen foods without defrosting	okay
+2003322_1	Reconstitute 100 mg ceftriaxone with 10 mL of Sterile Water for Injection	vital
+2003322_2	Reconstitute 200 mg ceftriaxone with 20 mL of Sterile Water for Injection	vital
+2003322_3	Do not use diluents containing calcium with ceftriaxone	vital
+2003322_4	Usual diluents for ceftriaxone: Sterile Water, D5W, NS	vital
+2003322_5	Reconstituted solution is stable for 24 hours at room temperature	okay
+2003322_6	Use diluted solution within 4 hours of reconstitution	okay
+2003322_7	Infuse diluted ceftriaxone over 20 to 30 minutes	okay
+2003322_8	Inspect solution for particulate matter and discoloration; discard if present	okay
+2003976_1	Remove the dust cap by loosening the yoke screw	vital
+2003976_2	Place the 1st stage over the cylinder valve	vital
+2003976_3	Tighten the yoke screw against the valve finger-tight	vital
+2003976_4	If using a DIN valve, screw the 1st stage into the cylinder valve	vital
+2003976_5	Attach the low-pressure hose to the power inflator's air inlet	vital
+2003976_6	Attach the high-pressure hose to the submersible pressure gauge	vital
+2003976_7	Attach the second stage regulator to the low-pressure hose	vital
+2003976_8	Attach the inflator hose of the scuba octopus to the intake valve of BCD	vital
+2003976_9	Turn the cylinder valve on the air tank to open it	vital
+2003976_10	Regulator adjusts compressed air to breathable level	vital
+2003976_11	Ensure 2nd stage hoses are on the same side as the valve knob	okay
+2003976_12	Test regulators by taking deep breaths and pressing purge buttons	okay
+2004237_1	Sign in to Westpac online banking to initiate transfers	vital
+2004237_2	Select 'Transfers' from the menu in online banking	vital
+2004237_3	Choose 'MAKE TRANSFER' to start the process	vital
+2004237_4	Select the account to transfer money from	vital
+2004237_5	Select the account to transfer money to	vital
+2004237_6	Enter the amount you wish to transfer	vital
+2004237_7	Confirm the transfer details and tap 'Continue'	vital
+2004237_8	Verify and set the date for the transfer	okay
+2004237_9	Review transfer settings and select 'Make Transfer', then 'Done'	okay
+2004237_10	For automatic transfers, select 'Recurring Transfer' and set frequency	okay
+2004237_11	Use Westpac's Swift Code WPACAU2S for international transfers	okay
+2004237_12	Contact Westpac directly for specific transfer inquiries	okay
+2004253_1	TRIM function syntax: '=TRIM(cell_reference)'	vital
+2004253_2	Use TRIM function to remove leading, trailing, and excessive internal spaces	vital
+2004253_3	TRIM function does not remove non-breaking spaces by default	vital
+2004253_4	Use SUBSTITUTE function to replace non-breaking spaces with normal spaces	vital
+2004253_5	TRIM function helps clean up cells by removing unwanted spaces	vital
+2004253_6	"Type '=TRIM(SUBSTITUTE(A1, CHAR(160), "" ""))' to remove all spaces in a cell"	okay
+2004253_7	Combine TRIM with SUBSTITUTE to remove all spaces including non-breaking	okay
+2004253_8	Press 'Enter' after typing the formula to execute it	okay
+2004253_9	Drag Fill Handle down to apply TRIM to multiple cells	okay
+2004253_10	SUBSTITUTE function syntax: '=SUBSTITUTE(text, old_text, new_text)'	okay
+2004253_11	Excel's SUBSTITUTE function can replace non-breaking spaces (ASCII 160) with nothing	okay
+2004253_12	Combine TRIM with VLOOKUP to ignore spaces in lookup operations	okay
+2004253_13	Place cursor in cell to input TRIM function	okay
+2004253_14	Create a macro with TRIM to remove spaces from selected cells	okay
+2004253_15	Use Kutools for Excel to quickly remove spaces	okay
+2005810_1	President of the United States	vital
+2005810_2	Vice President of the United States	vital
+2005810_3	Cabinet members including heads of 15 executive departments	vital
+2005810_4	Executive Office of the President (EOP)	vital
+2005810_5	National Security Council	vital
+2005810_6	Council of Economic Advisers	vital
+2005810_7	Independent executive agencies, e.g., NASA, EPA, SSA	okay
+2005810_8	Independent regulatory commissions	okay
+2005810_9	Government corporations	okay
+2005810_10	Federal agencies and corporations like U.S. Postal Service	okay
+2005810_11	Office of Management and Budget	okay
+2005810_12	Independent establishments excluding GAO	okay
+2005861_1	Oceania, Eurasia, Eastasia are the three countries	vital
+2005861_2	The world is divided into three warring super-states	okay
+2005861_3	Oceania, Eurasia, Eastasia continuously or apparently at war	okay
+2005861_4	Oceania is ruled under Ingsoc ideology	okay
+2005861_5	Eurasia follows Neo-Bolshevism	okay
+2005861_6	Eastasia follows Death-worship or Obliteration of the Self	okay
+2006211_1	Auslan interpreted performance involves translating spoken content to Auslan	vital
+2006211_2	Used in settings like lectures, shows, conferences for the Deaf or hard of hearing	vital
+2006211_3	Interpreters facilitate communication maintaining original intent	vital
+2006211_4	Auslan is Australian Sign Language	vital
+2006211_5	Interpreters may work in various settings including legal and corporate events	okay
+2006211_6	Auslan is common in the deaf community in Australia	okay
+2006211_7	Auslan courses range from introductory to advanced	okay
+2006375_1	Quotient of powers rule: subtract exponents of like bases.	vital
+2006375_2	Quotient is the result of division.	okay
+2006375_3	Quotient can refer to the ratio of two quantities.	okay
+2006394_1	Septrin treats urinary tract infections	vital
+2006394_2	Septrin treats Pneumocystis jiroveci pneumonia	vital
+2006394_3	Septrin treats bronchitis	okay
+2006394_4	Septrin treats traveler's diarrhea	okay
+2006394_5	Septrin treats methicillin-resistant Staphylococcus aureus (MRSA)	okay
+2006394_6	Septrin treats ear infections	okay
+2006627_1	311 is for non-emergency municipal services	vital
+2006627_2	311 connects citizens with government for service requests	vital
+2006627_3	311 provides access to city information	vital
+2006627_4	311 services include refuse collection, leaf pickup, sidewalk snow plowing	vital
+2006627_5	311 used for reporting graffiti, road damage, and other civic issues	okay
+2006627_6	311 helps with parking meters, traffic lights, potholes, road debris	okay
+2006627_7	311 used for dead animal removal, non-working street lights	okay
+2006627_8	311 - Request for Service online or by phone	okay
+2006627_9	311 used to report animal abuse, neglect, or bites	okay
+2006627_10	311 assists with non-emergency issues when tenant can't reach landlord	okay
+2006627_11	311 connects callers to outreach workers for homeless assistance	okay
+2006627_12	311 offers summer job opportunities for youth	okay
+2007055_1	Sulfonamides treat bacterial infections	vital
+2007055_2	Sulfadiazine treats a variety of infections	vital
+2007055_3	Silver sulfadiazine treats infections in open wounds	vital
+2007055_4	Sulfasalazine (Azulfidine) treats Crohn's disease	vital
+2007055_5	Sulfamethoxazole/trimethoprim treats urinary tract infections	okay
+2007055_6	Sulfamethoxazole/trimethoprim treats bronchitis	okay
+2007055_7	Sulfamethoxazole/trimethoprim treats ear infections	okay
+2007055_8	Sulfamethoxazole/trimethoprim treats Pneumocystis jiroveci pneumonia	okay
+2007055_9	Sulfamethoxazole/trimethoprim treats traveler's diarrhea	okay
+2007055_10	Sulfamethoxazole/trimethoprim treats shigellosis	okay
+2007055_11	Sulfasalazine treats inflammatory bowel disease	okay
+2007055_12	Sulfasalazine treats rheumatoid arthritis	okay
+2007055_13	Sulfasalazine treats ulcerative colitis	okay
+2007055_14	Sulfisoxazole treats bladder infections	okay
+2007055_15	Sulfisoxazole treats ear infections	okay
+2007055_16	Sulfisoxazole treats meningitis	okay
+2007055_17	Silver sulfadiazine prevents sepsis by stopping bacterial growth	okay
+2007055_18	Sulfasalazine treats juvenile rheumatoid arthritis	okay
+2007055_19	Sulfasalazine treats lymphocytic colitis	okay
+2007055_20	Triple sulfa treats vaginal infections by Gardnerella vaginalis	okay
+2007419_1	Cold bridging is also known as thermal bridging or heat bridge.	vital
+2007419_2	Cold bridging occurs when building materials transfer heat faster than surrounding materials.	vital
+2007419_3	Cold bridging occurs at areas with higher thermal conductivity than the surrounding envelope.	vital
+2007419_4	Cold bridging results in heat transfer into or out of conditioned spaces.	okay
+2007419_5	Cold bridging can degrade a building's thermal performance significantly.	okay
+2007419_6	Cold bridging causes winter heat losses and summer heat gains in buildings.	okay
+2007419_7	Cold bridging reduces the overall thermal resistance of a building.	okay
+2007419_8	Cold bridges allow heat to escape due to less or ineffective insulation.	okay
+2007419_9	Cold bridging creates a direct connection between the outside and inside of a building.	okay
+2007419_10	Examples of cold bridges include gaps in poorly installed insulation.	okay
+2008871_1	Phylum Nematoda includes ascaris and pinworm	vital
+2008871_2	Nematoda also known as roundworms or nematodes	okay
+2008871_3	Nematodes are among the most numerous multicellular animals	okay
+2008871_4	Over 28,000 species of Nematoda identified	okay
+2008871_5	16,000 species of Nematoda are parasitic	okay
+2008871_6	Nematodes have a complete one-way digestive tract	okay
+2008871_7	Nematodes are bilaterally symmetrical	okay
+2008871_8	Nematodes have a simple body plan with a cuticle	okay
+2008871_9	Nematodes live in various environments including soil and water	okay
+2008871_10	Nematodes are pseudocoelomates with a body cavity	okay
+2009553_1	Cotswolds name derived from 'Cot' and 'Wold'	vital
+2009553_2	'Wold' is Old English for 'hills'	vital
+2009553_3	'Cot' refers to shepherd shelters	vital
+2009553_4	Cotswolds characterized by yellow limestone	okay
+2009553_5	Cotswold stone is Jurassic limestone	okay
+2009553_6	Cotswolds span five counties in England	okay
+2009553_7	Area known for medieval wool quality	okay
+2009553_8	Cotswolds have characteristic Cotswold Edge	okay
+2009553_9	Cotswold architecture features stone mullions, dripmoulds	okay
+2009871_1	Founded for religious freedom by Puritans	vital
+2009871_2	Established by English Puritan refugees in the 17th century	vital
+2009871_3	Operated as a theocracy led by Puritan religious leaders	vital
+2009871_4	Puritans sought to escape persecution from church and state	vital
+2009871_5	Intended to create a model 'City upon a Hill'	vital
+2009871_6	Founded by the Massachusetts Bay Company for like-minded Puritans	vital
+2009871_7	Massachusetts aimed to practice Puritan faith perfectly	vital
+2009871_8	Led by John Winthrop, settled in 1630	okay
+2009871_9	Part of the Great Puritan Migration	okay
+2009871_10	Settled in what is now modern day Boston and Salem	okay
+2009871_11	Electoral rights restricted to church members	okay
+2009871_12	Home to thousands of religious dissenters	okay
+2009871_13	Puritans aimed to 'purify' the Anglican Church	okay
+2009871_14	Puritans emigrated to establish a Puritan society in New England	okay
+2009871_15	Repeatedly refused establishment of Church of England	okay
+2009871_16	Puritans took their charter with them to America	okay
+2009871_17	Founded for religious and political freedom, economic investment, and education promotion	okay
+2012431_1	Get vaccinated with ERVEBO to prevent Ebola virus disease.	vital
+2012431_2	Avoid direct contact with Ebola-infected individuals.	vital
+2012431_3	Isolate infected patients immediately to prevent spread.	vital
+2012431_4	Wear protective gear when caring for infected patients.	vital
+2012431_5	Avoid unprotected contact with bodies of deceased Ebola patients.	vital
+2012431_6	Avoid contact with bodily fluids of infected persons.	vital
+2012431_7	Ensure safe and dignified burials of Ebola victims.	vital
+2012431_8	Safe handling and disposal of contaminated objects.	vital
+2012431_9	Avoid touching infected areas then touching eyes, nose, or mouth.	vital
+2012431_10	Avoid the clothing, bedding, or other items of infected individuals.	vital
+2012431_11	Follow infection-control procedures.	vital
+2012431_12	Screen travelers in regions with Ebola outbreaks to prevent cross-border spread.	vital
+2012431_13	Avoid areas of known outbreaks.	vital
+2012431_14	Wash hands frequently using soap and water.	vital
+2012431_15	Use proper cleaning and sterilization of medical equipment.	okay
+2012431_16	Implement strict quarantine measures during outbreaks.	okay
+2012431_17	Community engagement and education on Ebola prevention.	okay
+2012431_18	Monitor and trace contacts of infected individuals.	okay
+2012431_19	Avoid sexual intercourse or use a latex condom to prevent virus spread.	okay
+2012431_20	Avoid contact with bats, monkeys, chimpanzees, and gorillas in affected areas.	okay
+2012536_1	Preheat oven to 450 degrees Fahrenheit with oven-safe skillet inside	vital
+2012536_2	Season pork tenderloin steaks with salt, pepper, and optional fresh herbs	vital
+2012536_3	Transfer browned tenderloin to the hot skillet in the oven	vital
+2012536_4	Cook pork in oven at 400 degrees Fahrenheit for 10-12 minutes	vital
+2012536_5	Use ovenproof meat thermometer to check doneness	vital
+2012536_6	Marinate pork tenderloin in a resealable bag with marinade for 3 hours	okay
+2012536_7	Heat 2 tbsp of oil or butter in an ovenproof skillet on the stove	okay
+2012536_8	Brown pork tenderloin evenly on all sides in the skillet	okay
+2012536_9	Let pork rest for 5 minutes after baking, covered with foil	okay
+2012536_10	Do not cover pork tenderloin while baking	okay
+2012536_11	Cut the meat against the grain after resting	okay
+2013306_1	Gehan Homes is a home construction company	vital
+2013306_2	Operates in Houston, Dallas, Austin, San Antonio, Phoenix	vital
+2013306_3	Part of Henry U.S.A. group, along with Bloomfield Homes	okay
+2013306_4	Covers housing markets mainly in the West and South of the States	okay
+2013306_5	Offers homes like the 'Classic Series - Cornell' in Mont Belvieu, TX	okay
+2013306_6	Homes priced around $489,990 with 5 beds, 4 baths, 4,130 Sqft	okay
+2013306_7	Builds custom residences in Estrella, surrounded by the Sonoran Desert	okay
+2016333_1	Brown ground beef with taco seasoning	vital
+2016333_2	Roll out dough to 1/8 inch thick, cut into 6-inch circles	vital
+2016333_3	Place 2 tablespoons of meat filling onto half of each dough circle	vital
+2016333_4	Seal empanadas with egg wash, pinch edges to close	vital
+2016333_5	Bake at 375°F for about 20 minutes or until golden	vital
+2016333_6	Preheat oven to 375°F for baking empanadas	vital
+2016333_7	Empanadas are stuffed dough pockets, typically baked or fried	vital
+2016333_8	Mix ground beef with cheddar cheese for filling	okay
+2016333_9	Use store-bought empanada dough for quicker preparation	okay
+2016333_10	Empanadas can be made in advance and frozen for later use	okay
+2016333_11	Air fry beef empanadas at 400°F for 8 minutes	okay
+2016333_12	Ground beef empanadas include ingredients like cheddar cheese	okay
+2016333_13	Adjust seasoning of beef filling to taste	okay
+2016333_14	Empanada dough can be made from scratch or bought pre-made	okay
+2016333_15	Beef empanadas can be customized with various fillings like cheese, veggies	okay
+2017299_1	The Country Club in Brookline, Massachusetts hosts the U.S. Open in 2022	vital
+2025747_1	ICD-10 code for suicidal ideation: R45.851	vital
+2025747_2	ICD-10 code for suicide attempt: T14.91	vital
+2025747_3	HCPCS code for suicide risk assessment: G8932	vital
+2025747_4	ICD-10 code for personal history of self-harm: Z91.5	okay
+2025747_5	ICD-10 codes for intentional self-harm: X60-X84	okay
+2025747_6	Suicide deaths identified using ICD-10 codes U03, X60-X84, Y87.0	okay
+2025747_7	ICD-10-CM code changes effective annually from 10/1	okay
+2025747_8	ICD-10 implemented in HIPAA code set on 10/1/2015	okay
+2025747_9	ICD-10 is the latest classification by WHO since 1992	okay
+2025747_10	Suicidal ideation codes exempt from POA reporting	okay
+2026150_1	Secondary trauma, also known as vicarious traumatization or compassion fatigue.	vital
+2026150_2	Secondary traumatic stress results from exposure to another's traumatic experiences.	vital
+2026150_3	Secondary trauma can occur suddenly after a single exposure or cumulatively.	okay
+2026150_4	Secondary trauma affects professionals like social workers, educators, and healthcare workers.	okay
+2026150_5	Exposure can occur through direct interaction or disturbing descriptions.	okay
+2026150_6	Secondary trauma impacts neurological, physical, and psychological health.	okay
+2026150_7	Institutions should implement policies to support affected staff's well-being.	okay
+2026150_8	Common symptoms include emotional distress and PTSD-like symptoms.	okay
+2026558_1	A person who writes biographies is called a biographer.	vital
+2026558_2	Biographies are narratives of a person's life from birth to death.	okay
+2026558_3	Biographies differ from memoirs, focusing on a full life story.	okay
+2026558_4	Biographies are written by someone other than the subject.	okay
+2026558_5	Biographies can be short or long, detailing basic or extensive life facts.	okay
+2026558_6	Biographers often write posthumously to capture complete life events.	okay
+2026558_7	Biographies may include analysis of the subject's personality.	okay
+2026558_8	Biographies are considered a form of literature or film.	okay
+2027130_1	Family Child Care: defined as care for five or fewer children in provider's home	vital
+2027130_2	Family Child Care Home: care for 1 to 6 children in provider's private home	vital
+2027130_3	Childcare definition: care of children especially as a service while parents work	vital
+2027130_4	In-home child care: care provided in caregiver's home	okay
+2027130_5	Group Family Day Care Home: care for 7 to 12 children, requires two caregivers	okay
+2027130_6	Family Child Care providers must be certified to operate	okay
+2027130_7	Family Child Care Home: subject to registration or licensing by state authorities	okay
+2027130_8	Regulations: limit care to no more than six children under age eight	okay
+2027130_9	Family Day Care Homes: provide care for three to seven or eight children at a time	okay
+2027130_10	Group Child Care Home: care for seven to 15 school-age children	okay
+2027130_11	Family Child Care Home: may employ assistant when more than eight children are present	okay
+2027130_12	Child care provider: compensated for regular child care services	okay
+2027130_13	Family Child Care Home: may be eligible for childcare voucher program	okay
+2027130_14	Family Child Care Home: group size critical for child’s health, safety, development	okay
+2027497_1	Sit your toddler on the potty every 30 minutes initially	vital
+2027497_2	Increase time between potty visits to 1 hour if successful	vital
+2027497_3	Include potty breaks first thing in the morning and after meals	vital
+2027497_4	Complete one final potty mission before bed	vital
+2027497_5	Keep potty training positive, upbeat, and fun	okay
+2027497_6	Use rewards and engaging activities to make potty time enjoyable	okay
+2027497_7	Praise child for sitting on the potty independently	okay
+2027497_8	Do not force the child to sit on the potty	okay
+2027497_9	Ensure child's bowel movements are soft and regular	okay
+2027497_10	Include fluids like water to prevent constipation	okay
+2028378_1	6th Amendment guarantees jury trial in criminal cases	vital
+2028378_2	7th Amendment guarantees jury trial in civil cases over $20	vital
+2028378_3	Trial by jury used in criminal and civil cases	vital
+2028378_4	Many states guarantee jury trial in civil cases via state constitutions	vital
+2028378_5	Both parties must waive right for bench trial instead of jury trial	okay
+2028378_6	If neither party requests a jury, the case is tried by a judge	okay
+2028378_7	Jury trial right preserved under Seventh Amendment for civil cases	okay
+2028378_8	No right to jury in juvenile or military trials	okay
+2028378_9	Jury panels must represent general population demographic	okay
+2028378_10	Jury trial ensures verdict not swayed by conflicting values	okay
+2028378_11	Jury trial history traced back to Magna Carta	okay
+2028378_12	No right to jury in lawsuits seeking equitable relief	okay
+2028378_13	Civil jury verdicts do not always have to be unanimous	okay
+2028378_14	Jury size varies by state, typically 12 or 9 in civil trials	okay
+2028378_15	Jury size in criminal trials typically 12 members	okay
+2029260_1	Amazon Prime membership price increased from $79 to $99	vital
+2029260_2	Amazon Prime is criticized for how it treats its warehouse workers	vital
+2029260_3	Amazon Prime Video’s interface is integrated into Amazon's website, complicating searches	vital
+2029260_4	Amazon Prime video issues can arise from poor HDMI cable connections	vital
+2029260_5	Amazon Prime Video not working with VPN: possible fixes available	okay
+2029260_6	Student version of Prime price increased to $49	okay
+2029260_7	Amazon Prime Error Code 1060 occurs due to low bandwidth	okay
+2029260_8	Amazon Prime server issues can cause error code 5004 on multiple devices	okay
+2029260_9	Amazon Prime Error Code 9345 may be due to corrupt app data	okay
+2029260_10	Amazon Prime not working on Samsung TVs due to application errors	okay
+2029260_11	Amazon Prime video no sound issue may be due to A/V receiver being off	okay
+2029260_12	Amazon Prime account may deactivate if unused for a long time	okay
+2029260_13	Amazon Prime verification may fail due to long key entry wait times	okay
+2029260_14	Resolution of Amazon Prime issues is underway in some regions	okay
+2029260_15	Amazon has acknowledged the issue but the cause is unclear	okay
+2029260_16	ExpressVPN works with Amazon Prime, unlike some other VPNs	okay
+2029260_17	Amazon Prime includes video on demand, music streaming, and more benefits	okay
+2029260_18	Amazon Prime provides free two-day delivery and streaming services	okay
+2029260_19	Interference with Wi-Fi signal can affect Amazon Prime on Firestick	okay
+2030323_1	Mesquite is a small tree or shrub, usually armed with stout spines	vital
+2030323_2	Mesquite has an extensive root system, up to 200 feet underground	vital
+2030323_3	Mesquite grows in USDA zones 6 through 11	vital
+2030323_4	Mesquite trees fix nitrogen in the soil, improving fertility	vital
+2030323_5	Mesquite belongs to the pea family (Fabaceae)	okay
+2030323_6	Mesquite produces edible fruits called legumes, beans, or pods	okay
+2030323_7	Mesquite trees can reach heights of 20 to 30 feet	okay
+2030323_8	Over 40 species of mesquite exist	okay
+2030323_9	Common types include honey mesquite (Prosopis glandulosa), velvet mesquite (Prosopis velutina)	okay
+2030323_10	Mesquite bears flowers called 'catkins', attracting pollinating insects	okay
+2030323_11	Mesquite wood used for firewood, building; bark for baskets, fabrics	okay
+2030323_12	Mesquite leaves and gum were used as medicine by Native Americans	okay
+2030323_13	Mesquite seeds were ground into flour for food by Native Americans	okay
+2030323_14	Mesquite trees provide shade and habitat for small mammals and young cacti	okay
+2030323_15	Mesquite trees are often called Devil trees due to their invasive nature	okay
+2030323_16	Velvet Mesquite trees grow to 25 feet tall with a 35 foot spread	okay
+2030323_17	Velvet Mesquite trees have an asymmetrical shape and multiple trunks	okay
+2030323_18	Honey Mesquite trees are drought resistant and thrive in full sun	okay
+2030323_19	Honey Mesquite trees are used ornamentally and attract bees	okay
+2030323_20	Mesquite flour made from dried, ground seedpods is highly nutritious	okay
+2030608_1	Monsieur translates to 'sir', 'Mister', 'Mr.' in English	vital
+2030608_2	Originally from French 'mon sieur', meaning 'my lord'	vital
+2030608_3	Used formally as a title equivalent to 'Mr.'	vital
+2030608_4	Can be used alone in French to mean 'sir' or 'gentleman'	vital
+2030608_5	Historically used to address the eldest living brother of the French king	vital
+2030608_6	Plural form is 'messieurs', abbreviated as 'Messrs'	okay
+2030608_7	Pronounced 'muh-syuhr' in French	okay
+2030608_8	Used in various formal and informal contexts	okay
+2030608_9	Messrs can indicate multiple gentlemen or companies	okay
+2030608_10	Also known as Monsieur de Paris, the public executioner	okay
+2030608_11	Used without a name as a polite reference in third person	okay
+2030608_12	Customarily impolite to use with a family name from inferior to superior	okay
+2030608_13	No marital status implication unlike 'Mademoiselle'	okay
+2030608_14	First notably applied to François, duc d’Alençon in 1576	okay
+2031726_1	Vaginal yeast infections primarily caused by Candida albicans	vital
+2031726_2	Antifungal creams or oral tablets are common treatments for yeast infections	vital
+2031726_3	Fluconazole treats long-lasting yeast infections effectively	vital
+2031726_4	Single-dose antifungal medicines treat yeast infections effectively	vital
+2031726_5	Diagnosing yeast infections is best done by a doctor	vital
+2031726_6	A physical examination is standard for yeast infection diagnosis	vital
+2031726_7	Common symptoms of vaginal yeast infection include itching and white, creamy discharge	vital
+2031726_8	Antibiotics can cause yeast infections by affecting good bacteria	vital
+2031726_9	Yeast infection is also known as candidiasis	vital
+2031726_10	Nizoral and Diflucan are common medications for treating yeast infections	vital
+2031726_11	Long-term antibiotic use can lead to yeast overgrowth	vital
+2031726_12	A potassium hydroxide test confirms yeast infection diagnosis	vital
+2031726_13	Candida auris is a multidrug-resistant yeast causing high mortality	okay
+2031726_14	C. auris strains resistant to all major antifungal classes	okay
+2031726_15	Boric acid is usually effective for treating Candida albicans infections	okay
+2031726_16	Three out of every four women will experience vaginal candidiasis	okay
+2031726_17	Natural remedies are preferred by many for yeast infections	okay
+2031726_18	Homeopathic treatments identified as effective for yeast infections	okay
+2031726_19	Nystatin 500,000 unit Tablets may be prescribed for treatment	okay
+2031726_20	Both men and women can get yeast infections	okay
+2032090_1	Consider safety and well-being as a priority	vital
+2032090_2	Communicate openly about feelings and boundaries	vital
+2032090_3	Seek professional help or counseling	vital
+2032090_4	Set clear personal and relationship boundaries	vital
+2032090_5	Reassess the relationship if possessiveness persists	vital
+2032090_6	Recognize signs of emotional or psychological abuse	vital
+2032090_7	Promote mutual respect and understanding	vital
+2032090_8	Understand the root causes of possessiveness	okay
+2032090_9	Encourage partner to work on trust issues	okay
+2032090_10	Stay aware of excessive control or jealousy	okay
+2032090_11	Maintain social connections outside the relationship	okay
+2032090_12	Avoid behaviors that escalate possessiveness	okay
+2032949_1	Perimeter is the distance around the outside of a 2-D shape	vital
+2032949_2	Circumference is the perimeter of a circle	vital
+2032949_3	Exterior is the outside area of any geometric shape	vital
+2032949_4	Perimeter is measured by adding the lengths of all sides of the shape	okay
+2032949_5	Perimeter applies to both standard and complex geometric shapes	okay
+2032949_6	Faces are the outside surfaces of a 3D shape	okay
+2032949_7	Edges are where two faces of a 3D shape meet	okay
+2032949_8	Vertices are the corners of a 3D shape where edges meet	okay
+2032956_1	Saturn V cost about $1.16 billion per launch in today's dollars	vital
+2032956_2	Total R&D and flights cost for Saturn V was $6.417 billion (1964-1973)	vital
+2032956_3	Saturn V individual production cost was $110 million	vital
+2032956_4	Equivalent to $41.4 billion in 2016 for total R&D and flights	okay
+2032956_5	Individual production cost in current dollars approximately $565 million	okay
+2032956_6	Saturn V flew 13 times, including 2 unmanned and 1 Skylab mission	okay
+2032956_7	Saturn V was a super heavy-lift launch vehicle used by NASA (1967-1973)	okay
+2032956_8	Saturn V consisted of three stages, each fueled by liquid propellants	okay
+2033232_1	Canada's immigration website crashed after Trump's victory	vital
+2033232_2	Many celebrities promised to leave the US if Trump was elected	vital
+2033232_3	28% of Americans considered moving to Canada if Trump won	okay
+2033232_4	Whoopi Goldberg threatened to move if Trump was elected	okay
+2033232_5	Miley Cyrus vowed to leave the US if Trump became president	okay
+2033232_6	Jon Stewart considered leaving Earth if Trump won	okay
+2033396_1	Unresponsiveness is not reacting or responding to actions, questions, or stimuli.	vital
+2033396_2	Unresponsive individuals do not respond to any outside stimuli.	vital
+2033396_3	Unresponsive means not reacting normally when touched or spoken to.	vital
+2033396_4	Unresponsive wakefulness: not reacting suitably to verbal or physical stimuli.	vital
+2033396_5	Unresponsiveness may show delayed responses to external stimuli like sound or touch.	vital
+2033396_6	Unresponsiveness can indicate severe medical conditions.	okay
+2033396_7	Unconsciousness often leads to unresponsiveness.	okay
+2033396_8	Unresponsiveness may be due to unconsciousness.	okay
+2033396_9	Unresponsive does not always mean unconscious.	okay
+2033396_10	Unconscious individuals are always unresponsive.	okay
+2033396_11	Comatose patients do not awaken with stimulation.	okay
+2033396_12	Unresponsive Wakefulness Syndrome: vegetative state without awareness signs.	okay
+2033396_13	Persistent vegetative state: no awareness, minimal mental activity.	okay
+2033396_14	Unresponsiveness can be caused by narcotics or intoxicants.	okay
+2033396_15	Emotional unresponsiveness: lack of understanding others' viewpoints.	okay
+2033396_16	Orofacial unresponsiveness: inability to perform certain facial movements.	okay
+2033470_1	Cities near Weeki Wachee Springs include Spring Hill, Brooksville	vital
+2033470_2	Other nearby cities: Timber Pines, North Weeki Wachee, Ridge Manor	vital
+2033470_3	Brookridge, Hernando Beach, North Brooksville, Hill 'n Dale, South Brooksville are also close	vital
+2033470_4	Surrounding communities include Hernando Beach, Aripeka, Hudson, Homosassa, Port Richey	vital
+2033470_5	New Port Richey is 24 miles southwest of Weeki Wachee	vital
+2033470_6	Weeki Wachee Springs is north of Tampa and Clearwater, Florida	okay
+2033470_7	Weeki Wachee Springs is a tourist attraction with a mermaid show	okay
+2033470_8	Weeki Wachee Springs has an official population of only a dozen people	okay
+2033470_9	Weeki Wachee Springs is in Hernando County, Florida	okay
+2033470_10	Hernando County is part of the Tampa-St. Petersburg-Clearwater metro area	okay
+2033470_11	Hudson Beach is 15 miles southwest of Weeki Wachee	okay
+2033470_12	Clearwater and Clearwater Beach are near Weeki Wachee	okay
+2034205_1	Magnolia bark dosage for anxiety: 150-400 mg daily	vital
+2034205_2	Magnolia bark helps reduce anxiety, stress, and improves sleep	vital
+2034205_3	Discuss with your doctor for personalized dosage recommendations	vital
+2034205_4	Maximum recommended dose of magnolia bark: 450 mg/day	okay
+2034205_5	Active compounds in magnolia bark are magnolol and honokiol	okay
+2034205_6	Magnolia bark has anti-inflammatory properties	okay
+2034205_7	Magnolia bark traditionally used against stress and anxiety	okay
+2034205_8	Magnolia bark promotes feelings of well-being	okay
+2034205_9	Magnolia bark is not FDA approved; doses are based on trial and error	okay
+2034205_10	Honokiol as effective as Valium for anxiety with fewer side effects	okay
+2034205_11	Results can vary based on the magnolia bark extract used	okay
+2034205_12	Taking magnolia bark with sedatives may cause excessive drowsiness	okay
+2034205_13	Avoid magnolia bark during pregnancy and with kidney disease	okay
+2034205_14	Interactions with blood thinners like aspirin may increase bleeding risk	okay
+2034676_1	Kings Grant Fayetteville population in 2000 was 2146	vital
+2034676_2	Liberty Hills Fayetteville population in 2000 was 391	vital
+2034676_3	Fayetteville population in 2011 was 205,678	okay
+2034676_4	Fayetteville is the sixth-largest municipality in North Carolina	okay
+2034676_5	Fayetteville metropolitan area population is 374,157	okay
+2034676_6	Fayetteville population density is 532% higher than North Carolina	okay
+2034676_7	Median age in Fayetteville is 20% lower than North Carolina	okay
+2034676_8	45.84% of Fayetteville population is White	okay
+2034676_9	41.98% of Fayetteville population is Black	okay
+2034676_10	11.6% of Fayetteville population is Hispanic or Latino	okay
+2034676_11	Fayetteville is in Cumberland County, North Carolina	okay
+2034676_12	Liberty Hill's cost of living is 17.2% higher than U.S. average	okay
+2035009_1	The Chantels sang 'Maybe' in 1957	vital
+2035009_2	Thomas Michael Pace sang 'Maybe' as a theme for 'The Life and Times of Grizzly Adams'	vital
+2035009_3	The Ink Spots sang 'Maybe' in the intro of Fallout	vital
+2035009_4	Wilson Pickett recorded 'Maybe' in 1965	vital
+2035009_5	Kenny Rogers' 'Maybe' hit in 1990	vital
+2035009_6	'Maybe' marked the beginning of girl groups' commercial success	okay
+2035009_7	'Maybe' is a signature doo-wop song	okay
+2035009_8	The Chantels were high school students at St. Anthony of Padua	okay
+2035009_9	Juice WRLD recorded an unreleased track titled 'Maybe'	okay
+2035009_10	Janis Joplin covered 'Maybe'	okay
+2035009_11	The Three Degrees covered 'Maybe' in 1970	okay
+2035009_12	John Frusciante performed 'Maybe' live	okay
+2035009_13	Coco Lee released a Mandarin cover of 'Maybe'	okay
+2035009_14	DJ Regard remixed 'Maybe' in 2019	okay
+2035447_1	Average daily expense in Bangkok is $104	vital
+2035447_2	Monthly cost in Bangkok ranges from $600 to $3000	vital
+2035447_3	Average monthly expense in Bangkok is $554	vital
+2035447_4	1 night in Bangkok costs $10 to $22	vital
+2035447_5	Luxury living in Bangkok costs up to $5000 per month	okay
+2035447_6	3-star hotel costs $25 per night on average	okay
+2035447_7	4-star hotel costs $36 per night on average	okay
+2035447_8	5-star hotel costs $86 per night on average	okay
+2035447_9	Western-style apartment costs $400 per month	okay
+2035447_10	Luxury apartments in central Bangkok cost $775 to $1355 per month	okay
+2035447_11	One-bedroom downtown apartment costs $440 to $745 per month	okay
+2035447_12	Meal for two at a food court costs $4-5	okay
+2035447_13	Local bus fare in Bangkok is $0.22 per trip	okay
+2035447_14	Metro and Skytrain fares range from $0.45 to $1.50 per trip	okay
+2035447_15	Metered taxi rides cost $1.80 to $3 each	okay
+2035447_16	Tuk-tuk rides cost $3 to $7.06 each	okay
+2035447_17	Meal at an average Thai restaurant costs around $2.10 per person	okay
+2035447_18	Hostel near the airport costs $22 per night	okay
+2035447_19	Average Thai citizens live on less than $256 per month	okay
+2035565_1	duped: deceived or tricked	vital
+2035565_2	duped: involves intentional misrepresentation	okay
+2035565_3	duped: often used in context of scams or tricks	okay
+2035565_4	duped: related to acts of deceit or trickery	okay
+2036182_1	Nearly 155,000 Instagram images tagged with #unicornfrappuccino	vital
+2036182_2	Starbucks introduced the drink with a hashtag #unicornfrappuccino	vital
+2036182_3	Unicorn Frappuccino was available for only five days	okay
+2036182_4	Starbucks' Unicorn Frappuccino sold out quickly in many stores	okay
+2036182_5	Customers complained on social media about not getting the drink	okay
+2036182_6	Starbucks is the most pictured food and beverage brand on Instagram	okay
+2036968_1	Consult your doctor if nausea persists or worsens	vital
+2036968_2	Take antibiotics with food to minimize nausea	vital
+2036968_3	Take anti-nausea medications like promethazine or prochlorperazine	vital
+2036968_4	Report any severe side effects to your healthcare provider immediately	vital
+2036968_5	Avoid taking antibiotics on an empty stomach	vital
+2036968_6	Consult a doctor for severe cases requiring anti-emetic medication	vital
+2036968_7	Drink plenty of water with antibiotics to reduce nausea	okay
+2036968_8	Include probiotic-rich foods like yogurt in your diet	okay
+2036968_9	Consider using probiotics to alleviate nausea	okay
+2036968_10	Eat small, frequent meals to help reduce nausea	okay
+2036968_11	Avoid lying down for 30 minutes after taking antibiotics	okay
+2036968_12	Consume foods that are cold or room temperature if nauseated by smells	okay
+2036968_13	Eat slowly to prevent nausea	okay
+2036968_14	Try ginger tea to alleviate nausea	okay
+2036968_15	Try herbal remedies like ginger or peppermint tea	okay
+2036968_16	Consider taking probiotics after finishing antibiotics	okay
+2037251_1	NBA Finals 2020 averaged 7.49 million viewers	vital
+2037251_2	2020 NBA Playoffs averaged 3.04 million viewers	vital
+2037251_3	800 million people in China watched NBA content in 2017-2018 season	vital
+2037251_4	500 million fans watched NBA programming on Tencent in 2018-19 season	okay
+2037251_5	21 million fans watched Game 6 of the 2019 NBA Finals	okay
+2037251_6	NBA on ABC in 2013 had 3.6 million viewers	okay
+2037251_7	NBA ESPN and TNT average 2 million viewers per game	okay
+2037251_8	Regular season NBA games averaged 1.99 million viewers on ESPN and ABC	okay
+2037251_9	ESPN's NBA coverage averages 1.84 million viewers	okay
+2037251_10	NBA TV averages 392,000 viewers per game	okay
+2037251_11	NBA average attendance per match is 17,500	okay
+2037251_12	NBA playoffs are more watched than regular season	okay
+2037251_13	NBA season watched more than NCAA except during March Madness	okay
+2037251_14	NBA Finals viewership exceeds World Series viewership	okay
+2037251_15	NBA Finals 5-game average had a 9.3 rating	okay
+2037609_1	Unstop: to remove an obstruction; unclog	vital
+2037609_2	Unstopping a toilet doesn't always require a plunger	vital
+2037609_3	Unstop synonyms: clear out, unblock, rid, open, free, remove, void, empty, clean out	okay
+2037609_4	Unstop antonyms: block, blockade, barricade, close off, clog, plug up	okay
+2037609_5	Unstop used in context of ears, drains, and arteries	okay
+2037609_6	Unstopping involves regaining pressure balance in ears	okay
+2037609_7	Unstopping a drain can be done with home remedies	okay
+2037609_8	Unstopping may require removing a plug or stopper	okay
+2037609_9	Unstopping can be necessary for appliances and drains	okay
+2037609_10	Unstopping is a common household task	okay
+2037609_11	Unstopping can prevent holiday blunders with disposals	okay
+2037609_12	Unstopping techniques vary based on the severity of the clog	okay
+2037924_1	Hearts of palm can be added to salads	vital
+2037924_2	Hearts of palm are excellent both raw and cooked	vital
+2037924_3	Hearts of palm can be used as a meat substitute in vegan dishes	vital
+2037924_4	Hearts of palm can be used in vegan crab cakes	vital
+2037924_5	Hearts of palm can be used in shredded heart of palm tacos	vital
+2037924_6	Hearts of palm can be used in vegan lobster rolls	okay
+2037924_7	Hearts of palm can be sautéed for taco fillings	okay
+2037924_8	Hearts of palm can be used as a low carb pasta substitute	okay
+2037924_9	Hearts of palm can be transformed into dips	okay
+2037924_10	Hearts of palm can be added to pasta dishes	okay
+2037924_11	Hearts of palm can be used as a vegan substitute for crab or lobster	okay
+2037924_12	Hearts of palm can be made into crabless cakes	okay
+2037924_13	Hearts of palm can be grilled and seasoned as an appetizer	okay
+2037924_14	Hearts of palm can be eaten on its own	okay
+2037924_15	Hearts of palm can be used as a substitute for artichokes in hot cheesy dips	okay
+2037924_16	Hearts of palm can be seasoned with Old Bay for a seafood-like flavor	okay
+2037924_17	Hearts of palm can be prepared with eggs and vegetables in casseroles	okay
+2037924_18	Hearts of palm can be used in cooked dishes like stir-fries	okay
+2037924_19	Hearts of palm can be used in fresh salsas	okay
+2037924_20	Hearts of palm can be sliced and added to pizza toppings	okay
+2038466_1	Contact the court clerk where the restraining order was filed.	vital
+2038466_2	Restraining orders appear on background checks for firearms.	vital
+2038466_3	Restraining orders may not show up on standard background checks.	vital
+2038466_4	Restraining orders are public records accessible at courthouses.	okay
+2038466_5	Check the court file to see if the restraining order has expired or was renewed.	okay
+2038466_6	Restraining orders require the restrained person to be served with papers.	okay
+2038466_7	A court hearing is required to finalize a restraining order.	okay
+2038466_8	Court clerks handle the filing of restraining order forms.	okay
+2038466_9	If the victim does not attend the hearing, the judge may still issue the order.	okay
+2038466_10	To enforce a restraining order, notify the court or swear out a warrant.	okay
+2038466_11	Restraining orders can demand no contact and avoidance of certain places.	okay
+2038466_12	Violations of restraining orders should be reported to the police immediately.	okay
+2038466_13	Restraining orders can be civil and may not appear on criminal checks.	okay
+2038466_14	Employers may find restraining orders in thorough background checks.	okay
+2038466_15	Restraining orders can be expunged if not violated and expired.	okay
+2038890_1	Syracuse Law ranked 102nd by USNWR in 2022	vital
+2038890_2	Syracuse Law's trial advocacy program ranked 11th in 2022	okay
+2038890_3	Bar pass rate of Syracuse Law is 91.4%	okay
+2038890_4	Syracuse Law part of Syracuse University, New York	okay
+2038890_5	Syracuse Law offers a Juris Doctor degree	okay
+2038890_6	Syracuse Law ranked #33 in bar passage rate	okay
+2038890_7	Syracuse Law ranked #52 in highest tuition ($51,422)	okay
+2038890_8	Syracuse Law ranked #56 in library size	okay
+2038890_9	Syracuse Law ranked #76 in employment at graduation	okay
+2038890_10	Syracuse Law ranked #79 in employment ten months after graduation	okay
+2038890_11	Syracuse Law ranked #97 in presence of minority faculty	okay
+2038890_12	Syracuse Law ranked #103 in presence of minority students	okay
+2038890_13	Syracuse Law ranked #117 in median undergraduate GPA	okay
+2038890_14	Syracuse Law ranked #119 in acceptance rate	okay
+2038890_15	Syracuse Law ranked #122 in median starting salary in private sector	okay
+2038890_16	Syracuse Law ranked #128 in median starting salary in public sector	okay
+2038890_17	Syracuse Law ranked #134 in presence of female faculty	okay
+2038890_18	Syracuse Law ranked #147 in student to faculty ratio	okay
+2039908_1	A baby nurse is also known as a newborn care specialist	vital
+2039908_2	Baby nurses may or may not be licensed or registered nurses	okay
+2039908_3	Baby nurses help new parents with newborn care at home	okay
+2039908_4	Baby nurses typically work overnight shifts	okay
+2039908_5	Baby nurses are hired for a few weeks to months	okay
+2039908_6	Baby nurses assist with feedings, diaper changes, and baths	okay
+2039908_7	Baby nurses support parents during the first few weeks after birth	okay
+2039908_8	Neonatal nurses care for sick or premature infants	okay
+2039908_9	Neonatal nurses may work in neonatal intensive care units (NICUs)	okay
+2039908_10	Neonatal nurse practitioners have additional training to assist neonatologists	okay
+2039908_11	Neonatal nurses teach parents newborn care	okay
+2039908_12	Neonatal nurses support women during labor and provide care for newborns	okay
+2040287_1	Now means 'at the present time' or 'at this moment'	vital
+2040287_2	Now also means 'immediately' or 'without further delay'	vital
+2040287_3	Now: the present moment or time	vital
+2040287_4	Now commonly used as an adverb of time	vital
+2040287_5	'As of now' emphasizes the present situation	vital
+2040287_6	Now is logical, not temporal, in philosophical contexts	vital
+2040287_7	Latin word 'nunc' translates to 'now' in English	vital
+2040287_8	Now refers to the very recent past, as in 'just now'	okay
+2040287_9	Now used in the context of current circumstances or conditions	okay
+2040287_10	Now and then: occasionally; on and off	okay
+2040287_11	For now: for the time being	okay
+2040287_12	Now used to introduce a command, reproof, or request	okay
+2040287_13	Now indicates a change of subject or to preface a remark	okay
+2040287_14	Now that: used to indicate a condition or reason	okay
+2040287_15	Now can express urgency, as in 'Now listen!'	okay
+2040287_16	Now used for emphasis in commands or dismissals	okay
+2040287_17	Now now!: an exclamation used to rebuke or pacify	okay
+2040287_18	Now then: used to preface an important remark or next step	okay
+2040287_19	Now used before or after imperative clauses	okay
+2040287_20	Any minute/moment/second/time now indicates something happening very soon	okay
+2040352_1	2021 Chevrolet Suburban curb weight ranges from 5,616 to 6,016 lbs	vital
+2040352_2	2020 Chevrolet Suburban curb weight is 5,845 pounds	vital
+2040352_3	2019 Chevrolet Suburban curb weight ranges from 5,586 to 5,808 lbs	vital
+2040352_4	2018 Chevrolet Suburban curb weight ranges from 5,586 to 5,808 lbs	vital
+2040352_5	2017 Chevrolet Suburban curb weight ranges from 5,586 to 5,822 lbs	vital
+2040352_6	2016 Chevrolet Suburban curb weight ranges from 5,586 to 5,808 lbs	vital
+2040352_7	2011 Chevrolet Suburban curb weight ranges from 4,548 to 5,606 lbs	vital
+2040352_8	2015 Chevrolet Suburban curb weight ranges from 3,934 to 4,575 lbs	okay
+2040352_9	2014 Chevrolet Suburban curb weight ranges from 3,961 to 4,450 lbs	okay
+2040352_10	2013 Chevrolet Suburban curb weight ranges from 3,961 to 4,450 lbs	okay
+2040352_11	2012 Chevrolet Suburban curb weight ranges from 3,961 to 4,450 lbs	okay
+2040352_12	2010 Chevrolet Suburban curb weight ranges from 4,519 to 5,535 lbs	okay
+2040352_13	2009 Chevrolet Suburban curb weight ranges from 4,525 to 5,612 lbs	okay
+2040352_14	2008 Chevrolet Suburban curb weight ranges from 4,514 to 6,438 lbs	okay
+2040352_15	2007 Chevrolet Suburban curb weight ranges from 4,183 to 4,418 lbs	okay
+2040352_16	2006 Chevrolet Suburban curb weight ranges from 4,146 to 4,418 lbs	okay
+2040352_17	2005 Chevrolet Suburban curb weight ranges from 3,838 to 4,252 lbs	okay
+2040613_1	Redirected police funds to San Francisco's African-American community	vital
+2040613_2	Police no longer respond to non-criminal calls under her leadership	vital
+2040613_3	Launched pilot program for basic income to pregnant Black and Pacific Islander women	vital
+2040613_4	Advocated for equity in COVID response	vital
+2040613_5	Called for schools to reopen to address educational inequities	vital
+2040613_6	Announced reopening plans and capacity expansions amid COVID-19	vital
+2040613_7	Implemented fee waivers to support local businesses during COVID-19	vital
+2040613_8	First African-American woman Mayor in San Francisco's history	okay
+2040613_9	Implemented strict COVID-19 lockdown measures based on public health advice	okay
+2040613_10	Created Shared Spaces Program to support local businesses and neighborhood activity	okay
+2040613_11	Launched Rising Up initiative for homeless young people	okay
+2040613_12	Announced MyCitations to help with traffic court debt	okay
+2040613_13	Elected to San Francisco Board of Supervisors in 2012	okay
+2040613_14	Became President of the Board of Supervisors in 2015	okay
+2040613_15	Party affiliation: Democrat	okay
+2040613_16	Inspired by leaders like Kamala Harris	okay
+2040613_17	Fought for $47.3 million funding for emergency services	okay
+2040613_18	Supported Regional Measure 3 for transit improvements	okay
+2040613_19	Revived CleanPowerSF for sustainable energy	okay
+2040613_20	Declared November as Transgender Awareness Month	okay
+2043895_1	Need-based theories focus on satisfying physiological to emotional needs.	vital
+2043895_2	Process theories include equity, expectancy, and goal-setting theories.	vital
+2043895_3	Content theories define motives, process theories explain motivational effects.	vital
+2043895_4	Maslow's Hierarchy of Needs starts with physiological needs.	vital
+2043895_5	Physiological needs are basic for survival: air, food, sleep, sex.	vital
+2043895_6	Unsatisfied needs influence behavior, satisfied needs do not.	vital
+2043895_7	Alderfer's ERG Theory categorizes needs into existence, relatedness, growth.	okay
+2043895_8	Vroom's Expectancy Theory focuses on outcomes and rewards.	okay
+2043895_9	Maslow's hierarchy progresses to safety, love, esteem, self-actualization.	okay
+2043895_10	Herzberg's Two-Factor Theory distinguishes between hygiene factors and motivators.	okay
+2043895_11	McClelland's Need Theory emphasizes power, achievement, affiliation.	okay
+2043895_12	Frederick Taylor's theory states workers are motivated by pay.	okay
+2043895_13	Expectancy theory links effort, performance, and rewards to motivation.	okay
+2043895_14	Incentive Theory differentiates between intrinsic and extrinsic motivation.	okay
+2043895_15	Self-determination theory focuses on autonomy and social context influences.	okay
+2043895_16	Humanistic theories focus on self-actualization and personal growth.	okay
+2043895_17	Temporal Motivation Theory emphasizes the impact of deadlines.	okay
+2043895_18	Motivational intensity theory links attention scope to motivational levels.	okay
+2043895_19	Internalist theory suggests beliefs alone can motivate actions.	okay
+2043895_20	Motivated desire theory relates moral actions to beliefs and desires.	okay
+2044423_1	Employer-paid short-term disability payments are reported on W-2	vital
+2044423_2	Enter short-term disability wages on Form 1040 line 7	vital
+2044423_3	Short-term disability for maternity may be reported on a W-2	vital
+2044423_4	Short-term disability payments are considered part of your salary	okay
+2044423_5	Wages in W-2 box 1 are taxable and must be reported to IRS	okay
+2044423_6	Wages in W-2 box 12a with 'J' code are not taxable	okay
+2044423_7	If no figure in W-2 box 1, no need to file short-term disability income	okay
+2044423_8	Form 1099-G is for government payments, not short-term disability	okay
+2045272_1	Lead in paint can cause brain damage, seizures, and death	vital
+2045272_2	Toxic fumes from paints can lead to respiratory problems and cancer	vital
+2045272_3	Volatile Organic Compounds in paint cause headaches, dizziness, and nausea	vital
+2045272_4	Oil-based paints emit harmful vapors classified as hazardous waste	vital
+2045272_5	Painting can be a fire/explosion hazard due to volatile chemicals	vital
+2045272_6	Cadmium, lead, chromium in paint pigments are hazardous	vital
+2045272_7	Skin irritations, burns, eye injuries, and blindness from paint contact	vital
+2045272_8	Exposure to paint vapors can trigger allergic reactions	vital
+2045272_9	Direct skin contact with paint can cause allergies	vital
+2045272_10	Limit exposure to paint during pregnancy to avoid health risks	vital
+2045272_11	Isocyanides in epoxy paint cause occupational asthma and lung inflammation	vital
+2045272_12	Continuous inhalation of epoxy paint fumes is hazardous	vital
+2045272_13	Construction workers face hazards from toxic paints and chemicals	vital
+2045272_14	Lead exposure risks include miscarriage and developmental issues in children	okay
+2045272_15	Paint fumes pose higher risks for pregnant women and young children	okay
+2045272_16	Oil-based paint exposure can cause symptoms from itchiness to coma and death	okay
+2045272_17	Paint solvents and VOCs are harmful when inhaled	okay
+2045272_18	Proper ventilation and filtration masks are crucial when painting indoors	okay
+2045272_19	Spray paint cans can explode	okay
+2045272_20	Hazardous substances in paint are labeled with symbols	okay
+2046371_1	Small intestine divided into duodenum, jejunum, ileum	vital
+2046371_2	Duodenum receives food, bile, and pancreatic juices	vital
+2046371_3	Jejunum absorbs proteins, carbohydrates, vitamins, minerals	vital
+2046371_4	Ileum absorbs vitamin B12, bile salts, remaining digestion products	vital
+2046371_5	Small intestine functions regulated by endocrine, paracrine hormones, neural transmitters	vital
+2046371_6	Duodenum absorbs iron, calcium, some minerals, neutralizes stomach acid	okay
+2046371_7	Jejunum specializes in nutrient absorption, contains numerous villi	okay
+2046371_8	Jejunum and ileum increase surface area with folds for enhanced nutrient transfer	okay
+2046371_9	Pancreatic enzymes in duodenum break down fats, proteins, carbohydrates	okay
+2046371_10	Duodenum is the first, C-shaped section around the pancreas	okay
+2046371_11	Jejunum is about 0.9 meters long, runs from duodenum to ileum	okay
+2046371_12	Ileum is the final and longest segment of the small intestine	okay
+2049417_1	'Paix' is the French word for peace.	vital
+2049687_1	Vaccinate against rhinitis, erysipelas, mycoplasma, and pneumonia	vital
+2049687_2	Vaccinate show piglets with Rhini Shield TX4 for multiple protections	vital
+2049687_3	Vaccinate against diamond skin disease and use Ivomectin for parasites	vital
+2049687_4	Vaccination from 6 weeks can prevent Erysipelas arthritis	vital
+2049687_5	Vaccinate only healthy pigs; avoid vaccinating sick pigs	vital
+2049687_6	Vaccination schedule begins at about a week old	okay
+2049687_7	Consult your veterinarian before administering any injection	okay
+2049687_8	FarrowSure GOLD B protects against E. rhusiopathiae up to 18 weeks post-vaccination	okay
+2049687_9	Vaccinate gilts and sows against E. coli/ Clostridial disease	okay
+2049687_10	Annual vaccination of backyard pigs against common diseases recommended	okay
+2049687_11	Vaccinate breeding stock and young pigs against common diseases	okay
+2049687_12	Vaccinate all breeding stock against Erysipelas	okay
+2049687_13	Vaccines available are safe, effective, and cheap	okay
+2049687_14	Use a 5ml syringe and a short 19- or 20-gauge needle for vaccination	okay
+2049687_15	Monitor piglet mortality rates to evaluate vaccination effectiveness	okay
+2053884_1	Items in the home still belong to the borrower after foreclosure.	vital
+2053884_2	Personal property must be removed or disposed of by the homeowner.	vital
+2053884_3	Fixtures affixed to the property cannot be removed by the homeowner.	vital
+2053884_4	If personal property is left behind, new owners must store it temporarily.	vital
+2053884_5	Sheriff may physically remove belongings if not vacated after notice.	vital
+2053884_6	Foreclosed homes are often vandalized or stripped by thieves.	okay
+2053884_7	Former owners may damage the property before leaving.	okay
+2053884_8	Homeowners may strip homes of fixtures and appliances before foreclosure.	okay
+2053884_9	Foreclosed homes may face break-ins and theft if left empty.	okay
+2053884_10	Banks may auction the home post-foreclosure to regain funds.	okay
+2053884_11	Move-out incentives may be available from lenders.	okay
+2053884_12	Foreclosure involves evaluating property condition and repair costs.	okay
+2054355_1	Chicken by-product meal boosts protein content in pet food	vital
+2054355_2	High in protein and amino acids for muscle maintenance	vital
+2054355_3	Chicken by-product meal is a source of low-quality protein	vital
+2054355_4	Provides chondroitin and glucosamine for joint health	okay
+2054355_5	Can include nutritious items like liver and kidney	okay
+2054355_6	Contains parts like necks, feet, undeveloped eggs, intestines	okay
+2054355_7	Considered a lower quality, inexpensive ingredient	okay
+2054355_8	Environmental benefits from utilizing otherwise discarded parts	okay
+2054355_9	Quality of by-product meal varies per batch	okay
+2054355_10	Used due to its availability from non-human-consumed chicken parts	okay
+2055211_1	Cats are naturally more active at night due to their predatory instincts.	vital
+2055211_2	Cats may become more active at night due to daytime inactivity or owner absence.	vital
+2055211_3	Boredom from lack of stimulation leads to nocturnal activity in cats.	vital
+2055211_4	Cats may be restless at night if not exercised enough during the day.	vital
+2055211_5	Nighttime restlessness in cats can indicate medical issues like hyperthyroidism or heart disease.	okay
+2055211_6	Behavioral changes at night might suggest underlying medical issues such as pain or respiratory disease.	okay
+2055211_7	Senior cats may experience restlessness due to conditions like dementia or vision loss.	okay
+2055211_8	Environmental enrichment during the day can reduce nighttime restlessness in cats.	okay
+2055211_9	Training and daytime play can encourage nighttime sleep in cats.	okay
+2055211_10	Night behaviors in cats can include excessive meowing and furniture damage.	okay
+2055211_11	Cats may cry at night due to unmet energy needs or health issues.	okay
+2055211_12	Nighttime restlessness can be a side effect of medications in cats.	okay
+2055211_13	Altering a cat's schedule can help match the owner's sleeping schedule.	okay
+2055211_14	Stress and multi-cat competition can cause restlessness.	okay
+2055211_15	Vocalization at night may indicate distress or cognitive dysfunction in cats.	okay
+2055211_16	Even mild ailments like toothaches can cause restlessness in cats.	okay
+2055211_17	Underlying health issues like feline cognitive decline can cause restlessness.	okay
+2055211_18	Cats in heat may pace restlessly due to discomfort.	okay
+2055211_19	Anxiety or insecurity can cause cats to be noisy at night.	okay
+2055211_20	Cats may wake up at night due to pain or the need to urinate.	okay
+2055480_1	3 per 1,000 per year in the United States for corneal abrasions	vital
+2055480_2	80% of eye trauma cases are corneal abrasions or foreign bodies	vital
+2055480_3	Corneal abrasions account for 10% of new emergency department eye patients	okay
+2055480_4	Corneal abrasions represent 8% of serious eye injuries requiring medical attention	okay
+2055480_5	25% of corneal abrasions occur at work	okay
+2055480_6	Boys get corneal abrasions twice as often as girls ages 5-15	okay
+2055480_7	Corneal abrasion increases risk of serious eye infection	okay
+2055480_8	Contact lens wearers at higher risk of infected abrasions	okay
+2055480_9	More males than females treated for corneal abrasions	okay
+2055480_10	Baseball and basketball lead in sports-related eye injuries	okay
+2055480_11	Annual incidence of 15 eye injuries per 1000 in major US corporation	okay
+2055480_12	Highest eye injury rates among automotive workers aged 20-29	okay
+2055634_1	Recommended video format for PowerPoint 2013 and above: MP4 (H.264, AAC audio).	vital
+2055634_2	PowerPoint 2016 supports MP4 and MKV formats.	vital
+2055634_3	PowerPoint 2013 – AVI, MP4, M4V, MOV, MPG, MPEG, SWF, WMV.	vital
+2055634_4	PowerPoint 2010 – SWF, AVI, MPG, MPEG, WMV, MP4, MOV (with QuickTime).	vital
+2055634_5	PowerPoint 2007 – AVI, MPG, MPEG, WMV.	vital
+2055634_6	PowerPoint supports embedding YouTube videos with an internet connection.	okay
+2055634_7	For PowerPoint 2010 and below, use WMV format for videos.	okay
+2055634_8	Unsupported video formats cause media playback issues in PowerPoint.	okay
+2055634_9	Ensure videos and presentations are in the same folder to avoid link issues.	okay
+2055634_10	PowerPoint allows video playback customization within the presentation.	okay
+2055795_1	'Good to Great' by Jim Collins explores transitioning companies to excellence.	vital
+2055795_2	Jim Collins introduces 'Level 5 Leadership' as crucial in 'Good to Great'.	vital
+2055795_3	'Good to Great' emphasizes disciplined people, thought, and action for greatness.	vital
+2055795_4	The Hedgehog Concept is a key strategy in 'Good to Great'.	vital
+2055795_5	The book introduces new management concepts like the Culture of Discipline.	vital
+2055795_6	'Good to Great' framework includes Process, Phases, & The Flywheel.	vital
+2055795_7	'Good is the enemy of great' is a key concept in the book.	vital
+2055795_8	The Hedgehog Concept involves understanding passion, best capabilities, and revenue generation.	vital
+2055795_9	'Good to Great' covers more than just Level 5 Leadership.	vital
+2055795_10	Circuit City and Fannie Mae were top companies in 'Good to Great'.	vital
+2055795_11	Level 5 Leaders combine indomitable will and personal humility.	okay
+2055795_12	Level 5 Leadership is fundamental to company transformation.	okay
+2055795_13	'Good to Great' was published in 2001.	okay
+2055795_14	'Good to Great' is considered a prequel to 'Built to Last'.	okay
+2055795_15	'Good to Great' is divided into 9 chapters.	okay
+2055795_16	Collins' research involved a five-year study of 1,435 companies.	okay
+2055795_17	Only 11 out of 1,435 companies studied became great.	okay
+2055795_18	Over four million copies of 'Good to Great' have been sold.	okay
+2055795_19	Great leaders practice humility and confront prejudices.	okay
+2055795_20	Exceptional leaders are humble and focused on company success.	okay
+2056158_1	Unlocked quad-band GSM phones are best for use in Europe	vital
+2056158_2	Using a European SIM card avoids high roaming charges	vital
+2056158_3	GSM phones offer wider international roaming in Europe	vital
+2056158_4	Unlocked phones can use European SIM cards	vital
+2056158_5	CDMA phones have limited use in Europe	vital
+2056158_6	EU legislation allows use of mobile data in EU without extra cost	vital
+2056158_7	All European mobile phones operate on the GSM system	vital
+2056158_8	Unlocked iPhones after iPhone 5 and Androids since 2013 are compatible	vital
+2056158_9	GSM is more widely-used worldwide than CDMA	vital
+2056158_10	Local SIM cards in Europe are cost-effective	okay
+2056158_11	European tri-band phones cover 900, 1800, 1900 MHz bands	okay
+2056158_12	Dual SIM or unlocked phones are ideal for international travel	okay
+2056158_13	Multi-band phones facilitate roaming across different countries	okay
+2056158_14	iPhone models newer than 4S work in Europe	okay
+2056158_15	AT&T and T-Mobile use GSM, compatible in Europe	okay
+2056158_16	Newer Verizon phones support international GSM bands	okay
+2056158_17	Verizon and Sprint offer world phones with GSM compatibility	okay
+2056158_18	Hybrid GSM/CDMA phones work worldwide	okay
+2056158_19	Verizon phones may need a SIM card for use in Europe	okay
+2056158_20	International phone plans can be cost-effective with current carriers	okay
+2056323_1	Magic Leap optics project digital light field into user's eyes.	vital
+2056323_2	Magic Leap's technology projects an image directly onto the user's retina.	vital
+2056323_3	Optics create 3D imagery over real world objects.	okay
+2056323_4	Magic Leap uses mixed reality technology.	okay
+2056323_5	Headset superimposes computer-generated images into real-world view.	okay
+2056323_6	Devices like Magic Leap One are intended for AR software development.	okay
+2056323_7	Magic Leap likely uses stacked silicon waveguides in its optics.	okay
+2056323_8	Magic Leap has raised over $1 billion in funding.	okay

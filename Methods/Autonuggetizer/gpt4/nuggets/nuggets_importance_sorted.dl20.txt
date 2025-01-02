@@ -1,0 +1,551 @@
+1030303_1	President & CEO of NRD Holdings, LLC	vital
+1030303_2	Aziz Hashim is Vice Chair of IFA leadership team	okay
+1030303_3	Founded NRD Capital Management in 2014	okay
+1030303_4	Managing Partner at NRD Capital	okay
+1030303_5	CEO of NRD Partners I, L.P.	okay
+1030303_6	Former multi-unit, multi-brand franchisee	okay
+1030303_7	Selling off his stores to launch a franchisee-owned private equity fund	okay
+1030303_8	Owns 10 Rallys burger franchises in Los Angeles	okay
+1030303_9	President and Secretary of Frisch's Restaurants since 2015	okay
+1030303_10	Expert on franchising and highly regarded in the franchise space	okay
+1030303_11	Plans to buy and remake brands with his private equity fund	okay
+1037496_1	Steve Scalise is the House Majority Whip	vital
+1037496_2	Represents Louisiana's 1st Congressional District since 2008	vital
+1037496_3	Member of the Republican Party	vital
+1037496_4	Born October 6, 1965, in New Orleans	okay
+1037496_5	Elected to the U.S. House in a 2008 special election	okay
+1037496_6	Re-elected as Majority Whip in the House's ruling Republican hierarchy	okay
+1037496_7	Was critically wounded in a 2017 shooting at a GOP baseball practice	okay
+1037496_8	Spoke to a white nationalist group founded by David Duke in 2002	okay
+1037496_9	Graduated from Louisiana State University with a B.S. in Computer Science	okay
+1037496_10	Married to Jennifer Letulle	okay
+1037496_11	Served in the Louisiana State Senate and House of Representatives	okay
+1037496_12	Chairman of the conservative House Republican Study Committee	okay
+1043135_1	Nicholas II was executed by the Bolsheviks	vital
+1043135_2	The execution was ordered by Vladimir Lenin	vital
+1043135_3	Yakov Yurovsky led the execution of Nicholas II	vital
+1043135_4	Nicholas II and his family were killed on July 17, 1918	okay
+1043135_5	Nicholas II was the last tsar of Russia	okay
+1043135_6	He abdicated the throne on March 15, 1917	okay
+1043135_7	The Romanov family rule ended after 304 years	okay
+1043135_8	The family was banished to Siberia before their execution	okay
+1043135_9	The execution involved the Ural Red Guard	okay
+1043135_10	Persistent rumors suggest Anastasia and Alexei might have survived	okay
+1051399_1	Randy Newman sings the Monk theme song.	vital
+1064670_1	Hunters pattern shotguns to test shot dispersion and accuracy	vital
+1064670_2	Patterning helps hunters choose the best ammunition and choke for specific game	vital
+1064670_3	Patterning involves shooting at paper to visualize pellet spread	vital
+1064670_4	Shotgun chokes can be screw-in tubes or fixed	vital
+1064670_5	Choke tubes control shot dispersion in shotguns	okay
+1064670_6	Shotgun choke tightens pellet pattern, improving range and accuracy	okay
+1064670_7	Different chokes used for specific hunting scenarios	okay
+1064670_8	Choke types include cylinder, improved cylinder, modified, full, extra full	okay
+1064670_9	Extra full choke concentrates shot into the tightest pattern	okay
+1064670_10	Cylinder choke provides the widest dispersion of shot	okay
+1064670_11	Different ammunition brands can affect pattern from the same choke	okay
+1064670_12	Shotgun barrel length affects shot pattern and handling	okay
+1071750_1	Pete Rose accepted a lifetime ban for gambling in 1989	vital
+1071750_2	Pete Rose is ineligible for the Hall of Fame due to being on baseball's permanently ineligible list	vital
+1071750_3	Hall of Fame's 1991 rule bans those on baseball's ineligible list from BBWAA ballot	vital
+1071750_4	Pete Rose admitted in 2004 to betting on baseball while managing	okay
+1071750_5	Pete Rose's betting undermined the integrity of the game	okay
+1071750_6	Commissioner Rob Manfred denied Pete Rose's reinstatement to MLB	okay
+1071750_7	Pete Rose is baseball's all-time hits leader	okay
+1071750_8	Pete Rose denied betting on baseball for nearly 15 years	okay
+1071750_9	Pete Rose was both a player and manager for the Reds when he gambled	okay
+1071750_10	Gambling on one's own team is illegal in Major League Baseball	okay
+1071750_11	Pete Rose's actions opened the door for others to potentially manipulate games	okay
+1071750_12	Pete Rose's No. 14 was retired by the Cincinnati Reds	okay
+1105792_1	Geon (psychology): a geometrical primitive for representing everyday objects	vital
+1105792_2	Geons are simple geometric shapes like cones and spheres	vital
+1105792_3	Geons can be combined like Tinkertoy sets	vital
+1105792_4	A typical geon is a cylinder	okay
+1105792_5	Geon (physics): a hypothetical gravitational wave packet	okay
+1105792_6	Geon (geology): a time interval	okay
+1105792_7	Geon: short for geonim, medieval era rabbis	okay
+1105792_8	Geon: a character from King of the Monsters video games	okay
+1105792_9	Geon: a multiplayer-oriented action arcade video game	okay
+1106979_1	Pareto chart is a statistical tool based on the Pareto Principle	vital
+1106979_2	Visualizes the principle that 80% of effects come from 20% of causes	vital
+1106979_3	Contains bars and a line graph	vital
+1106979_4	Bars represent individual values in descending order	vital
+1106979_5	The line graph shows the cumulative total	vital
+1106979_6	Used to identify major factors in datasets	vital
+1106979_7	Named after Italian Economist Vilfredo Pareto	okay
+1106979_8	Helps in quality management and statistical analysis	okay
+1106979_9	Visual tool for highlighting significant factors	okay
+1106979_10	Assists in prioritizing corrective actions in quality management	okay
+1106979_11	Can be a weighted or comparative Pareto chart	okay
+1108651_1	Add 3/4 cup chlorine bleach to wash for white clothes	vital
+1108651_2	Add 1 cup peroxide to laundry for whitening	vital
+1108651_3	Separate white clothes from colored ones before washing	vital
+1108651_4	Do not pour bleach directly on laundry to prevent damage	vital
+1108651_5	Pretreat stains with enzyme detergent, soak in warm water	okay
+1108651_6	Expose washed whites to sunlight to enhance whiteness	okay
+1108651_7	Use hydrogen peroxide for collar stain rings	okay
+1108651_8	Check care tags on clothes for specific washing instructions	okay
+1108651_9	Avoid using bleach on colored fabrics to prevent damage	okay
+1109707_1	Radio waves do not require a medium to travel	vital
+1109707_2	Radio waves can travel through the vacuum of space	vital
+1109707_3	Electromagnetic waves can propagate in a vacuum	vital
+1109707_4	Mechanical waves require a medium, electromagnetic waves do not	vital
+1109707_5	Radio waves are not mechanical waves	vital
+1109707_6	Radio waves are a form of electromagnetic energy	okay
+1109707_7	Electromagnetic waves travel at the speed of light in a vacuum	okay
+1109707_8	Radio waves can also travel through air	okay
+1109707_9	Radio waves can be reflected, absorbed, or transmitted by materials	okay
+1109707_10	Transmission of electromagnetic waves can occur through materials	okay
+1109707_11	Some radio waves bounce between the Earth's surface and the ionosphere	okay
+1110678_1	FAO stands for Food and Agriculture Organization.	vital
+1110678_2	FAO is a specialized agency of the United Nations.	vital
+1110678_3	FAO's primary goal is to defeat hunger and improve nutrition.	okay
+1110678_4	FAO works to improve agricultural productivity and food security.	okay
+1110678_5	FAO jointly sponsors Codex Alimentarius with WHO to regulate food standards.	okay
+1110678_6	FAO coordinates global initiatives to tackle food waste and loss.	okay
+1110678_7	FAO sets global standards for food quality and safety.	okay
+1110678_8	FAO invests in education for rural communities and school meals.	okay
+1110678_9	FAO defines hunger as chronic undernourishment.	okay
+1110678_10	FAO and WHO administer the Joint Expert Committee on Food Additives.	okay
+1110678_11	FAO and WHO developed INFOSAN for food safety emergencies.	okay
+1110678_12	FAO collaborates with CGIAR on natural resource management research.	okay
+1110678_13	FAO was involved in the Rome Declaration on Nutrition, November 2014.	okay
+1110678_14	FAO estimates food consumption through Food Balance Sheets.	okay
+1110678_15	FAO provides a classification system for soil groups, including Cryosols.	okay
+1110678_16	FAO and World Bank define arable land for agricultural statistics.	okay
+1110678_17	FAO's Food Chain Crisis Management Framework addresses human food chain risks.	okay
+1110678_18	FAO reported Nigeria had the highest deforestation rate in 2005.	okay
+1113256_1	Reba McEntire's net worth is estimated at $95 million	vital
+1115210_1	Chaff are aluminium coated glass fibers	vital
+1115210_2	Chaff reflects radar waves to confuse enemy radar	vital
+1115210_3	Flares are pyrotechnic devices that emit intense heat	vital
+1115210_4	Flares used to mislead heat-seeking missiles	vital
+1115210_5	Flares composed of magnesium or similar hot-burning metals	okay
+1115210_6	Chaff and flares do not affect aircraft flight characteristics	okay
+1115210_7	Flares can be used for signaling, illumination, or defense	okay
+1115210_8	Mechanical jamming devices include chaff	okay
+1115210_9	ALE-47 dispenser can deploy chaff and flares	okay
+1115210_10	Esterline Defense Technologies specializes in chaff and flare products	okay
+1116380_1	Nonconformity separates igneous/metamorphic and sedimentary rocks	vital
+1116380_2	Nonconformity is a type of unconformity	vital
+1116380_3	Nonconformity shows substantial hiatus in geologic record	vital
+1116380_4	Indicates long erosion period before sediment deposition	vital
+1116380_5	Nonconformity involves non-sedimentary and sedimentary rock	vital
+1116380_6	Grand Unconformity in Grand Canyon is a famous example	okay
+1116380_7	Unconformity indicates break in sediment deposition	okay
+1116380_8	Three main types of unconformities: angular, nonconformity, disconformity	okay
+1116380_9	Unconformity is a missing page in Earth's history	okay
+1116380_10	Can protrude into overlying or underlying strata	okay
+1121353_1	File a discrimination complaint with the Oklahoma Human Rights Commission	vital
+1121353_2	File a Charge of Discrimination with the EEOC	vital
+1121353_3	Retaliation for discrimination complaints is prohibited	vital
+1121353_4	Talk to your employer about discrimination concerns	vital
+1121353_5	File a complaint with state or federal agency before suing	vital
+1121353_6	Employment laws prevent discrimination based on race, sex, religion	vital
+1121353_7	Civil Rights Act protects against workplace discrimination	okay
+1121353_8	Title VII prohibits discrimination based on race, color, religion, sex, and national origin	okay
+1121353_9	Americans with Disabilities Act prevents employment discrimination	okay
+1121353_10	Workplace harassment includes various forms of discrimination	okay
+1121353_11	Sex discrimination involves unfavorable treatment based on sex	okay
+1121353_12	Transgender people face high rates of workplace discrimination	okay
+1121353_13	Ethnic discrimination linked to appearance or family name	okay
+1121353_14	Local ordinances may protect against sexual orientation discrimination	okay
+1121353_15	Proving workplace discrimination requires a standard of proof	okay
+1121353_16	Illegal to discriminate against someone for opposing discrimination	okay
+1121353_17	Equal protection limits government employment discrimination	okay
+1121353_18	Workplace retaliation lawsuits are increasingly common and expensive	okay
+1122767_1	Carnitine is synthesized from lysine and methionine	vital
+1122767_2	Lysine is essential for carnitine production	vital
+1122767_3	Methionine is essential for carnitine production	vital
+1122767_4	Carnitine helps convert fatty acids into energy	okay
+1122767_5	Carnitine is important for fat burning and energy production	okay
+1122767_6	Carnitine levels can be boosted by oral L-carnitine supplements	okay
+1122767_7	Low carnitine levels may be due to genetic disorders or medical procedures	okay
+1122767_8	Carnitine is used therapeutically	okay
+1127540_1	Shebang in computing: #! at start of a script	vital
+1127540_2	Used to specify script interpreter in Unix-like systems	vital
+1127540_3	In CGI, shebang line specifies location of interpreter	vital
+1127540_4	Also known as sha-bang, hashbang, pound-bang, hash-pling	okay
+1127540_5	Shebang: everything involved in what is under consideration	okay
+1127540_6	Commonly used in the phrase 'the whole shebang'	okay
+1127540_7	Refers to the whole of something, including all connected aspects	okay
+1127540_8	Shebang is slang for a situation or set of facts	okay
+1127540_9	Originates from the French 'cabane', meaning hut	okay
+1127540_10	First seen in 1862 as a term for a temporary shelter	okay
+1127540_11	Popularized among soldiers in the U.S. Civil War	okay
+1127540_12	Originally referred to small shelters made by Union soldiers	okay
+1131069_1	Robert Kraft has four sons	vital
+1131069_2	Sons are Jonathan, Daniel, Joshua, and David Kraft	okay
+1132532_1	Average Data Analyst salary in the US is $69,672 per year.	vital
+1132532_2	Median expected annual pay for Business Data Analyst I in the US is $55,487.	vital
+1132532_3	Entry-level Data Analyst salary in the US ranges from $35,000 to $45,000.	okay
+1132532_4	Data Analyst salary range in the US is $39,000 to $90,000.	okay
+1132532_5	Mining industry pays highest average Data Analyst salary at $102,946.	okay
+1132532_6	Skills like Python, SAS, and Tableau increase Data Analyst pay.	okay
+1132532_7	Most Data Analysts transition to other jobs after 10 years in the field.	okay
+1132532_8	Data Conversion Analyst average salary is $53,091 per year.	okay
+1132532_9	Data Analyst in Indianapolis earns an average of $48,331 per year.	okay
+1132532_10	Median annual salary for a Data Governance Analyst in the UK is £60,000.	okay
+1132532_11	Entry-Level Data Analyst in Boston earns an average of $58,995 per year.	okay
+1132532_12	Average pay for a Data Analyst in Australia is AU$66,398 per year.	okay
+1132532_13	Average Research Data Analyst salary in Arizona is 15% lower than national average.	okay
+1132532_14	Average Research Data Analyst salary in Hawaii is 35% lower than national average.	okay
+1132532_15	Average Research Data Analyst salary in Tennessee is 7% lower than national average.	okay
+1132532_16	Average Research Data Analyst salary in Pennsylvania is 7% lower than national average.	okay
+1133579_1	Granulation tissue forms during the proliferative phase of wound healing	vital
+1133579_2	Newly formed blood vessels, mainly capillaries, are crucial in granulation tissue formation	vital
+1133579_3	Granulation tissue formation can begin as early as 24 hours after injury	vital
+1133579_4	Granulation tissue grows from the base of a wound and fills wounds of almost any size	vital
+1133579_5	Fibroblasts lay down collagen and extracellular matrix in granulation tissue	okay
+1133579_6	Macrophages direct fibroblasts to lay collagen and form new extracellular matrix	okay
+1133579_7	Granulation tissue is composed of a tissue matrix supporting various cell types	okay
+1133579_8	Healthy granulation tissue is pink/red, granular, and uneven in texture	okay
+1133579_9	Dark granulation tissue can indicate poor perfusion, ischaemia, or infection	okay
+1133579_10	Excess granulation tissue is known as proud flesh	okay
+1133579_11	Granulation tissue helps break down damaged tissue and prevent infection	okay
+1133579_12	Epithelial cells resurface the wound in a process called epithelialisation	okay
+1136043_1	Motels are typically single or two-story structures	vital
+1136043_2	Motels often have rooms that open directly to the parking area	vital
+1136043_3	Motels are generally more affordable than hotels	vital
+1136043_4	Motels often cater to travelers needing short, convenient stops	vital
+1136043_5	Motels are accessible from outside doors facing the parking lot	vital
+1136043_6	Motels are designed for motorists with easy parking access	vital
+1136043_7	Hotels offer more luxurious accommodations than motels	okay
+1136043_8	Hotels provide a range of facilities from basic to luxury	okay
+1136043_9	Hotels usually offer more services like room service and concierge	okay
+1136043_10	Hotels are designed for longer stays and more comfort	okay
+1136043_11	Hotels have interior hallways and elevators	okay
+1136043_12	Hotels cater to a variety of travel purposes including vacations and conferences	okay
+1136047_1	Strategy focuses on achieving competitive advantage	vital
+1136047_2	Business model describes how a company creates, delivers, and captures value	vital
+1136047_3	Strategy is about choosing what to do and what not to do	vital
+1136047_4	Strategy sets the direction towards long-term objectives	vital
+1136047_5	Strategy is the game plan for overall business performance	vital
+1136047_6	Business strategy is a long-term plan to achieve specific goals	vital
+1136047_7	Business model involves practical aspects like operations, marketing, and finance	okay
+1136047_8	Business model outlines the system of converting inputs into profitable outputs	okay
+1136047_9	Business model is about how everyday operations are structured and executed	okay
+1136047_10	Business model impacts day-to-day business activities	okay
+1136962_1	Kemet means 'black land' in ancient Egyptian.	vital
+1136962_2	Named for the fertile black soil along the Nile River.	vital
+1136962_3	Contrasted with 'red land', the barren desert surrounding the Nile.	vital
+1136962_4	The Nile's floods left rich, dark sediment ideal for agriculture.	okay
+1136962_5	Ancient Egypt relied heavily on Nile's fertile soil for farming.	okay
+1136962_6	The fertile land was crucial for growing crops like wheat, flax, and papyrus.	okay
+118440_1	BMT stands for bone marrow transplantation	vital
+118440_2	Bone marrow transplantation restores stem cells destroyed by chemotherapy or radiation	vital
+118440_3	Bone marrow transplants treat blood and immune system diseases	okay
+118440_4	Bone marrow transplants can be autologous, allogeneic, or syngeneic	okay
+118440_5	Bone marrow contains immature stem cells	okay
+118440_6	Bone marrow transplants may treat leukemia, lymphoma, multiple myeloma	okay
+118440_7	Bone marrow is found in the medullary cavities of bones	okay
+118440_8	Red and yellow are two types of bone marrow	okay
+118440_9	Conditioning prepares the bone marrow for transplant	okay
+118440_10	Peripheral blood stem cell transplantation is related to BMT	okay
+118440_11	Blood stem cells are also known as haematopoietic stem cells	okay
+118440_12	Blood stem cells can self-renew and produce specialized blood cells	okay
+121171_1	Etruscans were an ancient civilization in Italy.	vital
+121171_2	Etruria was the region inhabited by the Etruscans.	vital
+121171_3	Etruscan civilization flourished from the 8th to the 3rd century BCE.	vital
+121171_4	Etruscan culture was distinct and advanced, influencing the region significantly.	vital
+121171_5	Etruscans had a complex culture with city-states.	okay
+121171_6	Etruscan civilization covered parts of modern Tuscany, Lazio, and Umbria.	okay
+121171_7	Etruscans introduced the Greek alphabet to Rome.	okay
+121171_8	Etruscans influenced Roman culture, architecture, and religion.	okay
+121171_9	Rome was ruled by Etruscan kings until 509 BCE.	okay
+121171_10	Etruscans were known as Tyrrhenians by the Greeks.	okay
+121171_11	Etruscans were Europe's most advanced civilization outside Greece for over 500 years.	okay
+121171_12	Etruscan origin has been debated; they may have come from Asia Minor.	okay
+135802_1	Laudable: deserving of praise or admiration.	vital
+135802_2	Laudable refers to morally proper actions or decisions.	vital
+135802_3	Examples of laudable actions include donating to charity.	okay
+135802_4	Synonyms include praiseworthy, commendable, and meritorious.	okay
+135802_5	Used in formal arguments: 'every virtue is laudable; kindness is a virtue; therefore kindness is laudable'.	okay
+135802_6	Related to high commendation, praise, honor, exaltation, glory.	okay
+135802_7	Can be part of divine worship, often involving music or singing.	okay
+135802_8	Associated with positive actions like helping neighbors or improving housing conditions.	okay
+135802_9	Constructive criticism is an example of a laudable approach.	okay
+135802_10	Emma's jealousy is a less laudable characteristic.	okay
+135802_11	Enforcing laudable aims at gunpoint loses important principles.	okay
+141630_1	Muscles contract to move bones at joints	vital
+141630_2	Skeletal muscles attach to bones via tendons	vital
+141630_3	Tendons transmit the force from muscle contraction to bones	vital
+141630_4	Joints connect bones and allow for movement	vital
+141630_5	Muscles work in pairs for movement, known as antagonism	vital
+141630_6	Muscles can only pull, not push, affecting how joints move	vital
+141630_7	Muscles, bones, and joints create levers to facilitate movement	vital
+141630_8	Muscles and bones form the musculoskeletal system	okay
+141630_9	Ligaments connect bones to each other and stabilize joints	okay
+141630_10	Movement is initiated by nerve signals from the brain	okay
+141630_11	Over 600 muscles in the human body, including skeletal muscles	okay
+141630_12	Bones provide stability and structure to the body	okay
+156498_1	Google Docs automatically saves changes to your document.	vital
+156498_2	Documents are auto-saved to your Google account.	vital
+156498_3	Google Docs saves updates without a Save button.	vital
+156498_4	Auto-saved changes sync when connected to the internet.	okay
+156498_5	Revision history allows viewing of past edits.	okay
+156498_6	Auto-save confirmation message: All Changes Saved.	okay
+156498_7	Auto-save cannot be disabled but can work offline.	okay
+156498_8	Offline editing requires enabling offline Google Docs.	okay
+156498_9	Auto-save may cause cursor jumps during frequent saves.	okay
+156498_10	Revision history shows detailed changes from each auto-save.	okay
+169208_1	Mississippi has a state income tax	vital
+169208_2	Non-residents must file a Mississippi tax return if they have Mississippi earned income	vital
+169208_3	Mississippi income tax rates are 3%, 4%, and 5%	okay
+169208_4	Tax rates apply to individual income across three brackets	okay
+169208_5	Tax brackets for single filers: 3% up to $5,000; 4% $5,001-$10,000; 5% $10,001+	okay
+169208_6	Mississippi tax filing deadline is April 15	okay
+169208_7	Mississippi does not tax gambling winnings from casinos	okay
+169208_8	Mississippi tax code is unique and separate from federal income tax	okay
+169208_9	Mississippi residents file state and federal taxes separately	okay
+169208_10	Mississippi does not refund taxes withheld by casinos	okay
+169208_11	Mississippi tax brackets are the same for single filers and couples filing jointly	okay
+169208_12	Mississippi exempts all retirement income from state income tax	okay
+169208_13	File Form 80-205 for non-resident Mississippi income tax return	okay
+174463_1	Dog days refer to the hottest period of summer.	vital
+174463_2	Named after Sirius, the Dog Star, rising with the sun.	vital
+174463_3	Sirius, also known as the Dog Star, influences the term.	vital
+174463_4	Dog day afternoon refers to a hot summer afternoon.	okay
+174463_5	Traditionally from July 3 to August 11.	okay
+174463_6	Sirius is the brightest star in Canis Major constellation.	okay
+174463_7	Ancient Romans called this period 'dies caniculares'.	okay
+174463_8	Dog days marked by high summer temperatures and humidity.	okay
+174463_9	Originates from ancient Greek and Roman star observations.	okay
+174463_10	Phrase 'dog days' unrelated to dogs' behavior in heat.	okay
+174463_11	Sirius visible from both Earth's hemispheres.	okay
+23849_1	Naturalization records are public information	vital
+23849_2	Public records include naturalization records under the Freedom of Information Act	vital
+23849_3	Naturalization records can be obtained from state, territory, and county offices	okay
+23849_4	Naturalization Record Search available in the Prothonotary Office for public viewing	okay
+23849_5	USCIS issues a Certificate of Naturalization as citizenship documentation	okay
+23849_6	Public Library of Steubenville has naturalization records on microfilm	okay
+23849_7	Madison County Archives holds naturalization records from 1853-1953	okay
+258062_1	Wisdom tooth removal typically takes 10 to 60 minutes	vital
+258062_2	Wisdom tooth extraction can take 3-5 minutes per tooth by a surgeon	vital
+258062_3	Simple tooth extractions take about 20 to 40 minutes	vital
+258062_4	Actual tooth extraction takes about 3 to 15 minutes	vital
+258062_5	Full bony impacted wisdom tooth removal takes about 30 minutes	okay
+258062_6	Wisdom tooth removal near nerve bundle can take 60 or more minutes	okay
+258062_7	Healing from wisdom tooth removal takes at least two weeks	okay
+258062_8	Arrange little or no work for 3-4 days post-procedure	okay
+258062_9	Some extractions take longer due to difficulty and need for surgical removal	okay
+258062_10	Swelling and discomfort may last up to two weeks post-removal	okay
+258062_11	Dentists recommend 3 days off work after wisdom tooth removal	okay
+258062_12	Numbing a tooth takes about 10 to 15 minutes	okay
+324585_1	Professional speakers generally earn $1,500 to $30,000 per event	vital
+324585_2	Experienced professional speakers earn $6,000 to $20,000	vital
+324585_3	Average motivational speaker salary is $88,000 per year	vital
+324585_4	Celebrity speakers can charge $35,000 to $235,000 per event	okay
+324585_5	Celebrities and accomplished authors often charge $50,000 or more per event	okay
+324585_6	Pro Speak speakers typically available for $5,000 to $10,000	okay
+324585_7	Top paying states include New York ($106,000), Washington, D.C. ($104,000), California ($95,000)	okay
+330975_1	10 kW wind turbine costs $50,000-$80,000 installed	vital
+330975_2	Wind turbines under 100 kW cost $3,000-$8,000 per kW	vital
+330975_3	Shipping and installation costs $8,000-$25,000 for 10 kW	vital
+330975_4	Residential-scale wind system costs $2,400-$3,000 per kW	vital
+330975_5	Skystream 3.7 costs about $8,500-$12,000 installed	vital
+330975_6	100 kW wind turbine costs about $350,000	okay
+330975_7	Maintenance costs 2% of initial investment per year	okay
+330975_8	Inverter replacement costs $2,000-$4,000 during lifetime	okay
+330975_9	Wind turbine lifespan over 20 years	okay
+330975_10	Medium-scale wind system costs $1,500-$2,500 per kW	okay
+330975_11	Large-scale wind system costs $1,000-$2,000 per kW	okay
+332593_1	Button quail can lay one egg a day every day	vital
+332593_2	Button quail can lay up to 300 eggs per year in optimal conditions	vital
+332593_3	Button quail eggs hatch in 16-17 days	okay
+332593_4	Button quail start laying eggs at 8-12 weeks old	okay
+332593_5	Button quail need a 3-month break from laying each year	okay
+332593_6	After 2 years, button quail lay an egg every other day	okay
+332593_7	Button quail aged 5 years lay 1 egg per week	okay
+332593_8	Button quail eggs need less humidity to prevent drying out	okay
+332593_9	Button quail eggs are turned at least twice a day for the first 14 days	okay
+332593_10	Button quail are more sensitive in incubation than other quails	okay
+332593_11	Stop turning button quail eggs on day 14	okay
+336901_1	Vanessa Redgrave was born on January 30, 1937	vital
+336901_2	Vanessa Redgrave is a renowned actress	okay
+336901_3	Born in Greenwich, London	okay
+336901_4	Daughter of Michael Redgrave and Rachel Kempson	okay
+336901_5	Both parents were thespians	okay
+390360_1	Suffix -ia often denotes a condition or disease.	vital
+390360_2	Derived from Latin, -ia used to form nouns indicating a state or condition.	vital
+390360_3	-ia is a nominalizing suffix in Latin.	okay
+390360_4	Examples include insomnia (sleeplessness) and pneumonia (lung condition).	okay
+390360_5	-ia forms abstract nouns of feminine gender in Latin and Greek.	okay
+390360_6	-ia used in names of countries, diseases, and Latin plurals.	okay
+390360_7	Examples of -ia suffix include anemia (blood condition) and hypoxia (oxygen deficiency).	okay
+405163_1	Caffeine is not a narcotic	vital
+405163_2	Caffeine is a central nervous system stimulant	okay
+405163_3	Caffeine is used in combination with other drugs for pain relief	okay
+405163_4	Caffeine is commonly used to treat headaches	okay
+405163_5	Caffeine is included in various over-the-counter and prescription medications	okay
+42255_1	Average annual salary for dental hygienists in Nebraska is $65,236	vital
+42255_2	Dental hygienists in Nebraska earn $31.36 per hour on average	vital
+42255_3	Median yearly salary for dental hygienists in Nebraska is $66,370	vital
+42255_4	Salary range for dental hygienists in Nebraska is $50,050 to $80,510	vital
+42255_5	Top dental hygienists in Nebraska earn 40% more than the bottom 10%	okay
+42255_6	Salary growth for dental hygienists in Nebraska was 9% over recent years	okay
+42255_7	Estimated salary at Superior Dental Health in Omaha, NE is $67,000 - $84,000	okay
+42255_8	Median pay at Spring Ridge Dental Care in Omaha, NE is $71,000	okay
+42255_9	Salary range at Spring Ridge Dental Care in Omaha, NE is $59,000 - $88,000	okay
+42255_10	Estimated salary at Charles Drew Health Center in Omaha, NE is $49,000 - $66,000	okay
+47210_1	Average wedding dress alteration cost ranges from $250 to $450	vital
+47210_2	Hemming a wedding dress costs between $140 and $225	okay
+47210_3	Adding cups to a dress costs between $20 and $40	okay
+47210_4	Taking in the sides of a wedding dress costs between $50 and $200	okay
+47210_5	Complex alterations like redesigning can cost $250 to $600	okay
+47210_6	Bodice alterations range from $30 to $500	okay
+47210_7	Adding a bustle costs between $25 and $100	okay
+47210_8	Shortening sleeves can cost between $40 and $80	okay
+47210_9	Post-alteration pressing or steaming of the dress costs between $40 and $100	okay
+47210_10	Alterations should be completed 6-8 weeks before the wedding	okay
+47210_11	Bridal shops in large cities tend to charge more	okay
+555530_1	Soluble fiber lowers blood cholesterol	vital
+555530_2	Unsaturated fats lower harmful cholesterol levels	vital
+555530_3	Monounsaturated fats help lower LDL cholesterol	vital
+555530_4	Opt for low-fat yogurt with live cultures or plant stanols to lower cholesterol	vital
+555530_5	Psyllium may help lower cholesterol when used with a low cholesterol diet	vital
+555530_6	Foods high in soluble fiber include oats, barley, peas, beans, lentils, apples, citrus fruits	okay
+555530_7	Foods high in unsaturated fats include fish, nuts, avocados, olive oil	okay
+555530_8	Eating walnuts daily can lower LDL cholesterol by 10%	okay
+555530_9	Beans high in soluble fiber can lower cholesterol by up to 10% in 6 weeks	okay
+555530_10	Foods high in omega-3 fatty acids like salmon, mackerel, walnuts help reduce cholesterol	okay
+555530_11	Whole grains, fatty fish, fruits, vegetables recommended to lower cholesterol	okay
+555530_12	Replace high saturated fat foods with nuts to manage weight and lower cholesterol	okay
+555530_13	High-fiber diet linked to lower risk of heart disease and type 2 diabetes	okay
+555530_14	Moderate-fat diet with monounsaturated fats from nuts beneficial for heart	okay
+555530_15	Avocados are rich in nutrients and monounsaturated fatty acids	okay
+583468_1	Carvedilol treats high blood pressure and heart failure.	vital
+583468_2	Carvedilol is used after a heart attack to improve survival.	vital
+583468_3	Carvedilol improves survival in chronic heart failure.	vital
+583468_4	Carvedilol also treats mild to severe chronic heart failure.	vital
+583468_5	Carvedilol is a beta-blocker affecting heart and circulation.	okay
+583468_6	Carvedilol indicated for left ventricular dysfunction post-myocardial infarction.	okay
+583468_7	Carvedilol reduces risk of hospitalization for heart failure.	okay
+583468_8	Lowering high blood pressure prevents strokes, heart attacks, kidney problems.	okay
+583468_9	Carvedilol can reduce the risk of a second heart attack by 40%.	okay
+583468_10	Carvedilol used with other drugs post-heart attack for heart disease management.	okay
+583468_11	Common side effects include dizziness, drowsiness, diarrhea, nausea.	okay
+640502_1	Low TSH levels indicate an overactive thyroid gland	vital
+640502_2	Low TSH levels suggest the thyroid is producing excess hormones	vital
+640502_3	Low TSH may suggest excessive thyroid hormone medication	okay
+640502_4	Conditions like goiter, tumors, or Graves's disease can lower TSH	okay
+640502_5	Low TSH can occur during the first trimester of pregnancy	okay
+640502_6	TSH is produced by the pituitary in response to TRH from the hypothalamus	okay
+640502_7	TSH stimulates the thyroid to produce hormones T3 and T4	okay
+640502_8	T3 and T4 control body's metabolism and brain growth	okay
+640502_9	Low TSH might result from stress suppressing pituitary gland	okay
+640502_10	Thyroid nodules can increase thyroid activity and lower TSH	okay
+640502_11	A single toxic nodule can cause hyperthyroidism	okay
+67316_1	High fevers during early pregnancy can cause miscarriage	vital
+67316_2	Miscarriages can be caused by infections	vital
+67316_3	Persistent fever during pregnancy requires investigation	vital
+67316_4	Fevers are not a normal symptom of pregnancy	vital
+67316_5	Fever of 100 degrees F or higher can be detrimental to the baby	okay
+67316_6	Persistent high fever can harm the fetus	okay
+67316_7	High body temperature before 7 weeks increases risk of defects	okay
+67316_8	Raised body temperature in first trimester can cause birth defects	okay
+67316_9	Fever above 103F in first trimester may cause spinal or mental defects	okay
+67316_10	Elevated body temperature can cause neural tube defects	okay
+67316_11	Fever during first trimester linked to cleft palate and heart defects	okay
+67316_12	Fevers in pregnancy may signal an infection	okay
+67316_13	Reduce fever quickly to minimize risks during pregnancy	okay
+67316_14	Avoid hot tubs and saunas in early pregnancy	okay
+67316_15	Hot tubs and saunas raise body temperature quickly	okay
+67316_16	Excessive heat in early pregnancy linked to neural tube defects	okay
+67316_17	Maintain body temperature below 101 degrees F in pregnancy	okay
+67316_18	Call healthcare provider if temperature exceeds 100 F	okay
+67316_19	Warm showers are safe during pregnancy	okay
+673670_1	Almsgiving is an act of generosity towards one's neighbor.	vital
+673670_2	Alms are gifts given freely to relieve the poor.	okay
+673670_3	Almsgiving involves giving to others as an act of virtue.	okay
+673670_4	Almsgiving can be food, healing, justice, and kindness.	okay
+673670_5	Almsgiving exists in various religions and regions.	okay
+673670_6	Almsgiving in Christianity expresses love, reflecting Jesus' sacrifice.	okay
+673670_7	Almsgiving is giving to God and involves sacrificial giving.	okay
+673670_8	Zakat is obligatory almsgiving by Muslims based on wealth.	okay
+673670_9	Almsgiving is the fourth Pillar of Islam.	okay
+673670_10	Almsgiving in Hinduism is seen as noble and karma-influencing.	okay
+673670_11	Alms are considered benefactions or acts of charity.	okay
+673670_12	Alms can be material or in providing capabilities like education.	okay
+701453_1	A statutory deed is authorized by statute.	vital
+701453_2	A statutory deed includes standard title covenants by implication.	vital
+701453_3	Statutory deeds are used to convey real property.	vital
+701453_4	Statutory deeds are typically abbreviated forms of warranty deeds.	okay
+701453_5	Statutory deeds simplify the conveyance process.	okay
+701453_6	Statutory deeds transfer ownership of land with specific promises.	okay
+701453_7	Statutory deeds primarily affect title warranties.	okay
+701453_8	Statutory deeds do not detail the quality or condition of property improvements.	okay
+701453_9	Real property includes land and buildings.	okay
+701453_10	A statutory warranty deed warrants title only during the seller's ownership.	okay
+701453_11	Statutory warranty deeds are backed by title insurance policies.	okay
+701453_12	Title insurance covers compensation and legal costs for title challenges.	okay
+730539_1	John Harrison invented the marine chronometer in 1730	vital
+730539_2	Chronometer: a highly accurate timepiece for determining longitude at sea	vital
+730539_3	Jeremy Thacker coined the term chronometer in 1714	okay
+730539_4	Chronometer ensures and adjusts accuracy for exact time measurement	okay
+730539_5	Chronometer can be a wristwatch designed for highest accuracy	okay
+730539_6	John Arnold redesigned Harrison's marine chronometer in the late 1700s	okay
+730539_7	Harrison's H3 Chronometer was a 17-year project	okay
+730539_8	Harrison's marine chronometer won a significant British government prize in 1764	okay
+730539_9	Chronometer certification by Contrôle Officiel Suisse des Chronomètres (COSC) in Switzerland	okay
+768208_1	Mamey Sapote (Pouteria sapota) is a fruit with brown skin and orange flesh	vital
+768208_2	Mamey is native to the Caribbean and Central America	vital
+768208_3	Mamey seed is toxic and used in insecticides	vital
+768208_4	Mamey flavor resembles sweet potato, pumpkin, almond, chocolate, honey, and vanilla	okay
+768208_5	Mamey is also known as mamey sapote or just sapote	okay
+768208_6	Mamey has a large black pit inside	okay
+768208_7	There are two common varieties of mamey in Florida: Magana and Pantin	okay
+768208_8	Magana mamey is larger, football-shaped with dark salmon flesh	okay
+768208_9	Pantin mamey is smaller, rounder, and has brighter salmon flesh	okay
+768208_10	To check mamey maturity, scratch the surface to see if the flesh is orange-red	okay
+768208_11	Mamey should be soft to the touch when ripe	okay
+768208_12	Mamey has a texture similar to papaya	okay
+768208_13	Sapote is a term for soft, edible fruits	okay
+768208_14	Sapote fruits are part of several plants from Mexico and Central America	okay
+877809_1	Titanium is commonly used in hip replacements for its strength and light weight	vital
+877809_2	Stainless steel is also used in hip replacements	vital
+877809_3	Metal-on-metal hip replacements use materials like titanium, chromium, and cobalt	vital
+877809_4	Cobalt chrome alloys are utilized in hip replacements	vital
+877809_5	Titanium alloys are favored for their ability to connect well with bone	vital
+877809_6	Hip replacements often include components made of metal and plastic	okay
+877809_7	Stem portions of hip implants are typically made from metal alloys	okay
+877809_8	Ball portions of hip implants are crafted from metal alloys or polished ceramic	okay
+877809_9	Acetabular sockets in hip replacements are made from metal, polyethylene, or ceramic	okay
+877809_10	Metal-on-metal hip replacements can cause metallosis	okay
+877809_11	Zirconia, a ceramic, serves as an alternative material in hip replacements	okay
+911232_1	Della faces internal conflict in 'The Gift of the Magi'.	vital
+911232_2	Della's internal conflict is about self-sacrifice for love.	vital
+911232_3	Della sacrifices her hair to buy a gift for Jim.	okay
+911232_4	Della struggles with extreme poverty.	okay
+911232_5	Della and Jim are deeply in love despite being poor.	okay
+914916_1	Bronchioles are lined with ciliated cuboidal epithelium	vital
+914916_2	Bronchioles contain smooth muscle tissue	vital
+914916_3	Bronchioles have no cartilage	okay
+914916_4	Bronchioles rely on elastic fibers for support	okay
+914916_5	Bronchioles undergo further divisions, losing goblet cells in the process	okay
+914916_6	Respiratory bronchioles have a few alveoli along their walls	okay
+914916_7	Terminal bronchioles are the most distal segment of the conducting zone	okay
+914916_8	Bronchioles are less than 1mm in diameter	okay
+938400_1	Family Feud premiered on 12 July 1976	vital
+940547_1	Rock and roll originated in the United States in the late 1940s and early 1950s	vital
+940547_2	Rock and roll emerged as a defined musical style in the 1950s	vital
+940547_3	Rock and roll developed from rhythm and blues and country music	vital
+940547_4	Rock and roll became the international language of pop by the mid-1950s	vital
+940547_5	Elvis Presley's Sun Records session in July 1954 is considered the birth of rock and roll	okay
+940547_6	Rocket 88, released in 1951, is often cited as the first rock and roll record	okay
+940547_7	Alan Freed coined the term rock and roll in 1951	okay
+940547_8	Elvis Presley popularized rock and roll in the mid-1950s	okay
+940547_9	Bill Haley's Rock Around the Clock (1955) achieved significant commercial success	okay
+940547_10	Rock and roll became popular across the US and Europe in the late 1950s and 1960s	okay
+940547_11	Rockabilly, an early style of rock and roll, started in the early 1950s in the US	okay
+940547_12	Rockabilly blends country music with rhythm and blues	okay
+940547_13	The term rockabilly was first used by Bill Flagg in 1953	okay
+997622_1	Shameless is primarily filmed in Los Angeles	vital
+997622_2	Exterior scenes are filmed in Chicago	vital
+997622_3	On location filming in Chicago includes the Gallagher house	vital
+997622_4	Specific Chicago filming locations include 2119 S Homan Ave	vital
+997622_5	Shameless is set in Chicago's Canaryville neighborhood	okay
+997622_6	Shameless originally premiered on January 9, 2011	okay
+997622_7	Shameless is a remake of a UK series set in Manchester	okay
+997622_8	The UK version of Shameless aired from 2004 to 2013	okay
+997622_9	William H. Macy plays Frank Gallagher in Shameless	okay
+997622_10	Shameless tells the story of Frank Gallagher and his seven children	okay

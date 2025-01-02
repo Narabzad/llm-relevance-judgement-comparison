@@ -1,0 +1,653 @@
+1006728_1	Occipital lobe primarily responsible for vision.	vital
+1006728_2	Primary visual cortex located in the occipital lobe.	vital
+1006728_3	Visual cortex in occipital lobe concerned with vision.	vital
+1006728_4	Occipital lobe processes visual information from the retina.	vital
+1006728_5	Damage to occipital lobe can cause vision-related problems.	okay
+1006728_6	Occipital lobe involved in color discernment and vision loss.	okay
+1006728_7	Striate cortex in occipital lobe receives optic radiation fibers.	okay
+1006728_8	Striate cortex also known as first visual area.	okay
+1006728_9	Second and third visual areas are association areas in occipital lobe.	okay
+1006728_10	Occipital lobe works with cerebral cortex in visual processing.	okay
+1040198_1	The Florida Supreme Court is the final arbiter of Florida law.	vital
+1040198_2	Decisions of the Florida Supreme Court are final unless federal law is involved.	vital
+1040198_3	Decisions of the Florida Supreme Court are binding on all Florida state courts.	okay
+1040198_4	Seven justices serve on the Florida Supreme Court.	okay
+1040198_5	The Florida Supreme Court's headquarters is in Tallahassee.	okay
+1040198_6	Most appeals from lower courts pass through the District Courts of Appeal before reaching the Supreme Court.	okay
+1040198_7	Florida Supreme Court reviews appeals from the Florida District Courts of Appeal.	okay
+1040198_8	Florida Supreme Court also reviews appeals directly from trial courts in limited situations.	okay
+1104300_1	Gametophyte is the dominant stage in bryophytes	vital
+1104300_2	Sporophyte is attached to and dependent on the gametophyte	vital
+1104300_3	In bryophytes, the gametophyte represents the sexual phase	vital
+1104300_4	Bryophytes include mosses, liverworts, and hornworts	okay
+1104300_5	Bryophytes lack a true vascular system	okay
+1104300_6	Bryophytes live in moist environments like rocks by waterfalls	okay
+1104300_7	Water is necessary for bryophyte reproduction	okay
+1104300_8	Bryophyte life cycle includes a sexual gametophyte and asexual sporophyte	okay
+1104300_9	Gametophyte carries out most of the plant's photosynthesis	okay
+1104447_1	Transform boundaries form where plates slide horizontally past each other	vital
+1104447_2	Transform faults occur at these boundaries	vital
+1104447_3	Transform boundaries are also known as conservative plate boundaries	vital
+1104447_4	San Andreas Fault is an example of a transform boundary	okay
+1104447_5	Powerful earthquakes often occur along transform boundaries	okay
+1104447_6	Transform boundaries do not destroy the lithosphere	okay
+1104447_7	Most transform faults connect mid-ocean ridge segments	okay
+1104447_8	Transform boundaries are rare on continents	okay
+1104447_9	Transform fault movements are usually just a few centimeters per year	okay
+1107704_1	Elimination of exchange rate fluctuations	vital
+1107704_2	Increased trade and investment within the Eurozone	vital
+1107704_3	Reduced transaction costs for businesses and individuals	vital
+1107704_4	Price transparency across member states	vital
+1107704_5	Eurozone as a significant economic region with a common currency	vital
+1107704_6	Easier and cheaper travel within the Eurozone	okay
+1107704_7	Stable currency reflecting the average economic conditions of the Union	okay
+1107704_8	Simplified accounting for businesses trading in the Eurozone	okay
+1107704_9	Enhanced consumer purchasing power	okay
+1107704_10	Encouragement of tourism by simplifying currency exchange	okay
+1107704_11	Reduced pricing complexity for consumers	okay
+1107704_12	Lower risk of currency exchange losses for travelers	okay
+1107821_1	Radio Free Europe was created by the U.S. in 1950	vital
+1107821_2	Provided news and commentary to Eastern Europe and the Soviet Union	vital
+1107821_3	Broadcasts aimed to outwit communist censors and reach listeners daily	vital
+1107821_4	Originally broadcasted from Munich, Germany, starting July 4, 1950	okay
+1107821_5	Funded by the U.S. Congress through the CIA until 1971	okay
+1107821_6	Significantly contributed to the demise of communist regimes in Eastern Europe	okay
+1107821_7	Merged with Radio Liberty in 1976 to form RFE/RL	okay
+1107821_8	Control transferred to a Board for International Broadcasting in 1971	okay
+1107821_9	Broadcast in 15 languages to Soviet-dominated countries	okay
+1107821_10	Estimated 35 million listeners during its peak	okay
+1107821_11	Soviet attempts to jam broadcasts continued until 1988	okay
+1107821_12	Still operates today, broadcasting in 21 countries in 28 languages	okay
+1109840_1	The Occupational Safety and Health Act (OSH Act) of 1970 governs safety and health in private-sector industries.	vital
+1109840_2	The OSH Act is administered by the Occupational Safety and Health Administration (OSHA).	vital
+1109840_3	The OSH Act requires employers to provide hazard-free working conditions.	vital
+1109840_4	Federal OSHA authority extends to all private sector employers with one or more employees.	vital
+1109840_5	OSHA sets health and safety standards applicable to workplaces in all 50 states, DC, Puerto Rico, and other territories.	okay
+1109840_6	Private-sector industries are covered by the OSH Act; public employees are generally exempt unless covered by a state plan.	okay
+1109840_7	OSHA enforces the provisions of the OSH Act.	okay
+1109840_8	Employees can file complaints with OSHA about workplace safety and health concerns.	okay
+1109840_9	OSHA investigates employee health and safety complaints confidentially and without employer reprisal.	okay
+1109840_10	Specific OSHA standards apply, but the General Duty Clause covers other recognized hazards.	okay
+1109840_11	OSHA standards are referred to as general industry standards.	okay
+1109840_12	Many states administer their own occupational safety and health programs approved under section 18(b) of the OSH Act.	okay
+1110996_1	T-tubules facilitate excitation-contraction coupling in muscle cells	vital
+1110996_2	T-tubules ensure synchronous calcium release for uniform muscle contraction	vital
+1110996_3	T-tubules enable rapid propagation of action potentials into muscle cells	vital
+1110996_4	T-tubules interact with sarcoplasmic reticulum to release calcium	vital
+1110996_5	T-tubules conduct action potentials deeper into muscle for contraction	vital
+1110996_6	T-tubules are essential for proper cardiac and skeletal muscle function	okay
+1110996_7	T-tubules are associated with terminal cisternae forming triads in skeletal muscle	okay
+1110996_8	T-tubules are invaginations of the muscle cell membrane	okay
+1110996_9	T-tubules contain a high concentration of L-type calcium channels	okay
+1110996_10	T-tubules help maintain constant calcium concentration even during hypocalcaemia	okay
+1110996_11	T-tubules are not present in smooth muscle cells	okay
+1111577_1	Jump on the bandwagon means joining a popular activity or cause.	vital
+1111577_2	Originally referred to politicians joining popular candidates' parades on a literal bandwagon.	vital
+1111577_3	Phrase implies following a trend or opinion that has become widely accepted.	vital
+1111577_4	Bandwagon Appeal attempts to persuade by making people feel they are missing out if not joining.	vital
+1111577_5	Often used disapprovingly to suggest conformity without conviction.	okay
+1111577_6	Bandwagon originally a wagon carrying a band in a parade or political rally.	okay
+1111577_7	Used metaphorically in politics and other contexts for joining a successful venture.	okay
+1111577_8	The term bandwagon alludes to a horse-drawn wagon carrying a brass band during campaign tours.	okay
+1111577_9	Bandwagon effect refers to acquiring behaviors or styles when they become popular.	okay
+1111577_10	Can be used in various contexts like politics, trends, styles, or purchases.	okay
+1111577_11	Writers use the phrase in negative, positive, or neutral ways.	okay
+1111577_12	First appeared in American politics in 1848 with Dan Rice, a circus clown.	okay
+1111577_13	Bandwagon fallacy asserts that because something is popular, it is therefore good, correct, or desirable.	okay
+1113361_1	Prior restraint is governmental suppression of speech before it occurs.	vital
+1113361_2	Prior restraint is usually unconstitutional under the First Amendment.	vital
+1113361_3	The Supreme Court heavily presumes against the constitutional validity of prior restraints.	vital
+1113361_4	Prior restraint is the most serious infringement on First Amendment rights.	vital
+1113361_5	Prior restraint includes temporary restraining orders and preliminary injunctions.	vital
+1113361_6	The landmark case Near v. Minnesota settled the issue against prior restraint.	vital
+1113361_7	Prior restraint allows publication unless it endangers public security or safety.	vital
+1113361_8	Prior restraint can be effected through court orders or licensing systems.	vital
+1113361_9	Freedom from prior restraint is a fundamental right under the First Amendment.	vital
+1113361_10	Permanent injunctions after final judgment are not considered prior restraint.	okay
+1113361_11	Prior restraint attempts have largely been unsuccessful historically.	okay
+1113361_12	Prior restraint is often considered the worst form of censorship.	okay
+1113361_13	Prior restraint must be narrowly tailored and burden no more speech than necessary.	okay
+1113361_14	Prior restraint is permissible to protect the fairness of a trial.	okay
+1113361_15	Prior restraint is based on the principle that freedom of the press is essential to a free society.	okay
+1117243_1	Biotin supplements strengthen nails and prevent splitting	vital
+1117243_2	Eat a balanced diet with fruits, vegetables, lean proteins, and whole grains for nail growth	vital
+1117243_3	Vitamin E in olive oil repairs and stimulates nail growth	vital
+1117243_4	Protein intake from lean poultry and fish boosts keratin growth	vital
+1117243_5	Omega-3 fatty acids from fish and nuts support nail growth	vital
+1117243_6	Vitamin H (biotin) intake from whole grains, mushrooms, bananas, salmon, avocado	vital
+1117243_7	Folic acid in foods like fish, red meat, cheese best for nail growth	vital
+1117243_8	Vitamin C encourages collagen production for healthy nails	vital
+1117243_9	Balanced diet with fruits, vegetables, and proteins is essential for nail health	vital
+1117243_10	Bananas contain potassium, silica, zinc, and vitamin B6 for nail strength and health	vital
+1117243_11	Tomatoes contain biotin and vitamins A and C, aiding nail growth and health	vital
+1117243_12	Olive oil with vitamin E improves circulation and promotes nail strength and growth	vital
+1117243_13	Keratin is the protein nails are made of; reflects overall health	vital
+1117243_14	Nail growth can indicate overall health or nutritional deficiencies	vital
+1117243_15	Moisturizing nails with oils like coconut oil prevents breakage	okay
+1117243_16	Massage nails and cuticles to increase blood circulation and promote growth	okay
+1117243_17	Daily nail care and avoiding bad habits are crucial for growth	okay
+1117243_18	Use nail hardeners sparingly to prevent breakage	okay
+1117243_19	Sunlight exposure boosts vitamin D, aiding nail growth	okay
+1117243_20	Stinging nettle contains silica, strengthening and aiding nail growth	okay
+1118716_1	Marx believed human nature is expressed through spontaneous and creative production.	vital
+1118716_2	Marx's concept of 'species-being' reflects humans shaping their environment.	vital
+1118716_3	Marx's ideas suggest that human nature is not fixed but contingent on societal conditions.	vital
+1118716_4	Human nature, for Marx, is expressed through unalienated labor.	vital
+1118716_5	Marx critiqued capitalism for obstructing human nature by alienating individuals.	vital
+1118716_6	Marx identified the workplace as the primary site of alienation under capitalism.	okay
+1118716_7	Marx's theory of alienation discusses how capitalism estranges workers from their products.	okay
+1118716_8	Labor transforms nature into the 'inorganic body' of man, integrating society and nature.	okay
+1118716_9	To be radical is to go to the root of the matter. For man, the root is man himself.	okay
+1118716_10	Marx's theory of alienation posits man is alienated from the product, production process, fellow man, and himself.	okay
+1118716_11	Marx saw the abolition of alienated labor as essential for true humanity.	okay
+1118716_12	Marx argued that capitalism alienates workers from their labor and true nature.	okay
+1121909_1	Standard woodwind quintet instruments: flute, oboe, clarinet, bassoon, horn	vital
+1121909_2	Horn is not a woodwind but included in the quintet	vital
+1121909_3	Oboe and bassoon are double reeds; clarinet is a single reed	okay
+1121909_4	Flute is usually silver-plated; oboe, clarinet, bassoon are usually wood	okay
+1121909_5	Players usually sit in a semicircle: flute, oboe, horn, bassoon, clarinet	okay
+1121909_6	In score order from top down: flute, oboe, clarinet, horn, bassoon	okay
+1121909_7	Standard woodwind quintet first appeared in the late 18th century	okay
+1121909_8	Horn stayed in the quintet for 200 years out of curiosity	okay
+112700_1	CREST syndrome includes esophageal dysfunction	vital
+112700_2	75-86% of CREST patients show esophageal hypomotility	vital
+112700_3	Esophageal dysfunction in CREST due to smooth muscle issues	vital
+112700_4	CREST syndrome is a form of scleroderma	vital
+112700_5	Difficulty in swallowing due to esophageal muscle control loss	vital
+112700_6	CREST syndrome results in dysphagia and esophageal reflux	vital
+112700_7	Esophageal dysfunction leads to reflux, aspiration, pulmonary disease	okay
+112700_8	Esophageal dysfunction can cause reflux esophagitis	okay
+112700_9	Esophageal dysfunction has late complications like pulmonary hypertension	okay
+112700_10	Esophageal dysfunction impairs esophagus function	okay
+112700_11	Prokinetic therapy weakly effective for esophageal dysfunction	okay
+112700_12	Esophageal dysfunction studied using various diagnostic tests	okay
+112700_13	Women are four times more likely to develop CREST syndrome	okay
+112700_14	Esophageal muscles become weakened in CREST syndrome	okay
+1128632_1	Levothyroxine should not be used for weight management	vital
+1128632_2	Levothyroxine can cause both weight loss and weight gain	vital
+1128632_3	Weight gain with Levothyroxine may be due to improper dosage	vital
+1128632_4	Weight loss with Levothyroxine is not significant in most cases	vital
+1128632_5	Proper dosage of Levothyroxine is crucial for effective treatment	okay
+1128632_6	Over-treatment with Levothyroxine can lead to hyperthyroid symptoms	okay
+1128632_7	Under-treatment with Levothyroxine may not alleviate hypothyroid symptoms	okay
+1128632_8	Levothyroxine is used to treat hypothyroidism	okay
+1128632_9	Levothyroxine boosts body's thyroid hormone levels	okay
+1128632_10	Consult healthcare provider for personalized advice	okay
+1129560_1	Building improvements are capital events that extend the useful life or increase the value of a building	vital
+1129560_2	IRS defines capital improvements as additions that add market value, prolong life, or adapt to new uses	vital
+1129560_3	Building improvements should be recorded as an addition of value to the existing building	vital
+1129560_4	Building improvements are distinct from repairs or minimal renovations that do not add significant value or life	vital
+1129560_5	Qualified improvement property includes interior improvements to nonresidential buildings after initial service	vital
+1129560_6	Improvements must be capitalized if they meet or exceed the capitalization threshold	okay
+1129560_7	Costs of building improvements are added to property's cost basis and deducted upon sale	okay
+1129560_8	Depreciation of improvements uses IRS guidelines for useful life	okay
+1129560_9	Capitalized expenditures for repairs now include upgrades and improvements	okay
+1129560_10	Improvements can include major structural changes like adding or moving walls	okay
+1129560_11	Improvements use a parent/child asset management relationship; child's life should not exceed the parent's	okay
+1129560_12	Tenant improvements are capital assets made by landlords for leasing purposes	okay
+168329_1	Light intensity increases photosynthesis rate until a plateau is reached.	vital
+168329_2	Carbon dioxide concentration increases photosynthesis rate until a plateau.	vital
+168329_3	Both light intensity and CO2 concentration can become limiting factors.	vital
+168329_4	Light intensity, temperature, and CO2 concentration control photosynthesis rate.	vital
+168329_5	Limiting factors in photosynthesis include light intensity, temperature, CO2.	vital
+168329_6	Beyond a certain light intensity, increased light does not increase photosynthesis.	okay
+168329_7	Photosynthesis limited by insufficient carbon dioxide even with ample light.	okay
+168329_8	Increased light intensity boosts photosynthesis and oxygen production.	okay
+168329_9	No photosynthesis at very low levels of carbon dioxide.	okay
+168329_10	At very low light levels, plants only respire, not photosynthesise.	okay
+190623_1	Chief Constructor of the Navy during World War I	vital
+190623_2	Chief of the Bureau of Construction and Repair	vital
+190623_3	Naval architect and engineer of the United States Navy	vital
+190623_4	Constructed the first experimental towing tank in the U.S.	okay
+190623_5	The Model Basin is named in his honor	okay
+190623_6	Died in Washington, D.C. on July 28, 1940	okay
+190623_7	Destroyer David W. Taylor (DD-551) named in his honor	okay
+190623_8	David W. Taylor Naval Ship Research and Development Center named after him	okay
+190623_9	Renamed to Carderock Division of the Naval Surface Warfare Center in 1992	okay
+2082_1	Adults start losing bone mass around age 30	vital
+2082_2	Bone mass peaks by late 20s or early 30s	okay
+2082_3	Bone loss accelerates after menopause around age 51	okay
+2082_4	Men begin gradual bone loss around age 70	okay
+2082_5	Women may start losing bone around age 35	okay
+226975_1	Baby automatically covered by Medicaid for first 60 days after birth	vital
+226975_2	Newborns automatically enrolled in mother's Medicaid plan at birth	vital
+226975_3	Call Healthy Connections at 1-888-549-0820 to report baby's birth	okay
+226975_4	Mother may choose another Medicaid plan for baby after enrollment	okay
+226975_5	Eligible Medicaid recipients receive enrollment letter with plan details	okay
+226975_6	Medicaid coverage can be retroactive, covering prenatal care before application	okay
+226975_7	Medicaid eligibility varies by state, check local health department	okay
+226975_8	Medicaid provides health coverage to low-income adults and children	okay
+226975_9	Medicaid does not have open enrollment periods, apply any time	okay
+226975_10	CHIP offers additional services like dental and vision for children	okay
+226975_11	Medicaid pays for services with or without a physical card	okay
+23287_1	Landlords may be liable if aware of criminal activity and fail to act.	vital
+23287_2	Landlord liability depends on negligence causing the injury.	vital
+23287_3	Landlords can be held liable for breaches of security like inadequate lighting and locks.	vital
+23287_4	Landlord liability may arise from failure to warn tenants of known dangers.	vital
+23287_5	Tenant must prove landlord negligence to claim liability.	okay
+23287_6	Landlords are not automatically liable for tenant injuries.	okay
+23287_7	Landlord negligence includes control over and knowledge of the danger.	okay
+23287_8	Injuries must be foreseeable by the landlord to establish liability.	okay
+23287_9	Landlord's actions or inactions must be the proximate cause of injury.	okay
+23287_10	Landlords must maintain and repair property to prevent injuries.	okay
+23287_11	Failure to notify tenants about an attempted break-in is landlord negligence.	okay
+237669_1	OPA imposes financial liability for oil spill damages.	vital
+237669_2	Companies face unlimited cleanup costs under OPA.	vital
+237669_3	OPA requires companies to develop spill prevention and response plans.	vital
+237669_4	OPA assigns liability for cleanup costs and damages.	vital
+237669_5	OPA broadly defines 'oil' including petroleum and non-petroleum oils.	vital
+237669_6	OPA impacts domestic oil production with strict offshore facility provisions.	vital
+237669_7	OPA expanded federal power to prevent and manage oil spills.	okay
+237669_8	OPA led to the formation of the Marine Spill Response Corporation by oil industries.	okay
+237669_9	OPA limits company liability for economic damages to $75 million.	okay
+237669_10	Oil Spill Liability Trust Fund finances cleanup under OPA.	okay
+237669_11	OPA amended the Clean Water Act of 1972.	okay
+237669_12	OPA was enacted in response to the Exxon Valdez oil spill.	okay
+237669_13	Insurance companies refused to issue financial liability certifications under OPA.	okay
+237669_14	OPA includes exemptions from oil spill notification requirements.	okay
+237669_15	OPA discourages fleet replacement and modernization due to full liability.	okay
+253263_1	Wrist sprains can heal from 2 weeks to 6 months based on severity	vital
+253263_2	Recovery time varies based on sprain severity	vital
+253263_3	Severe wrist sprains requiring surgery may take 3-6 months to heal	okay
+253263_4	Grade 3 wrist sprains may take 6-8 weeks to fully heal	okay
+253263_5	Grade 2 wrist sprains generally take about 2-4 weeks to heal	okay
+253263_6	Grade 1 wrist sprains typically heal in 1-2 weeks	okay
+253263_7	Rest, ice, and over-the-counter pain relievers are common treatments	okay
+253263_8	Using a splint can aid in the recovery process	okay
+253263_9	Improper management can prolong recovery time	okay
+253263_10	Light rehabilitation may aid the healing process	okay
+300025_1	2016 could top the record of 65 whale entanglements in California	vital
+300025_2	At least 40 whale entanglements off California since January 2016	vital
+300025_3	Federal officials identified 23 entanglements involving crab gear in 2016	vital
+300025_4	California drift gillnet fishery catches over 100 protected marine animals yearly	okay
+300025_5	Gill-nets cause significant by-catch, including whales	okay
+300025_6	More than 300,000 whales, porpoises, dolphins entangled annually worldwide	okay
+300025_7	Discarded fishing gear injures, kills marine life globally	okay
+300025_8	Rescuers made six attempts to free one entangled blue whale	okay
+300025_9	Blue whales rarely entangle due to their offshore swimming habits	okay
+300025_10	Over 300,000 small cetaceans die from entanglement in fishing nets annually	okay
+300986_1	Maximum sentence for money laundering is 20 years in federal prison	vital
+300986_2	Felony money laundering carries a minimum sentence of 16 months and up to four years in jail	vital
+300986_3	Money laundering misdemeanor convictions can result in up to a year in jail	vital
+300986_4	State-level misdemeanor money laundering can carry up to one year in jail and a fine up to $1,000	vital
+300986_5	Maximum sentence for money laundering is 14 years at the Crown Court	vital
+300986_6	Maximum sentence for money laundering is 12 months at the Magistrate’s Court for multiple offences	vital
+300986_7	Maximum sentence for money laundering is 6 months at the Magistrate’s Court for one offence	vital
+300986_8	Repeat offenders can be jailed for up to 35 years	vital
+300986_9	First-degree money laundering involves $500,000 or more: 10 to 20 years in prison	vital
+300986_10	Second-degree money laundering involves $75,000 to $499,000: 5 to 10 years in prison	vital
+300986_11	Money laundering charge can include a fine up to $500,000 or twice the value of the property	okay
+300986_12	Felony money laundering includes a minimum fine of $250,000 or twice the amount laundered	okay
+300986_13	Money laundering penalties depend on the value of the property involved	okay
+30611_1	In 2020, average age at first marriage for US men was 33	vital
+30611_2	Average age of men at marriage has been increasing over the past 50 years	vital
+30611_3	In 2019, average age at first marriage for US men was 30	okay
+30611_4	In 2018, average age at first marriage for US men was 29.8	okay
+30611_5	In 2017, average age at first marriage for US men was 29.5	okay
+30611_6	In 2016, average age at first marriage for US men was 29.5	okay
+30611_7	In 2014, average age at first marriage for US men was 29	okay
+30611_8	In 2013, average age at first marriage for US men was 29	okay
+30611_9	In 2011, average age at first marriage for US men was 29.8	okay
+30611_10	In 2010, average age at first marriage for Australian men was 29.6	okay
+30611_11	In 2009, average age at first marriage for US men was 28	okay
+30611_12	In 2007, average age at first marriage for US men was 27	okay
+30611_13	In 2003, average age at first marriage for US men was 27	okay
+30611_14	In 1960, average age at first marriage for US men was 22	okay
+30611_15	In 1951, average age at marriage for US men was 22.6	okay
+30611_16	In 1890, average age at first marriage for US men was 26	okay
+30611_17	In Puritan society, average age for men at marriage was 26	okay
+337656_1	Joseph Merrick died at 27 years old.	vital
+337656_2	Joseph Merrick, known as the Elephant Man, died in 1890.	vital
+337656_3	Joseph Merrick was born in 1862.	okay
+364210_1	Apply ice wrapped in a cloth to reduce swelling and pain	vital
+364210_2	Use buddy taping to support the jammed finger	vital
+364210_3	Rest the finger to avoid further injury	vital
+364210_4	Visit a doctor if symptoms persist or worsen	vital
+364210_5	If the finger looks out of joint, splint it without pulling on it	vital
+364210_6	Elevate the finger to reduce swelling	vital
+364210_7	Remove any rings to prevent further swelling	vital
+364210_8	Apply ice immediately after injury for 10 minutes	vital
+364210_9	Take over-the-counter pain relievers like ibuprofen to ease discomfort	okay
+364210_10	Start gentle bending exercises to reduce stiffness after swelling decreases	okay
+364210_11	Early motion is important to prevent stiffness in sprained fingers	okay
+364210_12	Do not apply ice directly to the skin	okay
+364210_13	Keep the finger elevated above chest level to reduce discomfort	okay
+364210_14	Refrain from strenuous activity for the first week after injury	okay
+364210_15	Slowly try to restore range of motion after a few days	okay
+395948_1	Howard Gardner introduced the theory of multiple intelligences in 1983	vital
+395948_2	He authored 'Frames of Mind: The Theory of Multiple Intelligences'	vital
+395948_3	Howard Gardner is a developmental psychologist best-known for his theory of multiple intelligences	vital
+395948_4	Gardner is Professor of Cognition and Education at the Harvard Graduate School of Education	vital
+395948_5	Theory of multiple intelligences challenges traditional IQ testing methods	vital
+395948_6	He holds the position of John H. and Elisabeth A. Hobbs Professor of Cognition and Education	okay
+395948_7	Multiple Intelligences theory includes eight different types of intelligence	okay
+395948_8	Published 'Multiple Intelligences: New Horizons' and 'Five Minds for the Future'	okay
+395948_9	Gardner's theory suggests intelligence should improve lives, not just measure them	okay
+395948_10	He is the Senior Director of Harvard Project Zero	okay
+395948_11	Gardner received a MacArthur Prize Fellowship in 1981	okay
+395948_12	His work critically examined in 'Howard Gardner Under Fire'	okay
+395948_13	Studied history at Harvard, initially aiming for a law career	okay
+395948_14	Worked with Jerome Bruner on the MACOS Project	okay
+395948_15	Continues to promote a holistic approach to education through Project Zero	okay
+395948_16	Theory used as a primary model for research in human cognition	okay
+395948_17	Also holds an adjunct faculty post in psychology at Harvard and in neurology at Boston University School of Medicine	okay
+395948_18	Studies of savants and brain-damaged patients inspired his theory	okay
+395948_19	Founded the International Mind, Brain, and Education Society	okay
+395948_20	Founding editor of the journal Mind, Brain, and Education	okay
+421946_1	Some states mandate pulse ox screening for CCHD in newborns	vital
+421946_2	New York State law requires pulse ox screening for newborns	vital
+421946_3	Newborn screening varies by state	vital
+421946_4	Pulse oximetry mandatory in around 43 states in the USA	okay
+421946_5	Pulse oximetry measures blood oxygen levels	okay
+421946_6	Pulse oximetry helps identify Critical Congenital Heart Disease	okay
+421946_7	Pulse ox test performed after baby is 24 hours old	okay
+421946_8	Pulse ox test is painless and non-invasive	okay
+421946_9	Pulse ox test duration is a couple of minutes	okay
+421946_10	Pulse ox test uses a sensor on baby's skin	okay
+421946_11	Cost of pulse ox screening is about $10 per newborn	okay
+421946_12	UK study shows pulse ox improves detection of CHD	okay
+493490_1	Schisandra improves liver function and protects against poisons	vital
+493490_2	Schisandra used as an adaptogen for stress resistance and increasing energy	vital
+493490_3	Schisandra supports liver health and detoxification	vital
+493490_4	Schisandra has antioxidant properties that protect against cellular damage	vital
+493490_5	Schisandra reduces liver inflammation according to recent studies	vital
+493490_6	Schisandra increases energy, resistance to disease, and physical endurance	okay
+493490_7	Schisandra improves vision and muscular activity	okay
+493490_8	Schisandra enhances mental clarity and concentration	okay
+493490_9	Schisandra boosts cellular energy and adrenal gland health	okay
+493490_10	Schisandra helps in recovery post-surgery and supports immune system	okay
+493490_11	Schisandra used for preventing early aging and increasing lifespan	okay
+493490_12	Schisandra improves endurance and physical performance	okay
+493490_13	Schisandra enhances memory and cognitive functions	okay
+493490_14	Schisandra has anti-inflammatory effects	okay
+493490_15	Schisandra helps reduce symptoms of anxiety	okay
+493490_16	Schisandra promotes healthy skin	okay
+493490_17	Schisandra enhances libido and supports reproductive health in TCM	okay
+493490_18	Schisandra revered for anti-aging properties in TCM	okay
+493490_19	Schisandra promotes physical, emotional, and sexual stamina	okay
+493490_20	Known as 'five flavor berry', offers unique taste	okay
+505390_1	Supartz is made of sodium hyaluronate	vital
+505390_2	Sodium hyaluronate is extracted from chicken combs	okay
+505390_3	Sodium hyaluronate contains glucuronic acid and N-acetylglucosamine	okay
+505390_4	Supartz injections treat knee pain from osteoarthritis	okay
+505390_5	Supartz injections are administered weekly	okay
+505390_6	Total of 3 to 5 injections for a full Supartz treatment	okay
+505390_7	Supartz was approved by the FDA in 2001	okay
+505390_8	Supartz has been used in Japan since 1987	okay
+505390_9	Supartz dosage is 25 mg / 2.5 mL per injection	okay
+508292_1	Morton's Neuroma causes pain, tingling, and numbness in adjacent toes	vital
+508292_2	Common symptoms include burning, tingling, or numbness between toes	vital
+508292_3	Neuroma pain can cause sharp, burning pain in the ball of the foot	vital
+508292_4	Pain in the forefoot and between the toes	vital
+508292_5	Pain in the ball of the foot when weight is placed on it	vital
+508292_6	Pain often described as having a stone in the shoe	okay
+508292_7	Symptoms may include shooting or stabbing pain	okay
+508292_8	Pain can be exacerbated by pressure or tapping on the affected area	okay
+508292_9	Pain described as sporadic, with a popping sensation when walking	okay
+508292_10	Pain can be relieved by removing shoes and massaging the area	okay
+508292_11	Symptoms worsen with prolonged walking and standing	okay
+508292_12	To diagnose Morton's neuroma, squeezing the foot triggers typical pain	okay
+540006_1	Nietzsche proclaimed 'God is dead'	vital
+540006_2	Nietzsche viewed belief in God as a human construct	vital
+540006_3	Nietzsche's full quote: 'God is dead. God remains dead'	vital
+540006_4	Nietzsche's work suggests a secular, godless worldview	vital
+540006_5	Nietzsche called himself anti-Christian, not atheist	okay
+540006_6	Nietzsche's philosophy includes nihilism	okay
+540006_7	Nietzsche criticized Christianity intensely	okay
+540006_8	Nietzsche's ideas influenced modern existentialist thought	okay
+540006_9	Nietzsche born in 1844 in Prussian Saxony	okay
+540006_10	Nietzsche's 'Will to Power' explores belief as inherently false	okay
+540006_11	Nietzsche was an anti-Christian	okay
+596569_1	Complete undergraduate prerequisites: biology, genetics, microbiology, chemistry, physics, animal physiology	vital
+596569_2	Take courses in organic chemistry, biochemistry, zoology, anatomy, physiology	vital
+596569_3	Veterinary school courses include microbiology, pathology, physiology, immunology	vital
+596569_4	Include one year of English, one quarter in statistics, one quarter in college algebra or pre-calculus in prerequisites	vital
+596569_5	Include one year of general biology or zoology with labs, one year of organic chemistry with labs, one year of inorganic chemistry with labs, one year of general physics with labs in prerequisites	vital
+596569_6	Earn a Bachelor of Science in Chemistry, Biology, Animal Biology, Zoology, or other hard sciences	okay
+596569_7	Veterinary school usually lasts four years	okay
+596569_8	First two years of vet school focus on classroom learning	okay
+596569_9	Last two years of vet school focus on clinical practice	okay
+596569_10	Doctor of Veterinary Medicine (D.V.M. or V.M.D.) degree required	okay
+596569_11	Veterinary school admissions are highly competitive	okay
+596569_12	Accredited by the American Veterinary Medical Association (AVMA)	okay
+596569_13	Maintain a high GPA, particularly in science courses	okay
+596569_14	Take the GRE or MCAT before applying to vet school	okay
+596569_15	Include courses in communications, math, and social sciences	okay
+596569_16	Consider summer classes to graduate on schedule	okay
+596569_17	30 accredited veterinary colleges in the US	okay
+596569_18	Gain at least 500 hours of experience working with animals	okay
+596569_19	Review veterinary school requirements well in advance	okay
+596569_20	Check the Association of American Veterinary Medical Colleges (AAVMC) for specific school requirements	okay
+629937_1	Symptoms include sudden intense burning pain in hand or finger	vital
+629937_2	Sudden localized swelling occurs at the site	vital
+629937_3	Popped blood vessels cause pain, swelling, and bruising	vital
+629937_4	Affected area may show a purplish bruise or red spreading of cells	vital
+629937_5	Can result from trauma or spontaneously without injury	okay
+629937_6	Most cases heal within weeks without medical intervention	okay
+629937_7	Persistent symptoms should be evaluated by a doctor	okay
+629937_8	Common causes include trauma, high blood pressure, and poor circulation	okay
+629937_9	Can appear as petechiae or purpura on the skin	okay
+629937_10	Other names include Achenbach’s syndrome and paroxysmal finger hematoma	okay
+646091_1	Prenatal care includes regular checkups and prenatal testing	vital
+646091_2	Prenatal care involves medical, nutritional, psycho-social, and educational management	vital
+646091_3	Early and continuing risk assessment, including laboratory testing	vital
+646091_4	Health promotion, including patient education	vital
+646091_5	Medical and psycho-social assessment, intervention, and follow-up care	vital
+646091_6	First prenatal visit includes due date calculation and newborn information	vital
+646091_7	Discussions on diet, exercise, vitamins, and birthing options during visits	vital
+646091_8	Most appointments include urine and weight checks, and baby's heartbeat monitoring	vital
+646091_9	Prenatal vitamins are an important part of prenatal care	vital
+646091_10	Prenatal care monitors baby's growth and mother's health	vital
+646091_11	Prenatal care allows for monitoring and quick handling of complications	vital
+646091_12	Frequent visits allow monitoring of baby's development and opportunity to ask questions	vital
+646091_13	Regular lab work like blood tests, urine tests, pap smears, and cultures	okay
+646091_14	Ultrasound examinations are part of prenatal care	okay
+646091_15	Monitoring of vital signs and weight	okay
+646091_16	Assessment of physical and emotional wellbeing	okay
+646091_17	Measuring the uterus to monitor baby's growth	okay
+646091_18	Assessing the position of the baby	okay
+646091_19	Listening to the baby's heartbeat	okay
+646091_20	Recommended visit schedule: monthly for first six months, biweekly for next two months, weekly in the last month	okay
+647362_1	S/P stands for 'status post' in medical terms	vital
+647362_2	Indicates a patient has undergone a specified procedure or event	vital
+647362_3	Used to describe past medical events or procedures	vital
+647362_4	Can refer to surgeries or significant medical events	okay
+647362_5	Abbreviation s/p is common in medical documentation	okay
+647362_6	Example: 's/p appendectomy' means the patient had an appendectomy	okay
+647362_7	Example: 's/p overdose' indicates a past overdose event	okay
+661905_1	Avoid sulfites in foods if asthmatic	vital
+661905_2	Sulfites can trigger severe asthma attacks	vital
+661905_3	Sulfites may cause wheezing and life-threatening reactions	vital
+661905_4	Avoid foods with chemical preservatives	vital
+661905_5	Avoid processed foods with added preservatives and flavors	vital
+661905_6	Avoid dairy products to reduce mucus and congestion	vital
+661905_7	Avoid fried foods to reduce mucus and throat irritation	vital
+661905_8	Avoid citrus fruits and tomatoes to prevent symptom worsening	vital
+661905_9	Avoid saturated fats found in pastries, red meat, fried foods	vital
+661905_10	Avoid cold meals and ice creams if asthmatic	vital
+661905_11	Avoid frozen foods like ice cream, tightens airways	vital
+661905_12	Avoid junk foods, sweets, sugar-loaded soft drinks, fried foods	vital
+661905_13	Sulfites found in wine, dried fruits, pickles, shrimp	okay
+661905_14	Avoid large meals and gas-causing foods like beans, cabbage	okay
+661905_15	Reduce salt intake to alleviate asthma symptoms	okay
+661905_16	Chocolate, sodas, strawberries may cause asthma symptoms	okay
+661905_17	Avoid fatty meats to reduce lung inflammation	okay
+661905_18	Eliminate citrus fruits and tomatoes if they trigger symptoms	okay
+661905_19	Avoid hot pepper in large quantities if asthmatic	okay
+681645_1	A divorce bench trial is a court trial without a jury	vital
+681645_2	In a divorce bench trial, the judge hears the evidence and makes the final decision	vital
+681645_3	The judge is the sole finder of fact in a divorce bench trial	vital
+681645_4	Divorce bench trials involve presenting cases and evidence directly to a judge	vital
+681645_5	Divorce bench trials occur in family courts	vital
+681645_6	Parties in a divorce bench trial waive their right to a jury	vital
+681645_7	Divorce bench trials are a type of non-jury trial	vital
+681645_8	Divorce bench trials are common in family-law cases like divorce or custody	vital
+681645_9	Divorce bench trials decide on matters like child support, custody, and property division	vital
+681645_10	Judges in family courts ensure fair trials without juries	okay
+681645_11	Family courts handle issues like divorce, child custody, and domestic violence	okay
+681645_12	Judges have significant discretion in making custody decisions in divorce cases	okay
+681645_13	Juries are rarely used in divorce trials	okay
+688007_1	Kanima is a mutation of the werewolf gene	vital
+688007_2	Kanima seeks a master instead of a pack	vital
+688007_3	Kanima possesses paralytic venom	vital
+688007_4	Kanima's claws and tail tip contain venom that paralyzes victims	vital
+688007_5	Kanima used as a weapon of vengeance in South American legend	okay
+688007_6	Kanima forms a symbiotic bond with its master	okay
+688007_7	Kanima's power peaks at the moon's peak	okay
+688007_8	Kanima can climb vertical surfaces with ease	okay
+688007_9	Kanima has reptilian scales and retractable claws and fangs	okay
+688007_10	Kanima size comparable to an average human	okay
+688007_11	Kanima's skin is impenetrable to conventional human weapons	okay
+688007_12	Kanima's transformation influenced by personal demons	okay
+688007_13	Kanima venom can form a cocoon around the shapeshifter	okay
+688007_14	Kanima emerges more powerful with wings and spiked features	okay
+688007_15	Kanima capable of super-strength and super-speed	okay
+688007_16	Kanima's master uses it to kill murderers under specific rules	okay
+688007_17	Breaking the rules of the curse affects the kanima and its master	okay
+688007_18	Kanima retains characteristics in subsequent transformations	okay
+688007_19	Kanima involved in genetic experiments as a Chimera	okay
+688007_20	Kanima's transformation can reject werewolf bite due to identity issues	okay
+707882_1	Acumen Fuse is a project diagnostics software.	vital
+707882_2	Acumen Fuse assesses schedule quality, cost forecasts, and project performance.	vital
+707882_3	Acumen Fuse is implemented and enforced with ease.	vital
+707882_4	Acumen Fuse supports DCMA 14 Point Schedule assessment.	okay
+707882_5	Acumen Fuse helps resolve scheduling issues and improves project planning.	okay
+707882_6	Acumen Fuse includes metric libraries like the DCMA 14 Point Assessment.	okay
+707882_7	Acumen Fuse allows analysis of multiple projects within a portfolio.	okay
+707882_8	Acumen Fuse provides visual ribbon analysis for easy project insight.	okay
+707882_9	Acumen Fuse allows comparison of unlimited project snapshots over time.	okay
+707882_10	Acumen Fuse runs risk check metrics to validate cost and schedule risk models.	okay
+707882_11	Acumen Fuse helps identify and explain project cost overruns.	okay
+707882_12	Acumen Fuse's API allows integration with external applications and custom reports.	okay
+764738_1	LBM stands for Lean Body Mass in body composition	vital
+764738_2	LBM includes organs, bones, muscle, excluding body fat	vital
+764738_3	LBM is also known as Fat-Free Mass	vital
+764738_4	DEXA scans provide precise measurements of LBM and other body composition metrics	vital
+764738_5	LBM is used to calculate ideal body weight considering body fat percentage	vital
+764738_6	LBM is superior to total body weight for prescribing medications and assessing metabolic disorders	vital
+764738_7	To calculate LBM, subtract body fat mass from total body weight	okay
+764738_8	LBM comprises muscle, organs, bones, and body water	okay
+764738_9	LBM is crucial for determining body fat mass	okay
+764738_10	Changes in LBM are primarily from muscle mass variations	okay
+764738_11	Bone density changes can affect LBM; DEXA differentiates them	okay
+764738_12	LBM is calculated in DEXA by adding 'Lean Tissue' and 'BMC'	okay
+764738_13	Body fat percentage and total body weight are used to estimate LBM	okay
+764738_14	Lean Body Mass Calculator uses gender, weight, height for LBM estimation	okay
+764738_15	Boer formula is used for LBM estimation in obese individuals for CT doses	okay
+764738_16	LBM estimation formulas vary, including Boer and Hume formulas for specific applications	okay
+764738_17	LBM calculation is valuable for individual health assessments	okay
+806694_1	Mean annual salary for sonographers in Massachusetts is $89,080	vital
+806694_2	National mean annual salary for sonographers is $75,920	okay
+806694_3	Top 10% of sonographers in Massachusetts earned $101,700 annually	okay
+806694_4	Bottom 10% of sonographers in Massachusetts earned $54,600 annually	okay
+806694_5	41% growth rate in sonographer employment in Massachusetts from 2010 to 2020	okay
+818583_1	Range Rover Sport is seven inches shorter than Range Rover	vital
+818583_2	Range Rover Sport is less luxurious, priced about $20,000 less	vital
+818583_3	Range Rover Sport is sportier, Range Rover is more luxurious	vital
+818583_4	Range Rover Sport starts at $69,945; Range Rover starts at $84,000	vital
+818583_5	Range Rover Sport can seat up to seven; Range Rover seats five	vital
+818583_6	Range Rover Sport has a lower roofline and sleeker design	vital
+818583_7	Range Rover Sport has better on-road performance	vital
+818583_8	Range Rover Sport has a five inches shorter wheelbase	okay
+818583_9	Range Rover Sport is narrower and lower than Range Rover	okay
+818583_10	Range Rover Sport has less cabin and luggage space	okay
+818583_11	Range Rover Sport offers more agile handling	okay
+818583_12	Range Rover Sport uses the same V8 engine as Range Rover	okay
+818583_13	Range Rover Sport competes with Porsche Cayenne, BMW X6	okay
+818583_14	Both models equipped with Land Rover's Touch Pro Duo system	okay
+818583_15	Both have similar fuel economy estimates	okay
+832573_1	Methylmalonic Acid Test measures blood MMA levels.	vital
+832573_2	MMA test used to diagnose vitamin B12 deficiency and methylmalonic acidemia.	vital
+832573_3	MMA test measures amount of methylmalonic acid in blood.	vital
+832573_4	MMA test used to diagnose megaloblastic anemia.	vital
+832573_5	Elevated MMA levels provide early indication of cobalamin (B12) deficiency.	vital
+832573_6	Increased MMA levels indicate vitamin B12 deficiency.	okay
+832573_7	MMA test can also be performed on urine.	okay
+832573_8	MMA test is often performed with homocysteine test.	okay
+832573_9	MMA test ordered if symptoms of B12 deficiency are present.	okay
+832573_10	MMA test results help identify B12 deficiencies at lower normal range.	okay
+832573_11	MMA test performed on blood plasma or serum.	okay
+832573_12	MMA test used to screen for methylmalonic acidemia in infants.	okay
+832573_13	MMA test not typically part of routine physical exams.	okay
+832573_14	High MMA levels in elderly linked to elevated homocysteine.	okay
+832573_15	Normal MMA levels range from 0.00 to 0.40 umol/mL.	okay
+832573_16	MMA levels may be elevated in kidney disease or pregnancy.	okay
+832573_17	Discuss MMA test results with a doctor.	okay
+832573_18	Additional testing may be needed despite normal B-12 levels.	okay
+832573_19	MMA produced in small amounts during protein digestion.	okay
+832573_20	Large amounts of MMA produced if vitamin B-12 levels drop.	okay
+835760_1	The triangular region at the base of the bladder is called the trigone	vital
+835760_2	The trigone is outlined by the openings of two ureters and the urethra	okay
+835760_3	Synonyms for the trigone include trigonum vesicae, vesical triangle	okay
+835760_4	The trigone helps funnel urine into the urethra during bladder contraction	okay
+835760_5	Muscle fibers in the trigone are closely adherent to the mucosa	okay
+835760_6	The trigone is a smooth area on the interior base of the bladder	okay
+835760_7	The mucous membrane is loosely connected to the muscular wall except at the trigone	okay
+835760_8	The trigone does not change shape during bladder filling or emptying	okay
+835760_9	Infections tend to persist in the trigone area	okay
+835760_10	The trigone is affixed to the pelvis by many ligaments	okay
+845121_1	Sacraments of service: Holy Orders and Matrimony	vital
+845121_2	Sacraments of service confer a particular mission in the Church	vital
+845121_3	Matrimony establishes a union reflecting Christ and his Church	vital
+845121_4	Holy Orders has three degrees: episcopate, presbyterate, diaconate	vital
+845121_5	Holy Orders and Matrimony directed towards salvation of others	okay
+845121_6	Holy Orders ordains bishops, priests, or deacons	okay
+845121_7	Matrimony reflects God's love through self-giving of spouses	okay
+845121_8	Sacraments of service build up the People of God	okay
+845121_9	Holy Orders involves anointing for ordained priesthood	okay
+845121_10	Matrimony celebrated as a sign of God's presence in marriage	okay
+845121_11	Chrism used in Holy Orders for anointing	okay
+845121_12	Holy Orders is the sacrament of apostolic ministry	okay
+845121_13	Holy Orders uniquely enables participation in Christ's ministerial priesthood	okay
+845121_14	Holy Orders is received only by men	okay
+935353_1	Battle of Manassas date: July 21, 1861	vital
+935353_2	Location: near Manassas, Virginia	vital
+935353_3	Also known as the First Battle of Bull Run	okay
+935353_4	Fought in Prince William County, Virginia	okay
+935353_5	Near Bull Run Creek	okay
+935353_6	Approximately 25 miles west-southwest of Washington, D.C.	okay
+935353_7	First major land battle of the American Civil War	okay
+935353_8	Confederates called it Manassas, Union called it Bull Run	okay
+935964_1	Peak whale watching season in Massachusetts: June through September	vital
+935964_2	Whale watching season in Massachusetts: April through November	vital
+935964_3	Whales most active in Massachusetts from late March to mid-November	vital
+935964_4	Peak whale watching includes humpback, finback, and minke whales	vital
+935964_5	Best whale watching from Cape Ann and Provincetown for proximity to feeding grounds	okay
+935964_6	Stellwagen Bank Marine Sanctuary is a prime whale watching spot	okay
+935964_7	Whale watching tours often guarantee sightings with return tickets	okay
+935964_8	Naturalists on board discuss whale behavior and spotting techniques	okay
+935964_9	Whales feed on mackerel, herring, krill in Massachusetts waters	okay
+935964_10	Feeding grounds located about 25 miles off the coast of Boston	okay
+935964_11	Whale watching opportunities from Cape Cod, Boston, and New England	okay
+935964_12	Massachusetts named a top global whale watching destination by WWF	okay
+952262_1	Best time to take a home pregnancy test is 14-15 days after ovulation	vital
+952262_2	Use the first urine sample in the morning for increased accuracy	vital
+952262_3	Home pregnancy tests detect hCG, which is highest in the morning	vital
+952262_4	Home pregnancy tests are about 99% accurate when used correctly	okay
+952262_5	Sensitive tests can detect very low levels of hCG (less than 50 mIU/mL)	okay
+952262_6	hCG can be detected in urine from about 15-16 days after ovulation	okay
+952262_7	Missed period is one of the first signs of pregnancy	okay
+952262_8	hCG levels are measured in milliInternational Units (mIU)	okay
+952262_9	Introduce the strip to midstream urine for best results	okay
+952262_10	Lay the strip flat and wait for the result after testing	okay
+952284_1	Use crawfish color bait in early spring when bass feed heavily on crawfish	vital
+952284_2	Crawfish color bait is especially effective in early spring	vital
+952284_3	Crawfish color bait is a big bass magnet in spring	vital
+952284_4	Late fall is ideal for crawfish-color crankbaits as bass move ultra-shallow	okay
+952284_5	Crawfish color bait works well in clear and muddy water	okay
+952284_6	Crawfish color bait attracts bass in cold, stained water	okay
+952284_7	Crawfish color bait is used year-round by varying location and presentation	okay
+952284_8	Crawfish color bait mimics natural prey in Southern lakes pre-spawn	okay
+952284_9	Crawfish color bait is suitable for fishing around shallow wood cover	okay
+952284_10	Crawfish color bait is used as jig trailers or Texas rigged	okay
+975079_1	Welsh originated from the Brythonic language of Celtic tribes	vital
+975079_2	Welsh is a Brythonic Celtic language	vital
+975079_3	Welsh evolved from Indo-European through Celtic	vital
+975079_4	Brythonic languages include Welsh, Cornish, and Breton	okay
+975079_5	Celtic languages split into Brythonic and Goidelic groups	okay
+975079_6	Welsh is one of Europe's oldest languages, dating back possibly 4,000 years	okay
+975079_7	Welsh has 582,000 speakers in Wales	okay
+975079_8	Worldwide, there are 591,000 Welsh speakers	okay
+975079_9	Welsh is spoken in north, west, and south Wales	okay
+975079_10	Welsh omits consonants j, k, q, v, x, z	okay
+975079_11	Welsh is phonetic and emphasizes the penultimate syllable	okay

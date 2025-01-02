@@ -1,0 +1,490 @@
+1037798_1	Captain Robert Gray was an American maritime explorer.	vital
+1037798_2	Explored the Columbia River in 1792 for the United States.	vital
+1037798_3	Named the Columbia River after his ship, the Columbia Rediviva.	vital
+1037798_4	His exploration led to U.S. claims over the Pacific Northwest.	vital
+1037798_5	First U.S. ship captain to circumnavigate the globe.	vital
+1037798_6	Entered the Columbia River on May 11, 1792.	okay
+1037798_7	Explored 20 miles up the Columbia River to Grays Bay.	okay
+1037798_8	Grays Bay was named after him by Lieutenant William Broughton.	okay
+1037798_9	The state of Oregon was claimed by the U.S. after his exploration.	okay
+1037798_10	The province of British Columbia is named after the Columbia River.	okay
+1037798_11	Captain Gray's historical vessels include the Lady Washington and Columbia Rediviva.	okay
+1037798_12	Born May 10, 1755, in Tiverton, Rhode Island.	okay
+1037798_13	Died in summer 1806, at sea near the eastern U.S. coast.	okay
+1037798_14	Outfitted by Boston merchants for voyages in 1787 and 1790.	okay
+104861_1	Basic polished concrete floor costs $3 to $8 per square foot	vital
+104861_2	Concrete floors cost $2 to $17 per square foot on average	vital
+104861_3	Basic interior concrete floor costs $2.50 to $3.00 per square foot	vital
+104861_4	Elaborate concrete finishes can cost upwards of $10 per square foot	vital
+104861_5	Size of the floor affects cost per square foot due to economies of scale	vital
+104861_6	Complexity of the job significantly affects the price	vital
+104861_7	Interior concrete jobs may require more work and cost slightly more	vital
+104861_8	Stained concrete starts at $2 to $4 per square foot	okay
+104861_9	Polished concrete with decorative scoring and staining costs up to $8 per square foot	okay
+104861_10	Commercial floors with staining and scoring range from $3 to $7 per square foot	okay
+104861_11	High-end decorative concrete floors run $15 to $30 per square foot	okay
+104861_12	Mid-range decorative concrete floors cost $7 to $14 per square foot	okay
+104861_13	Stained concrete with saw cut patterns and multiple colors costs $5 to $17 per square foot	okay
+104861_14	Economical concrete floor options cost less than $6 per square foot	okay
+104861_15	Older concrete repairs cost $2 to $5 per square foot	okay
+104861_16	Silicone-based sealer adds $1 to $2 per square foot	okay
+104861_17	Extensive surface preparation can add up to $2 per square foot	okay
+104861_18	Full resurfacing adds $2 to $3 per square foot	okay
+1063750_1	Zimmerman Telegram proposed German-Mexican alliance against US	vital
+1063750_2	German unrestricted submarine warfare targeted American ships	vital
+1063750_3	Zimmerman Telegram helped turn US public opinion against Germany	vital
+1063750_4	German U-boats sank three American merchant ships in March 1917	vital
+1063750_5	Wilson aimed to make the world safe for democracy	okay
+1063750_6	US declared war on Germany on April 6, 1917	okay
+1063750_7	Wilson requested war declaration on April 2, 1917	okay
+1063750_8	Congress supported war declaration against Germany in April 1917	okay
+1063750_9	Zimmerman Telegram promised Mexico Texas, Arizona, New Mexico	okay
+1063750_10	Sussex Pledge rescinded by Germany in January 1917	okay
+1063750_11	Initial US policy was strict neutrality in WW1	okay
+1063750_12	Wilson's re-election campaign touted keeping US out of war	okay
+1103812_1	CIS formed by Russia, Ukraine, Belarus on December 8, 1991	vital
+1103812_2	CIS is a successor to the Soviet Union	okay
+1103812_3	CIS includes states from the former Soviet Union	okay
+1103812_4	CIS formation marked the end of the Soviet Union	okay
+1103812_5	CIS aimed to promote cooperation among former Soviet Republics	okay
+1103812_6	Baltic Republics never joined the CIS	okay
+1103812_7	Mikhail Gorbachev resigned on December 25, 1991	okay
+1106007_1	Visceral: related to deep internal body organs	vital
+1106007_2	Visceral: felt deep within the body, not intellectual	vital
+1106007_3	Visceral: instinctive, unreasoning	vital
+1106007_4	Visceral: coming from strong emotions, not from logic	vital
+1106007_5	Visceral: dealing with crude or elemental emotions	okay
+1106007_6	Visceral: often refers to emotional rather than physiological aspects	okay
+1106007_7	Viscera: internal organs in the body's large cavity	okay
+1106007_8	Visceral: medical term relating to the viscera	okay
+1106007_9	Viscera originates from Latin, meaning internal organs	okay
+1106007_10	Visceral: felt deep down in a figurative sense	okay
+1110199_1	Wi-Fi is intended for local area networks; Bluetooth for personal area networks.	vital
+1110199_2	Wi-Fi connects devices via a central access point; Bluetooth does not.	vital
+1110199_3	Wi-Fi provides high-speed internet access; Bluetooth connects devices for data exchange.	vital
+1110199_4	Wi-Fi Direct can transfer data at speeds up to 250Mbps.	okay
+1110199_5	Bluetooth 4.0 can transfer data at speeds up to 25Mbps.	okay
+1110199_6	Wi-Fi uses WPA2 security with AES 256-bit encryption.	okay
+1110199_7	Bluetooth 4.0 uses AES 128-bit encryption for data security.	okay
+1110199_8	Wi-Fi has a greater range up to 100 meters.	okay
+1110199_9	Bluetooth connects devices within about 30 meters.	okay
+1110199_10	Wi-Fi supports more simultaneous connections depending on the router.	okay
+1110199_11	Bluetooth can connect up to 7 devices in a piconet.	okay
+1110199_12	Wi-Fi is better for high-speed cabling replacement and general network access.	okay
+1110199_13	Bluetooth is popular in wireless speakers and for streaming audio at lower quality.	okay
+1112341_1	SANUK is central to Thai daily life, emphasizing fun in social interactions	vital
+1112341_2	JAI YEN, meaning calmness, is a key aspect of Thai daily life	vital
+1112341_3	Thai people use MAI PEN RAI to express acceptance and avoid conflict	vital
+1112341_4	Thai people predominantly practice Theravada Buddhism	okay
+1112341_5	Food is central to social occasions in Thailand	okay
+1112341_6	Criticism in public is avoided to prevent 'losing face'	okay
+1112341_7	Muay Thai is widely practiced and integral to Thai culture	okay
+1112341_8	Songkran Festival in April is a major event in Thai culture	okay
+1112341_9	Thai culture emphasizes self-reliance and discourages self-delusion	okay
+1112341_10	Elephants are an important part of Thai culture and daily life	okay
+1112341_11	Thais shower at least once a day, often more	okay
+1113437_1	Spruce trees grow 20-60 meters tall with whorled branches.	vital
+1113437_2	Spruce trees have a conical shape with dense foliage.	vital
+1113437_3	Spruce trees are evergreen conifers.	vital
+1113437_4	Spruce needles are generally stiff and sharp; about 1 inch long.	vital
+1113437_5	Spruce trees have needle-shaped leaves attached singly around twigs.	vital
+1113437_6	Each spruce needle springs from a tiny, woody peg.	okay
+1113437_7	Most spruce cones have papery thin scales.	okay
+1113437_8	Spruce trees bear hanging cones with persistent scales.	okay
+1113437_9	Spruce cones are slender, cylindrical, 6-10 cm long.	okay
+1113437_10	Spruce needle color ranges from dark green to blue.	okay
+1113437_11	Spruce wood is soft and light.	okay
+1113437_12	Most spruce bark is thin and flaky.	okay
+1114646_1	Famvir treats shingles, cold sores, and genital herpes.	vital
+1114646_2	Famvir is prescribed for infections caused by herpes viruses.	vital
+1114646_3	Famvir reduces severity and duration of herpes symptoms.	okay
+1114646_4	Famvir is an antiviral drug used in pill form.	okay
+1114646_5	Famvir must be started within 72 hours of rash appearance for shingles.	okay
+1114646_6	Famvir helps reduce the number of future genital herpes episodes.	okay
+1114646_7	Famvir is not a cure, but manages symptoms of herpes virus.	okay
+1114646_8	Famvir is an alternative for those intolerant to acyclovir.	okay
+1114646_9	Famvir is used to treat hepatitis B.	okay
+1114819_1	Durable Medical Equipment (DME) consists of items primarily used for medical purposes	vital
+1114819_2	Includes wheelchairs, walkers, crutches, hospital beds	vital
+1114819_3	Also includes home oxygen equipment, power chairs	vital
+1114819_4	Further includes home dialysis systems, monitoring systems	vital
+1114819_5	Also includes nebulizers, canes, air fluidized beds	vital
+1114819_6	Further includes commode chairs, infusion pumps, patient lifts	vital
+1114819_7	Can include continuous glucose monitors, blood sugar test strips	vital
+1114819_8	Covered under Medicare Part B	vital
+1114819_9	Not useful to a person in the absence of illness, disability, or injury	okay
+1114819_10	Must be prescribed by a physician	okay
+1114819_11	Reusable and can withstand repeated use	okay
+1114819_12	Appropriate for use in the home	okay
+1114819_13	Medicare Part B covers 80% after deductible	okay
+1115776_1	AML surveillance analysts monitor transactions for suspicious activities	vital
+1115776_2	Analysts ensure compliance with anti-money laundering regulations	vital
+1115776_3	AML analysts work within financial institutions' compliance divisions	vital
+1115776_4	They use transaction monitoring systems for AML activities	vital
+1115776_5	AML surveillance involves detecting and reporting money laundering	vital
+1115776_6	Responsibilities include reporting to Scenario Review Managers	okay
+1115776_7	They assist in the administration of AML programs	okay
+1115776_8	Analysts may provide oversight of account surveillance	okay
+1115776_9	They help in implementing AML rules under the Bank Secrecy Act	okay
+1115776_10	AML analysts may require 2+ years of experience	okay
+1117099_1	Active margins are convergent plate boundaries.	vital
+1117099_2	Active margins involve subduction of oceanic lithosphere.	vital
+1117099_3	Active margins are associated with volcanic and earthquake activity.	vital
+1117099_4	Active margins can involve collision of oceanic and continental plates or two oceanic plates.	vital
+1117099_5	Active margins are also known as destructive plate boundaries.	vital
+1117099_6	Ocean trenches are common features at active margins.	okay
+1117099_7	Active margins can be narrow and steep with volcanic mountains.	okay
+1117099_8	Continental arcs and volcanic arcs can form at active margins.	okay
+1117099_9	Active margins are actively deforming regions.	okay
+1117099_10	Active margins are located along continental edges.	okay
+1121402_1	Contour plowing reduces soil erosion.	vital
+1121402_2	Contour plowing minimizes top soil loss.	vital
+1121402_3	Contour plowing prevents formation of rills and gullies.	vital
+1121402_4	Contour plowing allows water time to infiltrate the soil.	okay
+1121402_5	Contour plowing creates a water break during heavy run-off.	okay
+1121402_6	Contour plowing follows land's elevation contour lines.	okay
+1121709_1	Name derives from 3% of colonial British subjects fighting in the Revolutionary War	vital
+1121709_2	Loosely organized movement formed in late 2008	vital
+1121709_3	Three Percenters are modeled after Revolutionary War fighters	okay
+1121709_4	Three Percenters refuse to comply with laws violating second amendment rights	okay
+1121709_5	Movement promotes resistance against perceived government overreach	okay
+1121709_6	Associated with anti-government extremist movements	okay
+1121709_7	Growth linked to fears of federal government infringing on rights	okay
+1121709_8	Three Percenters symbolized by Roman numeral III and American flag variant	okay
+1121709_9	Also known as Threepers, 3%, III Percenters	okay
+1121709_10	Not an extensive list but indicative of key traits and beliefs	okay
+1124210_1	Tracheids are part of the xylem in vascular plants	vital
+1124210_2	Tracheids are found in all higher plants except certain angiosperms	vital
+1124210_3	Tracheids function in water and mineral salt transport	okay
+1124210_4	Tracheids are one of two types of tracheary elements	okay
+1124210_5	Tracheids lack perforation plates unlike vessel elements	okay
+1124210_6	Tracheids are elongated, narrow, dead cells	okay
+1124210_7	Tracheids provide structural support in softwoods	okay
+1124210_8	Tracheids have a higher surface to volume ratio	okay
+1124210_9	Tracheids have walls with annular, spiral, or scalene thickenings	okay
+1124210_10	Tracheids are usually polygonal in cross-section	okay
+1124210_11	Xylem also contains vessel elements, parenchyma, and fibers	okay
+1124210_12	Vessel elements are joined by perforations into vessels	okay
+1129237_1	Hydrogen becomes liquid below -252.87Â°C (-423.17 Â°F)	vital
+1129237_2	Hydrogen changes from gas to liquid at -252.77Â°C (-422.99Â°F)	vital
+1129237_3	Hydrogen solidifies below -259Â°C (-434Â°F)	okay
+1129237_4	Hydrogen changes from liquid to solid at -259.2Â°C (-434.6Â°F)	okay
+1129237_5	Liquid hydrogen used as rocket fuel	okay
+1129237_6	Hydrogen is a colorless, odorless, tasteless gas	okay
+1129237_7	Hydrogen's molecular formula is H2	okay
+1129237_8	Hydrogen's density is 0.08999 grams per liter	okay
+1129237_9	Hydrogen slightly soluble in water, alcohol	okay
+1133167_1	Average temperatures in Jamaica range between 80-90°F.	vital
+1133167_2	High humidity year-round in Jamaica, 63% to 77%.	vital
+1133167_3	Jamaica has a tropical climate with hot and humid weather at sea level.	vital
+1133167_4	Hurricane season in Jamaica is from June 1 to November 30.	okay
+1133167_5	Peak hurricane months in Jamaica are August and September.	okay
+1133167_6	Rainiest months in Jamaica are May, June, October, November.	okay
+1133167_7	October is the rainiest month in Jamaica.	okay
+1133167_8	Higher inland regions in Jamaica have a more temperate climate.	okay
+1133167_9	The coolest times in Jamaica are December to February.	okay
+1133167_10	Best time to visit Jamaica is November to mid-December.	okay
+1133167_11	Jamaica lies in the hurricane belt of the Atlantic Ocean.	okay
+1133167_12	Eastern coast of Jamaica receives the most rain.	okay
+130510_1	Declaratory judgment determines present and future rights of parties.	vital
+130510_2	Declaratory judgments do not order actions or award damages.	vital
+130510_3	Declaratory judgments are legally binding and conclusive.	vital
+130510_4	Declaratory judgments require actual, justiciable controversies within court jurisdiction.	vital
+130510_5	Declaratory judgments can clarify legal rights or constitutionality of laws.	vital
+130510_6	Declaratory judgments not for rendering advisory opinions.	vital
+130510_7	Declaratory Judgment Act allows broad-based declaratory relief.	vital
+130510_8	Declaratory judgments used by insurers to determine policy applicability.	okay
+130510_9	Declaratory judgments involve substantial, concrete controversies.	okay
+130510_10	Declaratory judgments can be sought against claims, counterclaims, or cross claims.	okay
+130510_11	Declaratory judgments prevent further court resolutions on the same issue unless appealed.	okay
+131843_1	SIGMETs are weather advisories for aircraft safety.	vital
+131843_2	SIGMETs indicate significant meteorological conditions.	vital
+131843_3	There are convective and non-convective SIGMETs.	okay
+131843_4	Non-convective SIGMETs are issued for severe turbulence, icing, or IMC due to dust, sand, volcanic ash over a 3,000-square-mile area.	okay
+131843_5	SIGMETs cover severe weather like turbulence, icing, poor visibility.	okay
+131843_6	SIGMETs are issued for conditions like tornadoes, thunderstorms, severe icing.	okay
+131843_7	SIGMETs can delay or prevent flight operations.	okay
+131843_8	SIGMETs are updated in six-hour increments.	okay
+131843_9	SIGMETs are available for up to a 24-hour period.	okay
+146187_1	McDouble has one cheese slice	vital
+146187_2	Double Cheeseburger has two cheese slices	vital
+146187_3	Both burgers feature two beef patties	vital
+146187_4	Both burgers include pickles, onions, ketchup, and mustard	vital
+146187_5	McDouble is often cheaper, sometimes on the Dollar Menu	okay
+146187_6	Double Cheeseburger has 440 calories	okay
+146187_7	McDouble has 390 calories	okay
+146187_8	Double Cheeseburger has 25 grams of protein	okay
+146187_9	McDouble has 23 grams of protein	okay
+146187_10	Double Cheeseburger has 22 grams of fat	okay
+146187_11	McDouble has 18 grams of fat	okay
+146187_12	Double Cheeseburger has 1,050mg of sodium	okay
+146187_13	McDouble has 850mg of sodium	okay
+148538_1	BSN is a Bachelor of Science in Nursing, RN is a licensure	vital
+148538_2	BSN programs typically take 4 years, RN licensure can be obtained with 2 years via ADN	vital
+148538_3	BSN includes more comprehensive education in nursing theory and practice	vital
+148538_4	Both BSN and ASN graduates can become RNs	vital
+148538_5	BSN-educated RNs earn more than RNs with an associate's degree	okay
+148538_6	BSN offers more opportunities in management and leadership roles	okay
+148538_7	BSN graduates may seek greater responsibility within healthcare organizations	okay
+148538_8	BSN programs include additional coursework in leadership and public health	okay
+148538_9	Many healthcare facilities require nurses to have a BSN for quality care	okay
+148538_10	BSN can lead to higher-paying positions due to advanced education requirements	okay
+148538_11	Magnet hospitals require 75% of nurse managers to have a BSN or higher	okay
+148538_12	BSN degree provides more job opportunities and marketability	okay
+148538_13	Both BSN and ASN graduates take the same NCLEX-RN licensure exam	okay
+148538_14	RN to BSN programs are available for current RNs to enhance qualifications	okay
+156493_1	Goldfish can grow over 12 inches long	vital
+156493_2	Common goldfish can grow up to 18 inches and 10 pounds	vital
+156493_3	Goldfish can reach up to 23 inches in optimal conditions	vital
+156493_4	Fancy goldfish typically grow to 8 inches	vital
+156493_5	Goldfish growth can be stunted in small tanks	vital
+156493_6	Goldfish growth depends on tank size and water quality	vital
+156493_7	Goldfish life expectancy up to 30 years, record is 49 years	okay
+156493_8	Goldfish require at least a 30 gallon tank for proper growth	okay
+156493_9	Goldfish grow faster with a varied diet	okay
+156493_10	Goldfish ponds should be at least 8 feet X 6 feet and 3 feet deep	okay
+156493_11	Fancy goldfish have a life expectancy of about 12 years	okay
+156493_12	Goldfish belong to the carp family and were domesticated in China	okay
+168216_1	Legionella pneumophila causes Legionnaires' disease, a severe pneumonia form.	vital
+168216_2	Legionnaires' disease is caused by inhaling water mist contaminated with Legionella pneumophila.	okay
+168216_3	Legionella pneumophila is responsible for 90% of Legionnaires' disease infections.	okay
+168216_4	Legionnaires' disease symptoms include high fever, chills, cough, and muscle aches.	okay
+168216_5	Infection occurs from inhaling bacteria, not through person-to-person contact.	okay
+168216_6	Legionella pneumophila is the most common species causing Legionnaires' disease.	okay
+168216_7	Legionella pneumophila is found in plumbing, shower heads, and water-storage tanks.	okay
+168216_8	Legionella bacteria are present in the environment like lakes and streams.	okay
+168216_9	Legionella pneumophila survives in soil and water but rarely causes infections outdoors.	okay
+168216_10	Each year, 10,000 to 18,000 people in the US are infected with Legionella.	okay
+182539_1	Monotonic function example: f(x) = x^2 on [0, ∞)	vital
+182539_2	Monotonic function example: f(x) = -x	vital
+182539_3	Monotonic function example: f(x) = x^2 on (-∞, 0]	vital
+182539_4	Monotonic function preserves or reverses order	okay
+182539_5	Monotonic function defined as non-decreasing or increasing	okay
+182539_6	Monotonic functions can be non-differentiable at countable points	okay
+182539_7	Strictly increasing function uses strict order <	okay
+182539_8	Strictly decreasing function uses strict order >	okay
+182539_9	Piecewise monotony can include monotonic functions	okay
+182539_10	Monotonicity first arose in calculus	okay
+182539_11	Generalized to order theory	okay
+183378_1	Exons are coding sequences within a gene	vital
+183378_2	Exons remain in mRNA after introns are removed by splicing	vital
+183378_3	Exons are joined together to form functional mRNA	vital
+183378_4	Exons are essential for protein synthesis	vital
+183378_5	Exons are expressed sequences in eukaryotic genes	vital
+183378_6	RNA splicing removes introns and joins exons	okay
+183378_7	Exons correspond to both DNA and mRNA sequences	okay
+183378_8	Exons can include coding and untranslated sequences	okay
+183378_9	Alternative splicing of exons produces different protein isoforms	okay
+183378_10	Exons are found in eukaryotic DNA	okay
+19335_1	Anthropology: study of humans, culture, and environmental relations	vital
+19335_2	Human ecology integrates culture, biology, and environment in anthropology	vital
+19335_3	Environmental anthropology examines human-environment relationships	okay
+19335_4	Anthropology studies human-environment interactions across time and space	okay
+19335_5	Environment: sum of elements impacting organism development and survival	okay
+19335_6	Adaptation: behavioral patterns enabling cultural environmental coping	okay
+207786_1	Mako and Great White Sharks are partially warm-blooded	vital
+207786_2	Salmon Shark is warm-blooded	vital
+207786_3	Lamnid sharks are endothermic, maintaining higher body temperatures	vital
+207786_4	Some fish like swordfish and Lamnid sharks are endothermic	vital
+207786_5	Warm-bodied sharks need over ten times more food than cold-bodied sharks	okay
+207786_6	Warm-bodied sharks can elevate body temperature up to 13°C above water	okay
+207786_7	Warm-bodied sharks have warm flanks and viscera, cold heart and gills	okay
+207786_8	White sharks use counter current heat exchange to stay warm	okay
+207786_9	Mackerel sharks have a heat-conserving mechanism called rete mirabile	okay
+207786_10	Tuna and mackerel sharks can maintain higher body temperatures than surrounding water	okay
+264014_1	Flea life cycle stages: egg, larva, pupa, adult.	vital
+264014_2	Flea life cycle can last from two weeks to one year.	vital
+264014_3	Fleas undergo complete metamorphosis.	vital
+264014_4	Environmental factors like temperature and humidity affect the flea life cycle.	vital
+264014_5	Flea pupae can remain dormant for up to 5 months.	vital
+264014_6	Eggs hatch in 1-6 days depending on environmental conditions.	okay
+264014_7	Larval stage lasts 6-36 days.	okay
+264014_8	Pupae remain in cocoon for 1 week to 1 year.	okay
+264014_9	Adult fleas live 30-90 days on average.	okay
+264014_10	Adult fleas need a blood meal to reproduce.	okay
+264014_11	Flea populations: 50% eggs, 30% larvae, 15% pupae, 5% adults.	okay
+264014_12	Eggs and larvae constitute about 80% of fleas in an infested home.	okay
+264014_13	Fleas prefer temperatures between 70° and 90° Fahrenheit.	okay
+264014_14	Relative humidity of 75% or more is ideal for fleas.	okay
+264014_15	Vacuuming helps stimulate flea pupae emergence.	okay
+359349_1	Midsegment of a trapezoid joins midpoints of the legs	vital
+359349_2	Midsegment is parallel to the bases	vital
+359349_3	Midsegment length equals average of the bases	vital
+359349_4	Endpoints of midsegment are midpoints of the legs	vital
+359349_5	Trapezoid has two bases and two non-parallel sides	okay
+359349_6	Midsegment is also known as the median or midline	okay
+359349_7	Isosceles trapezoid has equal non-parallel sides	okay
+359349_8	In isosceles trapezoid, angles by each base are equal	okay
+359349_9	Area of trapezoid formula: [(base1 + base2) x height] / 2	okay
+405717_1	CDG Airport is not in main Paris	vital
+405717_2	CDG Airport is 25 km northeast of Paris	vital
+405717_3	Travel from CDG to central Paris takes about 45 minutes	vital
+405717_4	RER Line B connects CDG Airport to central Paris in 35 minutes	vital
+405717_5	CDG Airport is the larger of Paris' two airports	vital
+405717_6	CDG Airport is also known as Roissy Airport	okay
+405717_7	CDG Airport is the largest international airport in France	okay
+405717_8	CDG Airport serves as the principal hub for Air France	okay
+405717_9	CDG Airport is a European hub for Delta Air Lines	okay
+405717_10	CDG Airport has three terminals	okay
+405717_11	CDG Airport covers an area of more than 19 square miles	okay
+405717_12	CDG Airport handled 58,164,612 passengers in 2010	okay
+443396_1	LPS laws are part of the Lanterman-Petris-Short Act	vital
+443396_2	LPS Act provides for involuntary civil commitment in California	vital
+443396_3	LPS conservatorship requires finding that person is gravely disabled	okay
+443396_4	Gravely disabled means unable to meet basic needs due to mental disorder	okay
+443396_5	LPS conservatorship gives legal authority to make decisions for a mentally ill person	okay
+443396_6	Section 5150 allows involuntary confinement for mental disorder risks	okay
+443396_7	Section 5270 allows a 30-day hold for gravely disabled psychiatric patients	okay
+443396_8	Section 5260 is a third step involuntary psychiatric hold	okay
+443396_9	Involuntary holds include 72-hour and 14-day assessments	okay
+443396_10	WIC 5170 provides for involuntary detention of chronic alcoholics	okay
+443396_11	LPS designated facilities include private or county hospitals	okay
+451602_1	Mechanical ventilation: movement of gas into and out of lungs by external source.	vital
+451602_2	Positive pressure ventilation pushes air into trachea.	vital
+451602_3	Negative pressure ventilation sucks air into lungs.	vital
+451602_4	Modes of mechanical ventilation depend on clinician familiarity.	vital
+451602_5	Mechanical ventilation assists patient's breathing.	okay
+451602_6	Mechanical ventilators can fully control breathing for patients.	okay
+451602_7	Ventilators support from infants to adults in various settings.	okay
+451602_8	Assist-control ventilation allows patient-initiated breaths at set volume or pressure.	okay
+451602_9	Continuous mandatory ventilation: all breaths are mandatory, patient or machine triggered.	okay
+451602_10	Ventilation involves tidal volume of gas exchanged in lungs.	okay
+451602_11	BiPAP machines have two pressure settings for inhalation and exhalation.	okay
+451602_12	CPAP uses mild air pressure to keep airways open.	okay
+47923_1	Synaptic knob is another term for axon terminal.	vital
+47923_2	Axon terminals are the endpoints of axons.	vital
+47923_3	Synaptic knobs release neurotransmitters into the synapse.	vital
+47923_4	Terminal button is also known as synaptic knob, end button, or terminal bulb.	vital
+47923_5	Neural signals are transmitted from axon terminals to dendrites of another neuron.	okay
+47923_6	Synapse is the site of impulse transmission between neurons.	okay
+47923_7	Action potentials travel along the axon to the axon terminals.	okay
+47923_8	Synaptic knobs are involved in the chemical process of neuron interaction.	okay
+47923_9	Axon terminals make synaptic connections with other nerve cells or effector cells.	okay
+47923_10	Axon terminals contain various neurotransmitters and release them at the synapse.	okay
+489204_1	Kidney stones can cause severe right pelvic pain	vital
+489204_2	Ectopic pregnancy can cause severe right pelvic pain	vital
+489204_3	Right ovarian cysts may cause right pelvic pain	vital
+489204_4	Pelvic inflammatory disease often results in right pelvic pain	vital
+489204_5	Endometriosis often presents with right pelvic pain	vital
+489204_6	Fibroids can cause right pelvic pain	vital
+489204_7	Infection of the right kidney leads to right pelvic pain	vital
+489204_8	Miscarriage may lead to right pelvic pain	vital
+489204_9	Menstrual cramps can be felt as right pelvic pain	vital
+489204_10	Pain from appendicitis starts near navel and moves to right lower abdomen	vital
+489204_11	Ovulation pain can be felt in the right pelvic area	vital
+489204_12	Diverticulitis can lead to right pelvic pain	vital
+489204_13	Irritable bowel syndrome can cause right pelvic pain	vital
+489204_14	Kidney or bladder stones can cause right pelvic pain	vital
+489204_15	Muscle spasms or strains can cause right pelvic pain	vital
+489204_16	Constipation can lead to pain in the lower right abdomen	vital
+489204_17	Right pelvic pain may be referred from nearby organ diseases	vital
+489204_18	Inguinal hernia can cause right pelvic pain	vital
+489204_19	Appendicitis typically causes pain in lower right abdomen	okay
+489204_20	Urinary tract infection can cause lower right abdominal pain	okay
+490595_1	RSA is a public-key encryption algorithm	vital
+490595_2	Uses a pair of keys: private key and public key	vital
+490595_3	Public key encrypts data, private key decrypts it	vital
+490595_4	Based on difficulty of factoring large numbers	okay
+490595_5	Employs prime factorization as a trap door for encryption	okay
+490595_6	Standard for encrypting data sent over the internet	okay
+490595_7	Considered more secure than symmetric encryption	okay
+490595_8	Widely used in PGP, GPG, and Internet Explorer	okay
+490595_9	Integrated in hardware via TPM chips	okay
+490595_10	Standard method for securing data over insecure networks	okay
+490595_11	RSA stands for Ron Rivest, Adi Shamir, and Leonard Adleman	okay
+490595_12	Developed by Ron Rivest, Adi Shamir, Leonard Adleman in 1977	okay
+527433_1	Three major types of dysarthria in cerebral palsy: spastic, dyskinetic, ataxic.	vital
+527433_2	Cerebral palsy often results in dysarthria.	vital
+527433_3	Dysarthria can manifest as slurred, choppy, or mumbled speech.	okay
+527433_4	Dysarthria involves difficulty forming and expressing words.	okay
+527433_5	Symptoms of dysarthria include altered speech rate and limited mouth movement.	okay
+527433_6	Dysarthria may co-occur with dysphagia due to muscle impairments.	okay
+527433_7	Conditions like ALS, brain injury, and cerebral palsy can cause dysarthria.	okay
+527433_8	Types of dysarthria vary based on affected nervous system area.	okay
+527433_9	Hypokinetic dysarthria is associated with Parkinson's disease.	okay
+527433_10	Ataxic dysarthria involves issues with muscle coordination and control.	okay
+573724_1	Social determinants of health include socioeconomic circumstances, social structure, and cultural factors.	vital
+573724_2	Health outcomes influenced by conditions where people are born, grow, live, work, age.	vital
+573724_3	Social determinants shaped by economic policies, development agendas, social norms, policies, and political systems.	vital
+573724_4	Social determinants include housing, employment, income, education, and access to resources.	vital
+573724_5	Social determinants reflect social factors and physical conditions of the environment.	vital
+573724_6	Social exclusion prevents full participation in economic, social, and political life.	okay
+573724_7	Health behaviors and physical environment significantly impact health outcomes.	okay
+573724_8	Social and economic factors account for 40 percent of population health.	okay
+573724_9	Economic development and health status dynamically influence each other.	okay
+833860_1	Fondue, involving melted cheese, is a traditional Swiss meal	vital
+833860_2	Rosti is a popular Swiss dish made from potatoes	vital
+833860_3	Raclette is a famous Swiss dish made with semi-firm cow's milk cheese	vital
+833860_4	Swiss chocolate is renowned globally	okay
+833860_5	Swiss cheese varieties include Gruyere, Emmentaler, and Vacherin	okay
+833860_6	Swiss cuisine reflects Italian, French, and German influences	okay
+833860_7	Zopf, a plaited loaf, is a popular Swiss bread	okay
+833860_8	Traditional Swiss food is rich and calorie-dense	okay
+833860_9	Switzerland is famous for its diverse and seasonal cuisine	okay
+833860_10	Cheese with wine is a favorite in Switzerland	okay
+855410_1	Theraderm products include anti-aging creams and moisturizers.	vital
+855410_2	Theraderm offers an acne system under the brand Reversion.	vital
+855410_3	Theraderm Skin Renewal System aims for younger looking skin.	vital
+855410_4	Addresses fine lines, rough skin, and sun damage.	vital
+855410_5	Theraderm produces clinical-grade skin care products.	okay
+855410_6	Founded in 1996 by James Beckman, M.D.	okay
+855410_7	Headquartered in Springdale, Arkansas.	okay
+855410_8	Main ingredient in Theraderm cream is lanolin.	okay
+855410_9	Lanolin boosts the natural moisture barrier of skin.	okay
+855410_10	Lanolin draws moisture to the application site.	okay
+855410_11	Theraderm is promoted by doctors and dermatologists.	okay
+855410_12	The system includes 5 products.	okay
+855410_13	Some consumer reviews report low scores for the renewal system.	okay
+87181_1	Chronic hypertension causes left ventricular hypertrophy	vital
+87181_2	Aortic valve stenosis increases left ventricular workload, causing LVH	vital
+87181_3	High blood pressure leads to left ventricular enlargement	vital
+87181_4	Increased workload on heart causes muscle thickening and LVH	vital
+87181_5	Aortic insufficiency causes LVH due to volume and pressure overload	vital
+87181_6	Diastolic dysfunction from chronic hypertension leads to LVH	vital
+87181_7	Hypertrophic cardiomyopathy is an inherited cause of LVH	okay
+87181_8	Obesity can lead to left ventricular hypertrophy regardless of blood pressure	okay
+87181_9	Amyloidosis can lead to left ventricular hypertrophy	okay
+87181_10	Left ventricular hypertrophy can lead to serious complications like heart failure	okay
+87452_1	Suicide surpassed war as the military's leading cause of death	vital
+87452_2	More soldiers committed suicide than were killed in combat in 2012	vital
+87452_3	22 military veteran suicides a day	vital
+87452_4	Suicide rate among recent veterans 50% higher than non-military civilians	vital
+87452_5	PTSD and moral injury are significant factors in military suicide	vital
+87452_6	Suicide rate for troops involuntarily discharged nearly three times higher	vital
+87452_7	Suicide rate for troops who left military early nearly twice as high	vital
+87452_8	PTSD symptoms include flashbacks, nightmares, and hyper-vigilance	vital
+87452_9	Army stopped soldiers from taking service weapons home, suicide rate fell by 40%	vital
+87452_10	Substance abuse involved in many military suicides	okay
+87452_11	Combat and operational stress contribute to military suicide	okay
+87452_12	Anxiety and mood disorders increase suicide risk	okay
+87452_13	True suicide rate in U.S. military was underreported post-2006	okay
+87452_14	U.S. veteran suicide rates as high as 8,000 a year	okay
+87452_15	Veterans account for 20 percent of suicides in America	okay
+87452_16	High rate of gun suicides in the U.S.	okay
+87452_17	Veterans disability compensation available for PTSD from military service	okay
+87452_18	VA eased PTSD disability compensation requirements in 2010	okay
+915593_1	Sous vide cooking is suitable for eggs	vital
+915593_2	Fish and seafood are ideal for sous vide to prevent overcooking	vital
+915593_3	Chicken can be cooked sous vide to avoid overcooking	vital
+915593_4	Beef tenderloin can be cooked sous vide for juicier results	vital
+915593_5	Steak can be cooked sous vide before finishing on a grill	vital
+915593_6	Sous vide can cook pork shoulder to various doneness	vital
+915593_7	Vegetables like carrots are enhanced when cooked sous vide	vital
+915593_8	Sweet potatoes can be cooked sous vide to enhance sweetness	vital
+915593_9	Corn on the cob can be cooked using sous vide in a cooler	vital
+915593_10	Fruits can be cooked sous vide with flavor additions	vital
+915593_11	Sous vide can be used to make desserts like custard-style ice cream	vital
+915593_12	Sous vide is suitable for preparing sauces like béarnaise	vital
+915593_13	Cheese and yogurt can be made using sous vide	vital
+915593_14	Cakes can be baked using sous vide techniques	vital
+915593_15	Pork jowl can be transformed into tender gelatin sous vide	vital
+915593_16	Monkfish can be cooked sous vide at various temperatures for texture	vital
+915593_17	Large, cheap cuts of meat can be cooked sous vide for premium texture	vital
+915593_18	Sous vide allows for even cooking of frozen or fresh meat	okay
+915593_19	Sous vide technique can be used for making egg salad	okay
+915593_20	Baked potatoes can be kept warm using sous vide in a cooler	okay
+962179_1	The Salvation Army was founded in 1865	vital
+962179_2	Founded by William Booth and his wife Catherine	okay
+962179_3	Originally named the East London Christian Mission	okay
+962179_4	Founded in London's East End	okay
+962179_5	William Booth was a former Methodist minister	okay
