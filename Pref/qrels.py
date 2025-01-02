@@ -2,7 +2,6 @@
 
 import string
 import sys
-from openai import OpenAI
 
 def main():
     for line in sys.stdin:
