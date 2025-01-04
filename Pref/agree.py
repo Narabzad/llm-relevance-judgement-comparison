@@ -85,16 +85,14 @@ if __name__ == "__main__":
                             agreement["AvU"]["agree"] += 1
 
     for kind in agreement:
-        if kind == 'BvA':
-            print ('Best vs. Acceptable:')
-        elif kind == 'BvU':
-            print ('Best vs. Unacceptable:')
-        else:
-            print ('Acceptable vs. Unacceptable:')
         total = sum(agreement[kind].values())
-        for type in agreement[kind]:
-            if total > 0:
-                percent = 100*agreement[kind][type]/total
+        if total > 0:
+            if kind == 'BvA':
+                print ('Best vs. Acceptable:')
+            elif kind == 'BvU':
+                print ('Best vs. Unacceptable:')
             else:
-                percent = 0.0
-            print ('    ', type, agreement[kind][type], f"{percent:.1f}%")
+                print ('Acceptable vs. Unacceptable:')
+            for type in agreement[kind]:
+                percent = 100*agreement[kind][type]/total
+                print ('    ', type, agreement[kind][type], f"{percent:.1f}%")
