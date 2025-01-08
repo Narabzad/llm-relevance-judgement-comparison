@@ -19,7 +19,7 @@ def load_qrels(filename):
     return qrels
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Computer agreement statistics')
+    parser = argparse.ArgumentParser(description='Compute agreement statistics')
     parser.add_argument('qrels', type=str, help='Qrels')
     parser.add_argument('log', type=str, help='Judgment log')
     args = parser.parse_args()
