@@ -22,13 +22,19 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Compute agreement statistics')
     parser.add_argument('qrels', type=str, help='Qrels')
     parser.add_argument('log', type=str, help='Judgment log')
+    parser.add_argument('--antique', action='store_true', help='Adjust for ANTIQUE qrels')
     args = parser.parse_args()
+
+    if args.antique:
+        unacceptable = 1
+    else:
+        unacceptable = 0
 
     qrels = load_qrels(args.qrels)
     qmax = {}
     for topic in qrels:
         if topic not in qmax:
-            qmax[topic] = 0
+            qmax[topic] = unacceptable 
         for docid in qrels[topic]:
             if qmax[topic] < qrels[topic][docid]:
                 qmax[topic] = qrels[topic][docid]
@@ -45,7 +51,7 @@ if __name__ == "__main__":
                 line = line.rstrip()
                 (at, topic, a, b, pjudge) = line.split()
                 if qrels[topic][a] == qmax[topic]:
-                    if qrels[topic][b] == 0:
+                    if qrels[topic][b] ==  unacceptable:
                         # Best(a) vs. Unacceptable(b)
                         if pjudge == '=':
                             agreement["BvU"]["tie"] += 1
@@ -57,14 +63,14 @@ if __name__ == "__main__":
                             agreement["BvA"]["tie"] += 1
                         else:
                             agreement["BvA"]["agree"] += 1
-                elif qrels[topic][a] == 0:
+                elif qrels[topic][a] == unacceptable:
                     if qrels[topic][b] == qmax[topic]:
                         # Best(b) vs. Unacceptable(a)
                         if pjudge == '=':
                             agreement["BvU"]["tie"] += 1
                         else:
                             agreement["BvU"]["disagree"] += 1
-                    elif qrels[topic][b] != 0:
+                    elif qrels[topic][b] != unacceptable:
                         # Acceptable(b) vs. Unacceptable(a)
                         if pjudge == '=':
                             agreement["AvU"]["tie"] += 1
@@ -77,7 +83,7 @@ if __name__ == "__main__":
                             agreement["BvA"]["tie"] += 1
                         else:
                             agreement["BvA"]["disagree"] += 1
-                    elif qrels[topic][b] == 0:
+                    elif qrels[topic][b] == unacceptable:
                         # Acceptable(a) vs. Unacceptable(b)
                         if pjudge == '=':
                             agreement["AvU"]["tie"] += 1
