@@ -53,7 +53,7 @@ runid,topic,ndcg_cut_10
 1,938400,0.7827
 1,940547,0.5474
 1,997622,1.0000
-1,amean,0.7271
+1,average,0.7271
 2,1030303,0.8980
 2,1037496,0.8475
 2,1043135,0.5772
@@ -108,7 +108,7 @@ runid,topic,ndcg_cut_10
 2,938400,0.7827
 2,940547,0.5474
 2,997622,1.0000
-2,amean,0.7113
+2,average,0.7113
 CoRT-bm25,1030303,0.7729
 CoRT-bm25,1037496,0.7941
 CoRT-bm25,1043135,0.5806
@@ -163,7 +163,7 @@ CoRT-bm25,914916,0.5883
 CoRT-bm25,938400,0.5304
 CoRT-bm25,940547,0.3424
 CoRT-bm25,997622,0.7133
-CoRT-bm25,amean,0.5992
+CoRT-bm25,average,0.5992
 CoRT-electra,1030303,0.9794
 CoRT-electra,1037496,0.9779
 CoRT-electra,1043135,0.7525
@@ -218,7 +218,7 @@ CoRT-electra,914916,0.5932
 CoRT-electra,938400,0.8712
 CoRT-electra,940547,0.5426
 CoRT-electra,997622,0.9558
-CoRT-electra,amean,0.7566
+CoRT-electra,average,0.7566
 CoRT-standalone,1030303,0.3271
 CoRT-standalone,1037496,0.9548
 CoRT-standalone,1043135,0.5548
@@ -273,7 +273,7 @@ CoRT-standalone,914916,0.4001
 CoRT-standalone,938400,0.9020
 CoRT-standalone,940547,0.6516
 CoRT-standalone,997622,0.9113
-CoRT-standalone,amean,0.5926
+CoRT-standalone,average,0.5926
 DLH_d_5_t_25,1030303,0.9651
 DLH_d_5_t_25,1037496,0.5923
 DLH_d_5_t_25,1043135,0.5467
@@ -328,7 +328,7 @@ DLH_d_5_t_25,914916,0.8643
 DLH_d_5_t_25,938400,0.1324
 DLH_d_5_t_25,940547,0.3232
 DLH_d_5_t_25,997622,0.5770
-DLH_d_5_t_25,amean,0.4935
+DLH_d_5_t_25,average,0.4935
 DoRA_Large,1030303,0.0000
 DoRA_Large,1037496,0.0000
 DoRA_Large,1043135,0.0000
@@ -383,7 +383,7 @@ DoRA_Large,914916,0.0000
 DoRA_Large,938400,0.0000
 DoRA_Large,940547,0.1389
 DoRA_Large,997622,0.2201
-DoRA_Large,amean,0.0414
+DoRA_Large,average,0.0414
 DoRA_Large_1k,1030303,0.4310
 DoRA_Large_1k,1037496,0.3194
 DoRA_Large_1k,1043135,0.2937
@@ -438,7 +438,7 @@ DoRA_Large_1k,914916,0.4175
 DoRA_Large_1k,938400,0.1692
 DoRA_Large_1k,940547,0.2220
 DoRA_Large_1k,997622,0.0694
-DoRA_Large_1k,amean,0.2661
+DoRA_Large_1k,average,0.2661
 DoRA_Med,1030303,0.0000
 DoRA_Med,1037496,0.0000
 DoRA_Med,1043135,0.0000
@@ -493,7 +493,7 @@ DoRA_Med,914916,0.0000
 DoRA_Med,938400,0.0000
 DoRA_Med,940547,0.0663
 DoRA_Med,997622,0.0784
-DoRA_Med,amean,0.0431
+DoRA_Med,average,0.0431
 DoRA_Small,1030303,0.0000
 DoRA_Small,1037496,0.0000
 DoRA_Small,1043135,0.0000
@@ -548,7 +548,7 @@ DoRA_Small,914916,0.0978
 DoRA_Small,938400,0.0000
 DoRA_Small,940547,0.0550
 DoRA_Small,997622,0.2201
-DoRA_Small,amean,0.0484
+DoRA_Small,average,0.0484
 NLE_pr1,1030303,0.9223
 NLE_pr1,1037496,0.9221
 NLE_pr1,1043135,0.6064
@@ -603,7 +603,7 @@ NLE_pr1,914916,0.6689
 NLE_pr1,938400,0.8427
 NLE_pr1,940547,0.5347
 NLE_pr1,997622,1.0000
-NLE_pr1,amean,0.7325
+NLE_pr1,average,0.7325
 NLE_pr2,1030303,0.9223
 NLE_pr2,1037496,0.9195
 NLE_pr2,1043135,0.5920
@@ -658,7 +658,7 @@ NLE_pr2,914916,0.7347
 NLE_pr2,938400,0.8254
 NLE_pr2,940547,0.5331
 NLE_pr2,997622,1.0000
-NLE_pr2,amean,0.7341
+NLE_pr2,average,0.7341
 NLE_pr3,1030303,0.9156
 NLE_pr3,1037496,0.9221
 NLE_pr3,1043135,0.6802
@@ -713,7 +713,7 @@ NLE_pr3,914916,0.7028
 NLE_pr3,938400,0.8290
 NLE_pr3,940547,0.5318
 NLE_pr3,997622,1.0000
-NLE_pr3,amean,0.7458
+NLE_pr3,average,0.7458
 RMIT-Bart,1030303,0.9551
 RMIT-Bart,1037496,0.8964
 RMIT-Bart,1043135,0.7841
@@ -768,7 +768,7 @@ RMIT-Bart,914916,0.4935
 RMIT-Bart,938400,0.7580
 RMIT-Bart,940547,0.5976
 RMIT-Bart,997622,1.0000
-RMIT-Bart,amean,0.7536
+RMIT-Bart,average,0.7536
 TF_IDF_d_2_t_50,1030303,0.8727
 TF_IDF_d_2_t_50,1037496,0.4716
 TF_IDF_d_2_t_50,1043135,0.4135
@@ -823,7 +823,7 @@ TF_IDF_d_2_t_50,914916,0.3052
 TF_IDF_d_2_t_50,938400,0.1104
 TF_IDF_d_2_t_50,940547,0.2682
 TF_IDF_d_2_t_50,997622,0.1518
-TF_IDF_d_2_t_50,amean,0.4580
+TF_IDF_d_2_t_50,average,0.4580
 TUW-TK-2Layer,1030303,0.7591
 TUW-TK-2Layer,1037496,0.8622
 TUW-TK-2Layer,1043135,0.1989
@@ -878,7 +878,7 @@ TUW-TK-2Layer,914916,0.6545
 TUW-TK-2Layer,938400,0.7598
 TUW-TK-2Layer,940547,0.5913
 TUW-TK-2Layer,997622,1.0000
-TUW-TK-2Layer,amean,0.6539
+TUW-TK-2Layer,average,0.6539
 TUW-TK-Sparse,1030303,0.8263
 TUW-TK-Sparse,1037496,0.7072
 TUW-TK-Sparse,1043135,0.3879
@@ -933,7 +933,7 @@ TUW-TK-Sparse,914916,0.9788
 TUW-TK-Sparse,938400,0.7581
 TUW-TK-Sparse,940547,0.5917
 TUW-TK-Sparse,997622,0.9216
-TUW-TK-Sparse,amean,0.6610
+TUW-TK-Sparse,average,0.6610
 bcai_bertl_pass,1030303,0.9902
 bcai_bertl_pass,1037496,0.9293
 bcai_bertl_pass,1043135,0.7375
@@ -988,7 +988,7 @@ bcai_bertl_pass,914916,0.5211
 bcai_bertl_pass,938400,0.8132
 bcai_bertl_pass,940547,0.6432
 bcai_bertl_pass,997622,0.9364
-bcai_bertl_pass,amean,0.7151
+bcai_bertl_pass,average,0.7151
 bcai_class_pass,1030303,0.9480
 bcai_class_pass,1037496,0.7243
 bcai_class_pass,1043135,0.6156
@@ -1043,7 +1043,7 @@ bcai_class_pass,914916,0.6410
 bcai_class_pass,938400,0.0757
 bcai_class_pass,940547,0.5156
 bcai_class_pass,997622,0.7631
-bcai_class_pass,amean,0.5600
+bcai_class_pass,average,0.5600
 bert_6,1030303,0.9000
 bert_6,1037496,0.7091
 bert_6,1043135,0.6926
@@ -1098,7 +1098,7 @@ bert_6,914916,0.7938
 bert_6,938400,0.6165
 bert_6,940547,0.5109
 bert_6,997622,0.6688
-bert_6,amean,0.6149
+bert_6,average,0.6149
 bigIR-BERT-R,1030303,0.9576
 bigIR-BERT-R,1037496,0.9524
 bigIR-BERT-R,1043135,0.7455
@@ -1153,7 +1153,7 @@ bigIR-BERT-R,914916,0.8005
 bigIR-BERT-R,938400,0.9134
 bigIR-BERT-R,940547,0.5347
 bigIR-BERT-R,997622,0.9576
-bigIR-BERT-R,amean,0.7201
+bigIR-BERT-R,average,0.7201
 bigIR-DCT-T5-F,1030303,0.6130
 bigIR-DCT-T5-F,1037496,0.9556
 bigIR-DCT-T5-F,1043135,0.8437
@@ -1208,7 +1208,7 @@ bigIR-DCT-T5-F,914916,0.4713
 bigIR-DCT-T5-F,938400,0.5730
 bigIR-DCT-T5-F,940547,0.5739
 bigIR-DCT-T5-F,997622,1.0000
-bigIR-DCT-T5-F,amean,0.7173
+bigIR-DCT-T5-F,average,0.7173
 bigIR-T5-BERT-F,1030303,0.8474
 bigIR-T5-BERT-F,1037496,0.9524
 bigIR-T5-BERT-F,1043135,0.7532
@@ -1263,7 +1263,7 @@ bigIR-T5-BERT-F,914916,0.6333
 bigIR-T5-BERT-F,938400,0.9134
 bigIR-T5-BERT-F,940547,0.5347
 bigIR-T5-BERT-F,997622,1.0000
-bigIR-T5-BERT-F,amean,0.7073
+bigIR-T5-BERT-F,average,0.7073
 bigIR-T5-R,1030303,0.7481
 bigIR-T5-R,1037496,0.9548
 bigIR-T5-R,1043135,0.8321
@@ -1318,7 +1318,7 @@ bigIR-T5-R,914916,0.7171
 bigIR-T5-R,938400,0.5698
 bigIR-T5-R,940547,0.5739
 bigIR-T5-R,997622,1.0000
-bigIR-T5-R,amean,0.7138
+bigIR-T5-R,average,0.7138
 bigIR-T5xp-T5-F,1030303,0.6130
 bigIR-T5xp-T5-F,1037496,0.9556
 bigIR-T5xp-T5-F,1043135,0.7612
@@ -1373,7 +1373,7 @@ bigIR-T5xp-T5-F,914916,0.4713
 bigIR-T5xp-T5-F,938400,0.3062
 bigIR-T5xp-T5-F,940547,0.6070
 bigIR-T5xp-T5-F,997622,1.0000
-bigIR-T5xp-T5-F,amean,0.7034
+bigIR-T5xp-T5-F,average,0.7034
 bl_bcai_mdl1_vs,1030303,0.9513
 bl_bcai_mdl1_vs,1037496,0.4870
 bl_bcai_mdl1_vs,1043135,0.6398
@@ -1428,7 +1428,7 @@ bl_bcai_mdl1_vs,914916,0.6154
 bl_bcai_mdl1_vs,938400,0.0496
 bl_bcai_mdl1_vs,940547,0.3291
 bl_bcai_mdl1_vs,997622,0.5220
-bl_bcai_mdl1_vs,amean,0.5092
+bl_bcai_mdl1_vs,average,0.5092
 bl_bcai_mdl1_vt,1030303,0.9051
 bl_bcai_mdl1_vt,1037496,0.7709
 bl_bcai_mdl1_vt,1043135,0.6033
@@ -1483,7 +1483,7 @@ bl_bcai_mdl1_vt,914916,0.7459
 bl_bcai_mdl1_vt,938400,0.3241
 bl_bcai_mdl1_vt,940547,0.6315
 bl_bcai_mdl1_vt,997622,0.6399
-bl_bcai_mdl1_vt,amean,0.5667
+bl_bcai_mdl1_vt,average,0.5667
 bm25_bert_token,1030303,0.9480
 bm25_bert_token,1037496,0.5482
 bm25_bert_token,1043135,0.6458
@@ -1538,7 +1538,7 @@ bm25_bert_token,914916,0.6420
 bm25_bert_token,938400,0.0528
 bm25_bert_token,940547,0.1637
 bm25_bert_token,997622,0.5730
-bm25_bert_token,amean,0.4686
+bm25_bert_token,average,0.4686
 fr_pass_roberta,1030303,0.7411
 fr_pass_roberta,1037496,0.9548
 fr_pass_roberta,1043135,0.6651
@@ -1593,7 +1593,7 @@ fr_pass_roberta,914916,0.6757
 fr_pass_roberta,938400,0.7531
 fr_pass_roberta,940547,0.5000
 fr_pass_roberta,997622,0.8943
-fr_pass_roberta,amean,0.7192
+fr_pass_roberta,average,0.7192
 indri-fdm,1030303,0.9051
 indri-fdm,1037496,0.4341
 indri-fdm,1043135,0.7088
@@ -1648,7 +1648,7 @@ indri-fdm,914916,0.5757
 indri-fdm,938400,0.0844
 indri-fdm,940547,0.4328
 indri-fdm,997622,0.3024
-indri-fdm,amean,0.5003
+indri-fdm,average,0.5003
 indri-lmds,1030303,0.8501
 indri-lmds,1037496,0.4573
 indri-lmds,1043135,0.6399
@@ -1703,7 +1703,7 @@ indri-lmds,914916,0.9472
 indri-lmds,938400,0.1729
 indri-lmds,940547,0.2950
 indri-lmds,997622,0.5585
-indri-lmds,amean,0.4912
+indri-lmds,average,0.4912
 indri-sdm,1030303,0.9051
 indri-sdm,1037496,0.4341
 indri-sdm,1043135,0.7215
@@ -1758,7 +1758,7 @@ indri-sdm,914916,0.5905
 indri-sdm,938400,0.0969
 indri-sdm,940547,0.5428
 indri-sdm,997622,0.2376
-indri-sdm,amean,0.4822
+indri-sdm,average,0.4822
 med_1k,1030303,0.4310
 med_1k,1037496,0.4358
 med_1k,1043135,0.3644
@@ -1813,7 +1813,7 @@ med_1k,914916,0.3348
 med_1k,938400,0.1507
 med_1k,940547,0.2187
 med_1k,997622,0.0694
-med_1k,amean,0.2708
+med_1k,average,0.2708
 nlm-bert-rr,1030303,0.6971
 nlm-bert-rr,1037496,0.9633
 nlm-bert-rr,1043135,0.5715
@@ -1868,7 +1868,7 @@ nlm-bert-rr,914916,0.5295
 nlm-bert-rr,938400,0.7856
 nlm-bert-rr,940547,0.5868
 nlm-bert-rr,997622,0.6756
-nlm-bert-rr,amean,0.6721
+nlm-bert-rr,average,0.6721
 nlm-ens-bst-2,1030303,0.8573
 nlm-ens-bst-2,1037496,0.9485
 nlm-ens-bst-2,1043135,0.6770
@@ -1923,7 +1923,7 @@ nlm-ens-bst-2,914916,0.6152
 nlm-ens-bst-2,938400,0.9400
 nlm-ens-bst-2,940547,0.5318
 nlm-ens-bst-2,997622,0.8036
-nlm-ens-bst-2,amean,0.6934
+nlm-ens-bst-2,average,0.6934
 nlm-ens-bst-3,1030303,0.8604
 nlm-ens-bst-3,1037496,0.9453
 nlm-ens-bst-3,1043135,0.6770
@@ -1978,7 +1978,7 @@ nlm-ens-bst-3,914916,0.5361
 nlm-ens-bst-3,938400,0.9455
 nlm-ens-bst-3,940547,0.4951
 nlm-ens-bst-3,997622,0.6734
-nlm-ens-bst-3,amean,0.6803
+nlm-ens-bst-3,average,0.6803
 nlm-prfun-bert,1030303,0.8754
 nlm-prfun-bert,1037496,0.9015
 nlm-prfun-bert,1043135,0.6770
@@ -2033,7 +2033,7 @@ nlm-prfun-bert,914916,0.7835
 nlm-prfun-bert,938400,0.8543
 nlm-prfun-bert,940547,0.5000
 nlm-prfun-bert,997622,0.9095
-nlm-prfun-bert,amean,0.6648
+nlm-prfun-bert,average,0.6648
 p_bm25,1030303,0.9424
 p_bm25,1037496,0.5776
 p_bm25,1043135,0.5409
@@ -2088,7 +2088,7 @@ p_bm25,914916,0.4412
 p_bm25,938400,0.0000
 p_bm25,940547,0.3628
 p_bm25,997622,0.2980
-p_bm25,amean,0.4796
+p_bm25,average,0.4796
 p_bm25rm3,1030303,0.9296
 p_bm25rm3,1037496,0.6298
 p_bm25rm3,1043135,0.3865
@@ -2143,7 +2143,7 @@ p_bm25rm3,914916,0.5055
 p_bm25rm3,938400,0.0505
 p_bm25rm3,940547,0.7506
 p_bm25rm3,997622,0.3953
-p_bm25rm3,amean,0.4821
+p_bm25rm3,average,0.4821
 p_bm25rm3_duo,1030303,0.8996
 p_bm25rm3_duo,1037496,0.8973
 p_bm25rm3_duo,1043135,0.7275
@@ -2198,7 +2198,7 @@ p_bm25rm3_duo,914916,0.6159
 p_bm25rm3_duo,938400,0.9253
 p_bm25rm3_duo,940547,0.5347
 p_bm25rm3_duo,997622,1.0000
-p_bm25rm3_duo,amean,0.7583
+p_bm25rm3_duo,average,0.7583
 p_d2q_bm25,1030303,0.9657
 p_d2q_bm25,1037496,0.5386
 p_d2q_bm25,1043135,0.6884
@@ -2253,7 +2253,7 @@ p_d2q_bm25,914916,0.5941
 p_d2q_bm25,938400,0.5429
 p_d2q_bm25,940547,0.5379
 p_d2q_bm25,997622,0.8296
-p_d2q_bm25,amean,0.6187
+p_d2q_bm25,average,0.6187
 p_d2q_bm25_duo,1030303,0.8996
 p_d2q_bm25_duo,1037496,0.8973
 p_d2q_bm25_duo,1043135,0.7275
@@ -2308,7 +2308,7 @@ p_d2q_bm25_duo,914916,0.6159
 p_d2q_bm25_duo,938400,0.9253
 p_d2q_bm25_duo,940547,0.6200
 p_d2q_bm25_duo,997622,1.0000
-p_d2q_bm25_duo,amean,0.7837
+p_d2q_bm25_duo,average,0.7837
 p_d2q_bm25rm3,1030303,0.8678
 p_d2q_bm25rm3,1037496,0.6127
 p_d2q_bm25rm3,1043135,0.7466
@@ -2363,7 +2363,7 @@ p_d2q_bm25rm3,914916,0.7303
 p_d2q_bm25rm3,938400,0.3810
 p_d2q_bm25rm3,940547,0.4781
 p_d2q_bm25rm3,997622,0.7569
-p_d2q_bm25rm3,amean,0.6172
+p_d2q_bm25rm3,average,0.6172
 p_d2q_rm3_duo,1030303,0.8996
 p_d2q_rm3_duo,1037496,0.8973
 p_d2q_rm3_duo,1043135,0.7275
@@ -2418,7 +2418,7 @@ p_d2q_rm3_duo,914916,0.6260
 p_d2q_rm3_duo,938400,0.9253
 p_d2q_rm3_duo,940547,0.6215
 p_d2q_rm3_duo,997622,1.0000
-p_d2q_rm3_duo,amean,0.7821
+p_d2q_rm3_duo,average,0.7821
 pash_f1,1030303,0.9794
 pash_f1,1037496,0.9755
 pash_f1,1043135,0.8141
@@ -2473,7 +2473,7 @@ pash_f1,914916,0.9537
 pash_f1,938400,0.8864
 pash_f1,940547,0.5367
 pash_f1,997622,1.0000
-pash_f1,amean,0.7956
+pash_f1,average,0.7956
 pash_f2,1030303,0.9794
 pash_f2,1037496,0.9755
 pash_f2,1043135,0.8141
@@ -2528,7 +2528,7 @@ pash_f2,914916,0.8901
 pash_f2,938400,0.8864
 pash_f2,940547,0.5367
 pash_f2,997622,1.0000
-pash_f2,amean,0.7941
+pash_f2,average,0.7941
 pash_f3,1030303,0.9794
 pash_f3,1037496,0.9755
 pash_f3,1043135,0.8141
@@ -2583,7 +2583,7 @@ pash_f3,914916,0.9325
 pash_f3,938400,0.8864
 pash_f3,940547,0.5367
 pash_f3,997622,1.0000
-pash_f3,amean,0.8005
+pash_f3,average,0.8005
 pash_r1,1030303,0.9763
 pash_r1,1037496,0.9102
 pash_r1,1043135,0.6092
@@ -2638,7 +2638,7 @@ pash_r1,914916,0.7755
 pash_r1,938400,0.7739
 pash_r1,940547,0.5757
 pash_r1,997622,1.0000
-pash_r1,amean,0.7463
+pash_r1,average,0.7463
 pash_r2,1030303,0.9883
 pash_r2,1037496,0.9755
 pash_r2,1043135,0.8602
@@ -2693,7 +2693,7 @@ pash_r2,914916,0.8901
 pash_r2,938400,0.8864
 pash_r2,940547,0.5367
 pash_r2,997622,1.0000
-pash_r2,amean,0.8011
+pash_r2,average,0.8011
 pash_r3,1030303,0.9794
 pash_r3,1037496,0.9755
 pash_r3,1043135,0.8141
@@ -2748,7 +2748,7 @@ pash_r3,914916,0.8901
 pash_r3,938400,0.8864
 pash_r3,940547,0.5367
 pash_r3,997622,1.0000
-pash_r3,amean,0.8031
+pash_r3,average,0.8031
 pinganNLP1,1030303,0.9594
 pinganNLP1,1037496,0.9029
 pinganNLP1,1043135,0.6058
@@ -2803,7 +2803,7 @@ pinganNLP1,914916,0.7563
 pinganNLP1,938400,0.7473
 pinganNLP1,940547,0.5744
 pinganNLP1,997622,1.0000
-pinganNLP1,amean,0.7343
+pinganNLP1,average,0.7343
 pinganNLP2,1030303,0.9493
 pinganNLP2,1037496,0.9029
 pinganNLP2,1043135,0.6058
@@ -2858,7 +2858,7 @@ pinganNLP2,914916,0.7563
 pinganNLP2,938400,0.7473
 pinganNLP2,940547,0.5744
 pinganNLP2,997622,1.0000
-pinganNLP2,amean,0.7368
+pinganNLP2,average,0.7368
 pinganNLP3,1030303,0.9424
 pinganNLP3,1037496,0.9032
 pinganNLP3,1043135,0.5195
@@ -2913,7 +2913,7 @@ pinganNLP3,914916,0.7540
 pinganNLP3,938400,0.7913
 pinganNLP3,940547,0.5757
 pinganNLP3,997622,1.0000
-pinganNLP3,amean,0.7352
+pinganNLP3,average,0.7352
 relemb_mlm_0_2,1030303,0.9844
 relemb_mlm_0_2,1037496,0.9064
 relemb_mlm_0_2,1043135,0.7978
@@ -2968,7 +2968,7 @@ relemb_mlm_0_2,914916,0.6648
 relemb_mlm_0_2,938400,0.8385
 relemb_mlm_0_2,940547,0.4980
 relemb_mlm_0_2,997622,0.6719
-relemb_mlm_0_2,amean,0.6662
+relemb_mlm_0_2,average,0.6662
 rr-pass-roberta,1030303,0.6742
 rr-pass-roberta,1037496,0.9548
 rr-pass-roberta,1043135,0.6577
@@ -3023,7 +3023,7 @@ rr-pass-roberta,914916,0.7920
 rr-pass-roberta,938400,0.7540
 rr-pass-roberta,940547,0.5318
 rr-pass-roberta,997622,0.9113
-rr-pass-roberta,amean,0.7169
+rr-pass-roberta,average,0.7169
 small_1k,1030303,0.3044
 small_1k,1037496,0.4358
 small_1k,1043135,0.2517
@@ -3078,7 +3078,7 @@ small_1k,914916,0.5902
 small_1k,938400,0.1335
 small_1k,940547,0.2187
 small_1k,997622,0.0636
-small_1k,amean,0.2767
+small_1k,average,0.2767
 terrier-BM25,1030303,0.8727
 terrier-BM25,1037496,0.4765
 terrier-BM25,1043135,0.6134
@@ -3133,7 +3133,7 @@ terrier-BM25,914916,0.8665
 terrier-BM25,938400,0.1127
 terrier-BM25,940547,0.1292
 terrier-BM25,997622,0.5531
-terrier-BM25,amean,0.4980
+terrier-BM25,average,0.4980
 terrier-DPH,1030303,0.8727
 terrier-DPH,1037496,0.5207
 terrier-DPH,1043135,0.6514
@@ -3188,7 +3188,7 @@ terrier-DPH,914916,0.9567
 terrier-DPH,938400,0.2138
 terrier-DPH,940547,0.1923
 terrier-DPH,997622,0.5984
-terrier-DPH,amean,0.4671
+terrier-DPH,average,0.4671
 terrier-InL2,1030303,0.8727
 terrier-InL2,1037496,0.4765
 terrier-InL2,1043135,0.4135
@@ -3243,4 +3243,4 @@ terrier-InL2,914916,0.8468
 terrier-InL2,938400,0.1053
 terrier-InL2,940547,0.0897
 terrier-InL2,997622,0.6161
-terrier-InL2,amean,0.4985
+terrier-InL2,average,0.4985

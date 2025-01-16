@@ -52,7 +52,7 @@ Fast_ForwardP_2,935964,0.7669
 Fast_ForwardP_2,952262,0.8671
 Fast_ForwardP_2,952284,0.3053
 Fast_ForwardP_2,975079,0.4462
-Fast_ForwardP_2,amean,0.5521
+Fast_ForwardP_2,average,0.5521
 Fast_ForwardP_5,1006728,0.2567
 Fast_ForwardP_5,1040198,0.5896
 Fast_ForwardP_5,1104300,0.9221
@@ -106,7 +106,7 @@ Fast_ForwardP_5,935964,0.5344
 Fast_ForwardP_5,952262,0.9048
 Fast_ForwardP_5,952284,0.2278
 Fast_ForwardP_5,975079,0.2594
-Fast_ForwardP_5,amean,0.5132
+Fast_ForwardP_5,average,0.5132
 Fast_Forward_3,1006728,0.2598
 Fast_Forward_3,1040198,0.5929
 Fast_Forward_3,1104300,0.9064
@@ -160,7 +160,7 @@ Fast_Forward_3,935964,0.7150
 Fast_Forward_3,952262,0.8645
 Fast_Forward_3,952284,0.2323
 Fast_Forward_3,975079,0.4131
-Fast_Forward_3,amean,0.5451
+Fast_Forward_3,average,0.5451
 NLE_P_V1andV2,1006728,0.4344
 NLE_P_V1andV2,1040198,0.6725
 NLE_P_V1andV2,1104300,0.9266
@@ -214,7 +214,7 @@ NLE_P_V1andV2,935964,0.9769
 NLE_P_V1andV2,952262,0.9769
 NLE_P_V1andV2,952284,0.4367
 NLE_P_V1andV2,975079,0.6640
-NLE_P_V1andV2,amean,0.6724
+NLE_P_V1andV2,average,0.6724
 NLE_P_quick,1006728,0.1744
 NLE_P_quick,1040198,0.4742
 NLE_P_quick,1104300,0.9344
@@ -268,7 +268,7 @@ NLE_P_quick,935964,0.7384
 NLE_P_quick,952262,1.0000
 NLE_P_quick,952284,0.6227
 NLE_P_quick,975079,0.5111
-NLE_P_quick,amean,0.6087
+NLE_P_quick,average,0.6087
 NLE_P_v1,1006728,0.5168
 NLE_P_v1,1040198,0.6805
 NLE_P_v1,1104300,1.0000
@@ -322,7 +322,7 @@ NLE_P_v1,935964,0.9779
 NLE_P_v1,952262,1.0000
 NLE_P_v1,952284,0.6088
 NLE_P_v1,975079,0.6786
-NLE_P_v1,amean,0.7347
+NLE_P_v1,average,0.7347
 TUW_DR_Base,1006728,0.4593
 TUW_DR_Base,1040198,0.1436
 TUW_DR_Base,1104300,0.9389
@@ -376,7 +376,7 @@ TUW_DR_Base,935964,0.8374
 TUW_DR_Base,952262,0.8979
 TUW_DR_Base,952284,0.5682
 TUW_DR_Base,975079,0.5863
-TUW_DR_Base,amean,0.4991
+TUW_DR_Base,average,0.4991
 TUW_TAS-B_768,1006728,0.5410
 TUW_TAS-B_768,1040198,0.4930
 TUW_TAS-B_768,1104300,0.9188
@@ -430,7 +430,7 @@ TUW_TAS-B_768,935964,0.8525
 TUW_TAS-B_768,952262,0.9567
 TUW_TAS-B_768,952284,0.7711
 TUW_TAS-B_768,975079,0.6225
-TUW_TAS-B_768,amean,0.5619
+TUW_TAS-B_768,average,0.5619
 TUW_TAS-B_ANN,1006728,0.5421
 TUW_TAS-B_ANN,1040198,0.1990
 TUW_TAS-B_ANN,1104300,0.8726
@@ -484,7 +484,7 @@ TUW_TAS-B_ANN,935964,0.5001
 TUW_TAS-B_ANN,952262,0.9091
 TUW_TAS-B_ANN,952284,0.7784
 TUW_TAS-B_ANN,975079,0.6534
-TUW_TAS-B_ANN,amean,0.5426
+TUW_TAS-B_ANN,average,0.5426
 WLUPassage,1006728,0.2177
 WLUPassage,1040198,0.0000
 WLUPassage,1104300,0.8585
@@ -538,7 +538,7 @@ WLUPassage,935964,0.4368
 WLUPassage,952262,0.9558
 WLUPassage,952284,0.0000
 WLUPassage,975079,0.4745
-WLUPassage,amean,0.4432
+WLUPassage,average,0.4432
 WLUPassage1,1006728,0.0000
 WLUPassage1,1040198,0.0000
 WLUPassage1,1104300,0.6189
@@ -592,7 +592,7 @@ WLUPassage1,935964,0.6528
 WLUPassage1,952262,0.9511
 WLUPassage1,952284,0.0353
 WLUPassage1,975079,0.4165
-WLUPassage1,amean,0.4093
+WLUPassage1,average,0.4093
 bcai_p_mbert,1006728,0.2177
 bcai_p_mbert,1040198,0.6143
 bcai_p_mbert,1104300,0.9769
@@ -646,7 +646,7 @@ bcai_p_mbert,935964,0.8350
 bcai_p_mbert,952262,0.9372
 bcai_p_mbert,952284,0.4550
 bcai_p_mbert,975079,0.5811
-bcai_p_mbert,amean,0.6363
+bcai_p_mbert,average,0.6363
 bcai_p_vbert,1006728,0.3495
 bcai_p_vbert,1040198,0.6139
 bcai_p_vbert,1104300,0.9739
@@ -700,7 +700,7 @@ bcai_p_vbert,935964,0.7081
 bcai_p_vbert,952262,0.8234
 bcai_p_vbert,952284,0.5877
 bcai_p_vbert,975079,0.7287
-bcai_p_vbert,amean,0.6502
+bcai_p_vbert,average,0.6502
 bl_bcai_p_nn_rt,1006728,0.2327
 bl_bcai_p_nn_rt,1040198,0.5981
 bl_bcai_p_nn_rt,1104300,0.8315
@@ -754,7 +754,7 @@ bl_bcai_p_nn_rt,935964,0.3333
 bl_bcai_p_nn_rt,952262,0.5918
 bl_bcai_p_nn_rt,952284,0.6868
 bl_bcai_p_nn_rt,975079,0.2366
-bl_bcai_p_nn_rt,amean,0.5245
+bl_bcai_p_nn_rt,average,0.5245
 bl_bcai_p_trad,1006728,0.0445
 bl_bcai_p_trad,1040198,0.5016
 bl_bcai_p_trad,1104300,0.7893
@@ -808,7 +808,7 @@ bl_bcai_p_trad,935964,0.1563
 bl_bcai_p_trad,952262,0.5792
 bl_bcai_p_trad,952284,0.3204
 bl_bcai_p_trad,975079,0.2837
-bl_bcai_p_trad,amean,0.4261
+bl_bcai_p_trad,average,0.4261
 bl_bcai_wloo_p,1006728,0.6287
 bl_bcai_wloo_p,1040198,0.5962
 bl_bcai_wloo_p,1104300,1.0000
@@ -862,7 +862,7 @@ bl_bcai_wloo_p,935964,0.9315
 bl_bcai_wloo_p,952262,0.6880
 bl_bcai_wloo_p,952284,0.3965
 bl_bcai_wloo_p,975079,0.7610
-bl_bcai_wloo_p,amean,0.6029
+bl_bcai_wloo_p,average,0.6029
 ielab-AD-uni,1006728,0.5663
 ielab-AD-uni,1040198,0.4649
 ielab-AD-uni,1104300,0.9216
@@ -916,7 +916,7 @@ ielab-AD-uni,935964,0.9494
 ielab-AD-uni,952262,1.0000
 ielab-AD-uni,952284,0.5245
 ielab-AD-uni,975079,0.7547
-ielab-AD-uni,amean,0.6714
+ielab-AD-uni,average,0.6714
 ielab-TILDEv2,1006728,0.2201
 ielab-TILDEv2,1040198,0.4966
 ielab-TILDEv2,1104300,0.9052
@@ -970,7 +970,7 @@ ielab-TILDEv2,935964,0.8873
 ielab-TILDEv2,952262,1.0000
 ielab-TILDEv2,952284,0.4360
 ielab-TILDEv2,975079,0.6047
-ielab-TILDEv2,amean,0.5825
+ielab-TILDEv2,average,0.5825
 ielab-robertav1,1006728,0.3782
 ielab-robertav1,1040198,0.6901
 ielab-robertav1,1104300,0.9788
@@ -1024,7 +1024,7 @@ ielab-robertav1,935964,0.9327
 ielab-robertav1,952262,1.0000
 ielab-robertav1,952284,0.2070
 ielab-robertav1,975079,0.5693
-ielab-robertav1,amean,0.6551
+ielab-robertav1,average,0.6551
 ielab-robertav2,1006728,0.2279
 ielab-robertav2,1040198,0.5857
 ielab-robertav2,1104300,0.8636
@@ -1078,7 +1078,7 @@ ielab-robertav2,935964,0.8787
 ielab-robertav2,952262,1.0000
 ielab-robertav2,952284,0.3525
 ielab-robertav2,975079,0.5294
-ielab-robertav2,amean,0.6226
+ielab-robertav2,average,0.6226
 ielab-uniCOIL,1006728,0.3935
 ielab-uniCOIL,1040198,0.5156
 ielab-uniCOIL,1104300,0.9306
@@ -1132,7 +1132,7 @@ ielab-uniCOIL,935964,0.7575
 ielab-uniCOIL,952262,1.0000
 ielab-uniCOIL,952284,0.4328
 ielab-uniCOIL,975079,0.6545
-ielab-uniCOIL,amean,0.6420
+ielab-uniCOIL,average,0.6420
 ihsm_bicolbert,1006728,0.3268
 ihsm_bicolbert,1040198,0.6171
 ihsm_bicolbert,1104300,1.0000
@@ -1186,7 +1186,7 @@ ihsm_bicolbert,935964,0.9779
 ihsm_bicolbert,952262,1.0000
 ihsm_bicolbert,952284,0.4638
 ihsm_bicolbert,975079,0.5294
-ihsm_bicolbert,amean,0.6393
+ihsm_bicolbert,average,0.6393
 ihsm_colbert64,1006728,0.3689
 ihsm_colbert64,1040198,0.5970
 ihsm_colbert64,1104300,1.0000
@@ -1240,7 +1240,7 @@ ihsm_colbert64,935964,0.9769
 ihsm_colbert64,952262,1.0000
 ihsm_colbert64,952284,0.3806
 ihsm_colbert64,975079,0.5991
-ihsm_colbert64,amean,0.6453
+ihsm_colbert64,average,0.6453
 ihsm_poly8q,1006728,0.3741
 ihsm_poly8q,1040198,0.6057
 ihsm_poly8q,1104300,0.9132
@@ -1294,7 +1294,7 @@ ihsm_poly8q,935964,0.9779
 ihsm_poly8q,952262,1.0000
 ihsm_poly8q,952284,0.2132
 ihsm_poly8q,975079,0.5791
-ihsm_poly8q,amean,0.6342
+ihsm_poly8q,average,0.6342
 mono_d3,1006728,0.0667
 mono_d3,1040198,0.7789
 mono_d3,1104300,1.0000
@@ -1348,7 +1348,7 @@ mono_d3,935964,0.8860
 mono_d3,952262,0.8803
 mono_d3,952284,0.4765
 mono_d3,975079,0.6772
-mono_d3,amean,0.6037
+mono_d3,average,0.6037
 mono_electra_h3,1006728,0.4941
 mono_electra_h3,1040198,0.6564
 mono_electra_h3,1104300,1.0000
@@ -1402,7 +1402,7 @@ mono_electra_h3,935964,0.9543
 mono_electra_h3,952262,0.9001
 mono_electra_h3,952284,0.5197
 mono_electra_h3,975079,0.6611
-mono_electra_h3,amean,0.6753
+mono_electra_h3,average,0.6753
 mono_h3,1006728,0.1358
 mono_h3,1040198,0.6583
 mono_h3,1104300,0.9005
@@ -1456,7 +1456,7 @@ mono_h3,935964,0.8860
 mono_h3,952262,0.8803
 mono_h3,952284,0.4950
 mono_h3,975079,0.7058
-mono_h3,amean,0.6115
+mono_h3,average,0.6115
 p_bm25,1006728,0.1810
 p_bm25,1040198,0.5791
 p_bm25,1104300,0.9022
@@ -1510,7 +1510,7 @@ p_bm25,935964,0.3080
 p_bm25,952262,0.8519
 p_bm25,952284,0.2190
 p_bm25,975079,0.0298
-p_bm25,amean,0.4458
+p_bm25,average,0.4458
 p_bm25rm3,1006728,0.0000
 p_bm25rm3,1040198,0.6728
 p_bm25rm3,1104300,0.8415
@@ -1564,7 +1564,7 @@ p_bm25rm3,935964,0.4006
 p_bm25rm3,952262,0.9344
 p_bm25rm3,952284,0.1635
 p_bm25rm3,975079,0.0000
-p_bm25rm3,amean,0.4480
+p_bm25rm3,average,0.4480
 p_f10_mdt53b,1006728,0.5490
 p_f10_mdt53b,1040198,0.8874
 p_f10_mdt53b,1104300,0.9779
@@ -1618,7 +1618,7 @@ p_f10_mdt53b,935964,0.6902
 p_f10_mdt53b,952262,0.9537
 p_f10_mdt53b,952284,0.4237
 p_f10_mdt53b,975079,0.5476
-p_f10_mdt53b,amean,0.6617
+p_f10_mdt53b,average,0.6617
 p_f10_mdt5base,1006728,0.4448
 p_f10_mdt5base,1040198,0.7449
 p_f10_mdt5base,1104300,0.9567
@@ -1672,7 +1672,7 @@ p_f10_mdt5base,935964,0.6092
 p_f10_mdt5base,952262,0.9537
 p_f10_mdt5base,952284,0.2436
 p_f10_mdt5base,975079,0.2715
-p_f10_mdt5base,amean,0.6193
+p_f10_mdt5base,average,0.6193
 p_f10_mt53b,1006728,0.5088
 p_f10_mt53b,1040198,0.8211
 p_f10_mt53b,1104300,0.9524
@@ -1726,7 +1726,7 @@ p_f10_mt53b,935964,0.6759
 p_f10_mt53b,952262,0.9779
 p_f10_mt53b,952284,0.4189
 p_f10_mt53b,975079,0.5138
-p_f10_mt53b,amean,0.6394
+p_f10_mt53b,average,0.6394
 p_fusion00,1006728,0.4742
 p_fusion00,1040198,0.1891
 p_fusion00,1104300,0.8900
@@ -1780,7 +1780,7 @@ p_fusion00,935964,0.6776
 p_fusion00,952262,0.9576
 p_fusion00,952284,0.5698
 p_fusion00,975079,0.6350
-p_fusion00,amean,0.5713
+p_fusion00,average,0.5713
 p_fusion10,1006728,0.5179
 p_fusion10,1040198,0.2626
 p_fusion10,1104300,0.8831
@@ -1834,7 +1834,7 @@ p_fusion10,935964,0.7168
 p_fusion10,952262,0.9558
 p_fusion10,952284,0.4789
 p_fusion10,975079,0.6492
-p_fusion10,amean,0.5857
+p_fusion10,average,0.5857
 p_tct0,1006728,0.4266
 p_tct0,1040198,0.2103
 p_tct0,1104300,0.6931
@@ -1888,7 +1888,7 @@ p_tct0,935964,0.6369
 p_tct0,952262,0.9477
 p_tct0,952284,0.4097
 p_tct0,975079,0.5822
-p_tct0,amean,0.5001
+p_tct0,average,0.5001
 p_tct1,1006728,0.0000
 p_tct1,1040198,0.2511
 p_tct1,1104300,0.7893
@@ -1942,7 +1942,7 @@ p_tct1,935964,0.6460
 p_tct1,952262,0.5710
 p_tct1,952284,0.0767
 p_tct1,975079,0.4341
-p_tct1,amean,0.4499
+p_tct1,average,0.4499
 p_unicoil0,1006728,0.4832
 p_unicoil0,1040198,0.5156
 p_unicoil0,1104300,0.9266
@@ -1996,7 +1996,7 @@ p_unicoil0,935964,0.8098
 p_unicoil0,952262,0.7058
 p_unicoil0,952284,0.2520
 p_unicoil0,975079,0.4705
-p_unicoil0,amean,0.5785
+p_unicoil0,average,0.5785
 pash_f1,1006728,0.5222
 pash_f1,1040198,0.6361
 pash_f1,1104300,1.0000
@@ -2050,7 +2050,7 @@ pash_f1,935964,0.9535
 pash_f1,952262,1.0000
 pash_f1,952284,0.7734
 pash_f1,975079,0.6121
-pash_f1,amean,0.7494
+pash_f1,average,0.7494
 pash_f2,1006728,0.5222
 pash_f2,1040198,0.6361
 pash_f2,1104300,1.0000
@@ -2104,7 +2104,7 @@ pash_f2,935964,0.9535
 pash_f2,952262,1.0000
 pash_f2,952284,0.7734
 pash_f2,975079,0.6121
-pash_f2,amean,0.7494
+pash_f2,average,0.7494
 pash_f3,1006728,0.5222
 pash_f3,1040198,0.6361
 pash_f3,1104300,1.0000
@@ -2158,7 +2158,7 @@ pash_f3,935964,0.9535
 pash_f3,952262,1.0000
 pash_f3,952284,0.7734
 pash_f3,975079,0.6121
-pash_f3,amean,0.7494
+pash_f3,average,0.7494
 pash_r1,1006728,0.4344
 pash_r1,1040198,0.6842
 pash_r1,1104300,1.0000
@@ -2212,7 +2212,7 @@ pash_r1,935964,0.9495
 pash_r1,952262,1.0000
 pash_r1,952284,0.3238
 pash_r1,975079,0.6121
-pash_r1,amean,0.6951
+pash_r1,average,0.6951
 pash_r2,1006728,0.3907
 pash_r2,1040198,0.7316
 pash_r2,1104300,1.0000
@@ -2266,7 +2266,7 @@ pash_r2,935964,0.9524
 pash_r2,952262,1.0000
 pash_r2,952284,0.3967
 pash_r2,975079,0.6121
-pash_r2,amean,0.7076
+pash_r2,average,0.7076
 pash_r3,1006728,0.3907
 pash_r3,1040198,0.7316
 pash_r3,1104300,1.0000
@@ -2320,7 +2320,7 @@ pash_r3,935964,0.9524
 pash_r3,952262,1.0000
 pash_r3,952284,0.3967
 pash_r3,975079,0.6121
-pash_r3,amean,0.7072
+pash_r3,average,0.7072
 pass_full_1000,1006728,0.6438
 pass_full_1000,1040198,0.4894
 pass_full_1000,1104300,0.9337
@@ -2374,7 +2374,7 @@ pass_full_1000,935964,0.9061
 pass_full_1000,952262,0.9094
 pass_full_1000,952284,0.4858
 pass_full_1000,975079,0.4711
-pass_full_1000,amean,0.6434
+pass_full_1000,average,0.6434
 pass_full_1000e,1006728,0.0000
 pass_full_1000e,1040198,0.5641
 pass_full_1000e,1104300,0.8130
@@ -2428,7 +2428,7 @@ pass_full_1000e,935964,0.9061
 pass_full_1000e,952262,0.9306
 pass_full_1000e,952284,0.5852
 pass_full_1000e,975079,0.4711
-pass_full_1000e,amean,0.6071
+pass_full_1000e,average,0.6071
 pass_rank_100,1006728,0.0386
 pass_rank_100,1040198,0.6265
 pass_rank_100,1104300,0.9266
@@ -2482,7 +2482,7 @@ pass_rank_100,935964,0.6116
 pass_rank_100,952262,0.9337
 pass_rank_100,952284,0.4667
 pass_rank_100,975079,0.5384
-pass_rank_100,amean,0.5389
+pass_rank_100,average,0.5389
 paug_bm25,1006728,0.2294
 paug_bm25,1040198,0.5935
 paug_bm25,1104300,0.2852
@@ -2536,7 +2536,7 @@ paug_bm25,935964,0.4613
 paug_bm25,952262,0.6894
 paug_bm25,952284,0.6126
 paug_bm25,975079,0.1617
-paug_bm25,amean,0.3977
+paug_bm25,average,0.3977
 paug_bm25rm3,1006728,0.3618
 paug_bm25rm3,1040198,0.6754
 paug_bm25rm3,1104300,0.2885
@@ -2590,7 +2590,7 @@ paug_bm25rm3,935964,0.4704
 paug_bm25rm3,952262,0.7091
 paug_bm25rm3,952284,0.6227
 paug_bm25rm3,975079,0.0287
-paug_bm25rm3,amean,0.3906
+paug_bm25rm3,average,0.3906
 top1000,1006728,0.3026
 top1000,1040198,0.3510
 top1000,1104300,0.6705
@@ -2644,7 +2644,7 @@ top1000,935964,0.6993
 top1000,952262,0.9188
 top1000,952284,0.6565
 top1000,975079,0.4733
-top1000,amean,0.5104
+top1000,average,0.5104
 uogTrBasePD,1006728,0.1335
 uogTrBasePD,1040198,0.5809
 uogTrBasePD,1104300,0.9022
@@ -2698,7 +2698,7 @@ uogTrBasePD,935964,0.4942
 uogTrBasePD,952262,0.7628
 uogTrBasePD,952284,0.2214
 uogTrBasePD,975079,0.1037
-uogTrBasePD,amean,0.4619
+uogTrBasePD,average,0.4619
 uogTrBasePDQ,1006728,0.0842
 uogTrBasePDQ,1040198,0.6265
 uogTrBasePDQ,1104300,0.8562
@@ -2752,7 +2752,7 @@ uogTrBasePDQ,935964,0.5366
 uogTrBasePDQ,952262,0.9477
 uogTrBasePDQ,952284,0.1617
 uogTrBasePDQ,975079,0.1120
-uogTrBasePDQ,amean,0.4747
+uogTrBasePDQ,average,0.4747
 uogTrPC,1006728,0.4973
 uogTrPC,1040198,0.0221
 uogTrPC,1104300,0.8729
@@ -2806,7 +2806,7 @@ uogTrPC,935964,0.9336
 uogTrPC,952262,0.7590
 uogTrPC,952284,0.2113
 uogTrPC,975079,0.6474
-uogTrPC,amean,0.4611
+uogTrPC,average,0.4611
 uogTrPCP,1006728,0.0000
 uogTrPCP,1040198,0.0000
 uogTrPCP,1104300,0.0000
@@ -2860,7 +2860,7 @@ uogTrPCP,935964,0.0367
 uogTrPCP,952262,0.3971
 uogTrPCP,952284,0.0000
 uogTrPCP,975079,0.0597
-uogTrPCP,amean,0.1389
+uogTrPCP,average,0.1389
 uogTrPot5,1006728,0.3268
 uogTrPot5,1040198,0.6528
 uogTrPot5,1104300,1.0000
@@ -2914,7 +2914,7 @@ uogTrPot5,935964,0.9315
 uogTrPot5,952262,1.0000
 uogTrPot5,952284,0.3397
 uogTrPot5,975079,0.5470
-uogTrPot5,amean,0.6517
+uogTrPot5,average,0.6517
 watpfd,1006728,0.0402
 watpfd,1040198,0.0000
 watpfd,1104300,0.7225
@@ -2968,7 +2968,7 @@ watpfd,935964,0.4249
 watpfd,952262,0.4425
 watpfd,952284,0.5223
 watpfd,975079,0.3239
-watpfd,amean,0.3672
+watpfd,average,0.3672
 watpff,1006728,0.0000
 watpff,1040198,0.1370
 watpff,1104300,0.9336
@@ -3022,7 +3022,7 @@ watpff,935964,0.4124
 watpff,952262,0.4037
 watpff,952284,0.5625
 watpff,975079,0.5735
-watpff,amean,0.4408
+watpff,average,0.4408
 watpfp,1006728,0.0000
 watpfp,1040198,0.6173
 watpfp,1104300,0.8546
@@ -3076,7 +3076,7 @@ watpfp,935964,0.4644
 watpfp,952262,0.4916
 watpfp,952284,0.4943
 watpfp,975079,0.6510
-watpfp,amean,0.4950
+watpfp,average,0.4950
 watprd,1006728,0.0000
 watprd,1040198,0.0000
 watprd,1104300,0.8516
@@ -3130,7 +3130,7 @@ watprd,935964,0.5263
 watprd,952262,0.6681
 watprd,952284,0.4381
 watprd,975079,0.6617
-watprd,amean,0.4698
+watprd,average,0.4698
 watprf,1006728,0.0000
 watprf,1040198,0.4392
 watprf,1104300,0.8979
@@ -3184,7 +3184,7 @@ watprf,935964,0.4832
 watprf,952262,0.6681
 watprf,952284,0.4049
 watprf,975079,0.6304
-watprf,amean,0.5184
+watprf,average,0.5184
 watprp,1006728,0.0386
 watprp,1040198,0.6597
 watprp,1104300,0.8546
@@ -3238,7 +3238,7 @@ watprp,935964,0.4972
 watprp,952262,0.7713
 watprp,952284,0.3675
 watprp,975079,0.6006
-watprp,amean,0.5493
+watprp,average,0.5493
 yorku21_a,1006728,0.4730
 yorku21_a,1040198,0.6648
 yorku21_a,1104300,0.9364
@@ -3292,7 +3292,7 @@ yorku21_a,935964,0.9556
 yorku21_a,952262,1.0000
 yorku21_a,952284,0.4538
 yorku21_a,975079,0.5878
-yorku21_a,amean,0.6965
+yorku21_a,average,0.6965
 yorku21_b,1006728,0.5203
 yorku21_b,1040198,0.3104
 yorku21_b,1104300,1.0000
@@ -3346,7 +3346,7 @@ yorku21_b,935964,0.8509
 yorku21_b,952262,0.9769
 yorku21_b,952284,0.0625
 yorku21_b,975079,0.5805
-yorku21_b,amean,0.5694
+yorku21_b,average,0.5694
 yorku21_c,1006728,0.5397
 yorku21_c,1040198,0.6739
 yorku21_c,1104300,1.0000
@@ -3400,4 +3400,4 @@ yorku21_c,935964,0.9716
 yorku21_c,952262,0.9364
 yorku21_c,952284,0.4225
 yorku21_c,975079,0.6902
-yorku21_c,amean,0.6930
+yorku21_c,average,0.6930

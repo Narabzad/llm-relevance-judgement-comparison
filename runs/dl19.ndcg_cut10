@@ -42,7 +42,7 @@ ICT-BERT2,87181,0.6839
 ICT-BERT2,87452,0.6587
 ICT-BERT2,915593,0.5713
 ICT-BERT2,962179,0.6325
-ICT-BERT2,amean,0.6650
+ICT-BERT2,average,0.6650
 ICT-CKNRM_B,1037798,0.1808
 ICT-CKNRM_B,104861,0.8552
 ICT-CKNRM_B,1063750,0.2908
@@ -86,7 +86,7 @@ ICT-CKNRM_B,87181,0.6540
 ICT-CKNRM_B,87452,0.6473
 ICT-CKNRM_B,915593,0.5674
 ICT-CKNRM_B,962179,0.6489
-ICT-CKNRM_B,amean,0.6481
+ICT-CKNRM_B,average,0.6481
 ICT-CKNRM_B50,1037798,0.4031
 ICT-CKNRM_B50,104861,0.8945
 ICT-CKNRM_B50,1063750,0.4144
@@ -130,7 +130,7 @@ ICT-CKNRM_B50,87181,0.8755
 ICT-CKNRM_B50,87452,0.6016
 ICT-CKNRM_B50,915593,0.5271
 ICT-CKNRM_B50,962179,0.8007
-ICT-CKNRM_B50,amean,0.6014
+ICT-CKNRM_B50,average,0.6014
 TUA1-1,1037798,0.2652
 TUA1-1,104861,1.0000
 TUA1-1,1063750,0.3799
@@ -174,7 +174,7 @@ TUA1-1,87181,0.9608
 TUA1-1,87452,0.5277
 TUA1-1,915593,0.9389
 TUA1-1,962179,0.9364
-TUA1-1,amean,0.7314
+TUA1-1,average,0.7314
 TUW19-p1-f,1037798,0.2989
 TUW19-p1-f,104861,0.9669
 TUW19-p1-f,1063750,0.5428
@@ -218,7 +218,7 @@ TUW19-p1-f,87181,0.8693
 TUW19-p1-f,87452,0.4536
 TUW19-p1-f,915593,0.6401
 TUW19-p1-f,962179,0.8630
-TUW19-p1-f,amean,0.6756
+TUW19-p1-f,average,0.6756
 TUW19-p1-re,1037798,0.2989
 TUW19-p1-re,104861,0.9653
 TUW19-p1-re,1063750,0.4096
@@ -262,7 +262,7 @@ TUW19-p1-re,87181,0.8693
 TUW19-p1-re,87452,0.4545
 TUW19-p1-re,915593,0.6401
 TUW19-p1-re,962179,0.8630
-TUW19-p1-re,amean,0.6746
+TUW19-p1-re,average,0.6746
 TUW19-p2-f,1037798,0.2540
 TUW19-p2-f,104861,0.8007
 TUW19-p2-f,1063750,0.1138
@@ -306,7 +306,7 @@ TUW19-p2-f,87181,0.8864
 TUW19-p2-f,87452,0.4440
 TUW19-p2-f,915593,0.6774
 TUW19-p2-f,962179,0.7538
-TUW19-p2-f,amean,0.6709
+TUW19-p2-f,average,0.6709
 TUW19-p2-re,1037798,0.1762
 TUW19-p2-re,104861,0.8007
 TUW19-p2-re,1063750,0.1614
@@ -350,7 +350,7 @@ TUW19-p2-re,87181,0.8864
 TUW19-p2-re,87452,0.4414
 TUW19-p2-re,915593,0.6684
 TUW19-p2-re,962179,0.7538
-TUW19-p2-re,amean,0.6615
+TUW19-p2-re,average,0.6615
 TUW19-p3-f,1037798,0.3571
 TUW19-p3-f,104861,0.9653
 TUW19-p3-f,1063750,0.6005
@@ -394,7 +394,7 @@ TUW19-p3-f,87181,0.8877
 TUW19-p3-f,87452,0.4697
 TUW19-p3-f,915593,0.7141
 TUW19-p3-f,962179,0.9149
-TUW19-p3-f,amean,0.6884
+TUW19-p3-f,average,0.6884
 TUW19-p3-re,1037798,0.3172
 TUW19-p3-re,104861,0.9017
 TUW19-p3-re,1063750,0.3944
@@ -438,7 +438,7 @@ TUW19-p3-re,87181,0.8877
 TUW19-p3-re,87452,0.4697
 TUW19-p3-re,915593,0.6717
 TUW19-p3-re,962179,0.9149
-TUW19-p3-re,amean,0.6746
+TUW19-p3-re,average,0.6746
 UNH_bm25,1037798,0.1317
 UNH_bm25,104861,0.1120
 UNH_bm25,1063750,0.0258
@@ -482,7 +482,7 @@ UNH_bm25,87181,0.5612
 UNH_bm25,87452,0.2659
 UNH_bm25,915593,0.4908
 UNH_bm25,962179,0.0851
-UNH_bm25,amean,0.4495
+UNH_bm25,average,0.4495
 UNH_exDL_bm25,1037798,0.0000
 UNH_exDL_bm25,104861,0.0000
 UNH_exDL_bm25,1063750,0.0000
@@ -526,7 +526,7 @@ UNH_exDL_bm25,87181,0.0000
 UNH_exDL_bm25,87452,0.0000
 UNH_exDL_bm25,915593,0.5191
 UNH_exDL_bm25,962179,0.0000
-UNH_exDL_bm25,amean,0.0817
+UNH_exDL_bm25,average,0.0817
 bm25base_ax_p,1037798,0.1529
 bm25base_ax_p,104861,1.0000
 bm25base_ax_p,1063750,0.0000
@@ -570,7 +570,7 @@ bm25base_ax_p,87181,0.5034
 bm25base_ax_p,87452,0.5726
 bm25base_ax_p,915593,0.0000
 bm25base_ax_p,962179,0.0000
-bm25base_ax_p,amean,0.5511
+bm25base_ax_p,average,0.5511
 bm25base_p,1037798,0.3057
 bm25base_p,104861,0.8238
 bm25base_p,1063750,0.0000
@@ -614,7 +614,7 @@ bm25base_p,87181,0.6553
 bm25base_p,87452,0.4912
 bm25base_p,915593,0.2906
 bm25base_p,962179,0.0663
-bm25base_p,amean,0.5058
+bm25base_p,average,0.5058
 bm25base_prf_p,1037798,0.1317
 bm25base_prf_p,104861,1.0000
 bm25base_prf_p,1063750,0.0000
@@ -658,7 +658,7 @@ bm25base_prf_p,87181,0.7006
 bm25base_prf_p,87452,0.4877
 bm25base_prf_p,915593,0.0424
 bm25base_prf_p,962179,0.0000
-bm25base_prf_p,amean,0.5372
+bm25base_prf_p,average,0.5372
 bm25base_rm3_p,1037798,0.3057
 bm25base_rm3_p,104861,1.0000
 bm25base_rm3_p,1063750,0.0000
@@ -702,7 +702,7 @@ bm25base_rm3_p,87181,0.5865
 bm25base_rm3_p,87452,0.4613
 bm25base_rm3_p,915593,0.1326
 bm25base_rm3_p,962179,0.0000
-bm25base_rm3_p,amean,0.5180
+bm25base_rm3_p,average,0.5180
 bm25tuned_ax_p,1037798,0.2545
 bm25tuned_ax_p,104861,1.0000
 bm25tuned_ax_p,1063750,0.0000
@@ -746,7 +746,7 @@ bm25tuned_ax_p,87181,0.5426
 bm25tuned_ax_p,87452,0.5419
 bm25tuned_ax_p,915593,0.0442
 bm25tuned_ax_p,962179,0.0000
-bm25tuned_ax_p,amean,0.5461
+bm25tuned_ax_p,average,0.5461
 bm25tuned_p,1037798,0.1929
 bm25tuned_p,104861,0.8080
 bm25tuned_p,1063750,0.0000
@@ -790,7 +790,7 @@ bm25tuned_p,87181,0.6248
 bm25tuned_p,87452,0.5025
 bm25tuned_p,915593,0.3719
 bm25tuned_p,962179,0.0000
-bm25tuned_p,amean,0.4973
+bm25tuned_p,average,0.4973
 bm25tuned_prf_p,1037798,0.1317
 bm25tuned_prf_p,104861,0.9682
 bm25tuned_prf_p,1063750,0.0000
@@ -834,7 +834,7 @@ bm25tuned_prf_p,87181,0.7816
 bm25tuned_prf_p,87452,0.5604
 bm25tuned_prf_p,915593,0.1268
 bm25tuned_prf_p,962179,0.0000
-bm25tuned_prf_p,amean,0.5536
+bm25tuned_prf_p,average,0.5536
 bm25tuned_rm3_p,1037798,0.1929
 bm25tuned_rm3_p,104861,1.0000
 bm25tuned_rm3_p,1063750,0.0000
@@ -878,7 +878,7 @@ bm25tuned_rm3_p,87181,0.5181
 bm25tuned_rm3_p,87452,0.4421
 bm25tuned_rm3_p,915593,0.1732
 bm25tuned_rm3_p,962179,0.0000
-bm25tuned_rm3_p,amean,0.5231
+bm25tuned_rm3_p,average,0.5231
 idst_bert_p1,1037798,0.2172
 idst_bert_p1,104861,1.0000
 idst_bert_p1,1063750,0.7477
@@ -922,7 +922,7 @@ idst_bert_p1,87181,0.9608
 idst_bert_p1,87452,0.5662
 idst_bert_p1,915593,0.9177
 idst_bert_p1,962179,0.9306
-idst_bert_p1,amean,0.7645
+idst_bert_p1,average,0.7645
 idst_bert_p2,1037798,0.2172
 idst_bert_p2,104861,1.0000
 idst_bert_p2,1063750,0.7477
@@ -966,7 +966,7 @@ idst_bert_p2,87181,0.9608
 idst_bert_p2,87452,0.5662
 idst_bert_p2,915593,0.9177
 idst_bert_p2,962179,0.9306
-idst_bert_p2,amean,0.7632
+idst_bert_p2,average,0.7632
 idst_bert_p3,1037798,0.1317
 idst_bert_p3,104861,1.0000
 idst_bert_p3,1063750,0.7499
@@ -1010,7 +1010,7 @@ idst_bert_p3,87181,0.9653
 idst_bert_p3,87452,0.5285
 idst_bert_p3,915593,0.9241
 idst_bert_p3,962179,0.9306
-idst_bert_p3,amean,0.7594
+idst_bert_p3,average,0.7594
 idst_bert_pr1,1037798,0.2608
 idst_bert_pr1,104861,1.0000
 idst_bert_pr1,1063750,0.3799
@@ -1054,7 +1054,7 @@ idst_bert_pr1,87181,0.9608
 idst_bert_pr1,87452,0.6086
 idst_bert_pr1,915593,0.9157
 idst_bert_pr1,962179,0.8630
-idst_bert_pr1,amean,0.7378
+idst_bert_pr1,average,0.7378
 idst_bert_pr2,1037798,0.2118
 idst_bert_pr2,104861,1.0000
 idst_bert_pr2,1063750,0.3799
@@ -1098,7 +1098,7 @@ idst_bert_pr2,87181,0.9633
 idst_bert_pr2,87452,0.5939
 idst_bert_pr2,915593,0.8969
 idst_bert_pr2,962179,0.9306
-idst_bert_pr2,amean,0.7379
+idst_bert_pr2,average,0.7379
 ms_duet_passage,1037798,0.2543
 ms_duet_passage,104861,0.5589
 ms_duet_passage,1063750,0.0297
@@ -1142,7 +1142,7 @@ ms_duet_passage,87181,0.7072
 ms_duet_passage,87452,0.5470
 ms_duet_passage,915593,0.5702
 ms_duet_passage,962179,0.6962
-ms_duet_passage,amean,0.6137
+ms_duet_passage,average,0.6137
 p_bert,1037798,0.2586
 p_bert,104861,1.0000
 p_bert,1063750,0.5999
@@ -1186,7 +1186,7 @@ p_bert,87181,0.9608
 p_bert,87452,0.4970
 p_bert,915593,0.9389
 p_bert,962179,0.9364
-p_bert,amean,0.7380
+p_bert,average,0.7380
 p_exp_bert,1037798,0.2516
 p_exp_bert,104861,1.0000
 p_exp_bert,1063750,0.7121
@@ -1230,7 +1230,7 @@ p_exp_bert,87181,0.9608
 p_exp_bert,87452,0.4970
 p_exp_bert,915593,0.9389
 p_exp_bert,962179,0.9364
-p_exp_bert,amean,0.7336
+p_exp_bert,average,0.7336
 p_exp_rm3_bert,1037798,0.1608
 p_exp_rm3_bert,104861,1.0000
 p_exp_rm3_bert,1063750,0.8100
@@ -1274,7 +1274,7 @@ p_exp_rm3_bert,87181,0.9608
 p_exp_rm3_bert,87452,0.4970
 p_exp_rm3_bert,915593,0.9389
 p_exp_rm3_bert,962179,0.9364
-p_exp_rm3_bert,amean,0.7422
+p_exp_rm3_bert,average,0.7422
 runid2,1037798,0.3704
 runid2,104861,1.0000
 runid2,1063750,0.0635
@@ -1318,7 +1318,7 @@ runid2,87181,0.7071
 runid2,87452,0.4936
 runid2,915593,0.2935
 runid2,962179,0.0734
-runid2,amean,0.5322
+runid2,average,0.5322
 runid3,1037798,0.1317
 runid3,104861,0.8701
 runid3,1063750,0.3676
@@ -1362,7 +1362,7 @@ runid3,87181,0.5115
 runid3,87452,0.4234
 runid3,915593,0.7479
 runid3,962179,0.7973
-runid3,amean,0.6975
+runid3,average,0.6975
 runid4,1037798,0.1317
 runid4,104861,0.9019
 runid4,1063750,0.3676
@@ -1406,7 +1406,7 @@ runid4,87181,0.5433
 runid4,87452,0.4473
 runid4,915593,0.7903
 runid4,962179,0.7877
-runid4,amean,0.7028
+runid4,average,0.7028
 runid5,1037798,0.3704
 runid5,104861,1.0000
 runid5,1063750,0.0635
@@ -1450,7 +1450,7 @@ runid5,87181,0.7071
 runid5,87452,0.4936
 runid5,915593,0.2935
 runid5,962179,0.0734
-runid5,amean,0.5252
+runid5,average,0.5252
 srchvrs_ps_run1,1037798,0.1089
 srchvrs_ps_run1,104861,0.6551
 srchvrs_ps_run1,1063750,0.1454
@@ -1494,7 +1494,7 @@ srchvrs_ps_run1,87181,0.4608
 srchvrs_ps_run1,87452,0.5098
 srchvrs_ps_run1,915593,0.1562
 srchvrs_ps_run1,962179,0.5065
-srchvrs_ps_run1,amean,0.4990
+srchvrs_ps_run1,average,0.4990
 srchvrs_ps_run2,1037798,0.3619
 srchvrs_ps_run2,104861,0.7479
 srchvrs_ps_run2,1063750,0.3113
@@ -1538,7 +1538,7 @@ srchvrs_ps_run2,87181,0.5472
 srchvrs_ps_run2,87452,0.4897
 srchvrs_ps_run2,915593,0.4930
 srchvrs_ps_run2,962179,0.6429
-srchvrs_ps_run2,amean,0.6645
+srchvrs_ps_run2,average,0.6645
 srchvrs_ps_run3,1037798,0.1477
 srchvrs_ps_run3,104861,0.8048
 srchvrs_ps_run3,1063750,0.2377
@@ -1582,7 +1582,7 @@ srchvrs_ps_run3,87181,0.7381
 srchvrs_ps_run3,87452,0.4588
 srchvrs_ps_run3,915593,0.3202
 srchvrs_ps_run3,962179,0.7127
-srchvrs_ps_run3,amean,0.5558
+srchvrs_ps_run3,average,0.5558
 test1,1037798,0.2652
 test1,104861,1.0000
 test1,1063750,0.3799
@@ -1626,4 +1626,4 @@ test1,87181,0.9608
 test1,87452,0.5277
 test1,915593,0.9389
 test1,962179,0.9364
-test1,amean,0.7314
+test1,average,0.7314

@@ -27,7 +27,7 @@ if __name__ == "__main__":
                 if topic == 'all':
                     for topic in maps:
                         print(runid, topic, maps[topic], sep=',')
-                    print(runid, 'amean', value, sep=',')
+                    print(runid, 'average', value, sep=',')
                     maps = {}
                 else:
                     maps[topic] = value
