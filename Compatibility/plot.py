@@ -73,5 +73,8 @@ if __name__ == "__main__":
     title = f'({args.experiment} qrels)'
     plt.title(title)
     plt.text(0.01, 0.95, f"Kendall's τ = {tau}", transform=ax.transAxes, fontsize=12, verticalalignment='top')
+    taufile = 'Taus/' + args.experiment.replace(" ", "_") + '.tau'
+    with open(taufile, "w") as f:
+        print(args.experiment.replace(" ", ",", 1), tau, file=f, sep=',')
 
     plt.savefig('plot.png')

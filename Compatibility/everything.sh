@@ -1,0 +1,12 @@
+#/bin/sh -v
+./datasets.sh "binary"
+./datasets.sh "exam binary"
+./datasets.sh "exam graded max"
+./datasets.sh "exam graded mean"
+./datasets.sh "nuggets all"
+./datasets.sh "nuggets all strict"
+./datasets.sh "nuggets vital"
+./datasets.sh "nuggets vital strict"
+./datasets.sh "nuggets weighted"
+./datasets.sh "nuggets weighted strict"
+./datasets.sh "umbrela zeroshot"
