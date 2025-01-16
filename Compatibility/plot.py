@@ -6,10 +6,12 @@ import math
 import sys
 import matplotlib.pyplot as plt
 import matplotlib.pyplot
+from scipy.stats import kendalltau
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Metric scatterplot')
-    parser.add_argument('title', type=str, help='plot title')
+    parser.add_argument('experiment', type=str, help='retrieval experiment')
+    parser.add_argument('qrels', type=str, help='source of qrels')
     parser.add_argument('xmetric', type=str, help='x-axis metric')
     parser.add_argument('ymetric', type=str, help='y-axis metric')
     parser.add_argument('file', nargs='+', type=str)
@@ -45,6 +47,8 @@ if __name__ == "__main__":
         if docno in ydict:
             x.append(xdict[docno])
             y.append(ydict[docno])
+    tau, _ = kendalltau(x, y)
+    tau = f"{tau:.3f}"
 
     plt.scatter(x, y, color='black')
     left, right = plt.xlim()
@@ -66,6 +70,8 @@ if __name__ == "__main__":
         ymetric = args.ymetric
     plt.ylabel(ymetric)
 
-    plt.title(args.title)
+    title = f'({args.experiment} qrels)'
+    plt.title(title)
+    plt.text(0.01, 0.95, f"Kendall's τ = {tau}", transform=ax.transAxes, fontsize=12, verticalalignment='top')
 
     plt.savefig('plot.png')

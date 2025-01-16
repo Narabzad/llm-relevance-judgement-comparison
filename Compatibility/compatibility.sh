@@ -12,6 +12,6 @@ EVAL="./compatibility.py -p 0.90"
 # Process each file in the source directory
 for file in "$RUNS"/*; do
     if [ -f "$file" ]; then
-        $EVAL $QRELS $file
+        $EVAL "$QRELS" "$file"
     fi
 done
