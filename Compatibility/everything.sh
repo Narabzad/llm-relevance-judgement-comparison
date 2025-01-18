@@ -1,4 +1,5 @@
 #/bin/sh -v
+./datasets.sh "preferences"
 ./datasets.sh "binary"
 ./datasets.sh "exam binary"
 ./datasets.sh "exam graded max"

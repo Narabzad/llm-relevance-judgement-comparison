@@ -9,6 +9,12 @@ dataset=$1
 category=$2
 
 case "$category" in
+    "original")
+        qrels="../data/qrels.${dataset}-passage.txt"
+        ;;
+    "preferences")
+        qrels="../Pref/prefs.${dataset}"
+        ;;
     "binary")
         qrels="../raw qrels/binary/binary_${dataset}.txt"
         ;;
