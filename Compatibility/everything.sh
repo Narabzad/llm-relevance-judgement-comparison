@@ -1,4 +1,5 @@
 #/bin/sh -v
+./datasets.sh "original"
 ./datasets.sh "preferences"
 ./datasets.sh "binary"
 ./datasets.sh "exam binary"
