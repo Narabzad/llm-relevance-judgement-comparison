@@ -45,4 +45,4 @@ The following commands generate the human alignment data from the paper.
 
 ```
 
-**Note:** Preference judgments normally require at least an initial binary relevance pass since preference judging a non-relevant item vs. another non-relevent item can't be expect to produce anything other than a arbitrary response or a tie. For this initial relevance pass, we choose to use the official qrels for these binary judgments (`qrels.*`). An alternative would be to use the LLM-based binary judgments. This choice represents a possible limitation of our experiments.
+**Note:** Preference judgments normally require at least an initial binary relevance pass since preference judging a non-relevant item vs. another non-relevent item can't be expect to produce anything other than a arbitrary response or a tie. For this initial relevance pass, we choose to use the official qrels interpreted as binary judgments (`qrels.*`). An alternative would be to use the LLM-based binary judgments. This choice represents a possible limitation of our experiments.
