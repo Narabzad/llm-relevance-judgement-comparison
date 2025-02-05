@@ -9,7 +9,8 @@ Output files from the preference judgment process are found in subdirectories:
 - `DL2020`: Full judgments for TREC Deep Learning 2020
 - `DL2021`: Full judgments for TREC Deep Learning 2021
 - `ANTIQUE`: One round of judgments for the ANTIQUE collection.
-We conducted only one round for ANTIQUE because ANTIQUE was not used in our experiments for agreement with system Rankings.
+
+We conducted only one round for ANTIQUE because ANTIQUE was not used in our experiments for agreement with system rankings.
 
 Files in these subdirectories can be understood as follows:
 - `log.*` - raw logs from GPT-4o, include prompts and responses
@@ -28,7 +29,7 @@ Scripts:
 - `reformat.py`: Reformat `judge.*` files into qrel format for use by compatibility measures
 - `unacceptable.py`: Generate judgment requests to compare relevant (best/acceptable) vs. non-relevant (unacceptable)
 
-Because human assessment is expensive, the sampling algorithm (`prefj.py`) normally operates on only the top grades. The `qrels.*` files in this directory are used to initialize the sampling algorithm with **all** relevant documents. They represent an intermediate step in the judgment process and are included only for completeness.
+Because human assessment is expensive, the sampling algorithm (`prefj.py`) normally operates on only the top grades. The `qrels.*` files in this directory are used to initialize the sampling algorithm with **all** relevant documents. These files represent an intermediate step in the judgment process and are included only for completeness.
 
 The `prefs.*` files are one output of the overall assessment process. They are generated from the `*.judge` files with `reformat.py` These files are used to compute compatibility measures reported in our paper. The scripts in the associated directory (../Compatibility) illustrate their use.
 
