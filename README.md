@@ -3,7 +3,7 @@
 This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2** interms of **alignment with Human Labels** and **Agreement with System Rankings**
 
 ## 📌 Included Judgment Methods
-This repository includes four relevance judgment methods:
+This repository includes five relevance judgment methods:
 
 1. **Pointwise**:  
    - [Binary](https://arxiv.org/abs/2304.09161)  
