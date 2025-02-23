@@ -42,3 +42,13 @@ The available methods are:
 - **`runs/`** → Includes TREC 2019, 2020, and 2021 runs and evalaution files for system ranking experiments.
 
 ---
+##  Running Judgements
+- Binary
+  
+- Umbrela
+  
+- Exam
+
+- Autonuggetizer
+
+- Pariwise
