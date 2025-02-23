@@ -43,12 +43,13 @@ The available methods are:
 
 ---
 ##  Running Judgements
-- Binary
+### Binary
   
 - Umbrela
   
-- Exam
-
+- Exam:
+         
+   -Rubrics generration    
 - Autonuggetizer
 
 - Pariwise
