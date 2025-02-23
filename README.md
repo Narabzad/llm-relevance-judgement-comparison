@@ -14,13 +14,13 @@ This repository includes four relevance judgment methods:
    - Document-Agnostic ([Exam](https://github.com/laura-dietz/flan-t5-exam-appendix))
    
 3. **Pairwise**:  
-   - Preference-based comparisons between document pairs.
+   - [Preference-based comparisons](https://github.com/claclark/preferences) between document pairs.
 
 ---
 
 ## 📂 Repository Structure
 
-- **`Compatibility/`** → Contains scripts and data for System Ranking Analysis using compatibility metrics.
+- **`Compatibility/`** → Contains scripts and data for System Ranking Analysis using [compatibility](https://github.com/claclark/Compatibility) metrics.
 - **`Methods/`** → Includes various relevance judgment methods** implemented in this study.
 - **`Pref/`** → Stores pairwise preference data and related scripts.
 - **`data/`** → Contains queries, qrels, and qrels raw text of collections used in the experiments.
