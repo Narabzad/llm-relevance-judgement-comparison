@@ -28,5 +28,3 @@ This repository includes four relevance judgment methods:
 - **`runs/`** → Includes TREC 2019, 2020, and 2021 runs and evalaution files for system ranking experiments.
 
 ---
-
-Let me know if you need any further refinements! 🚀
