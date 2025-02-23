@@ -20,11 +20,11 @@ This repository includes four relevance judgment methods:
 
 ## 📂 Repository Structure
 
-- **`Compatibility/`** → Contains scripts and data for **System Ranking Analysis** using compatibility metrics.
-- **`Methods/`** → Includes various **relevance judgment methods** implemented in this study.
-- **`Pref/`** → Stores **pairwise preference** data and related scripts.
-- **`data/`** → Contains **queries, qrels, and other datasets** used in the experiments.
-- **`raw_qrels/`** → Stores **raw relevance judgments** collected from both models using the four different methods.
+- **`Compatibility/`** → Contains scripts and data for System Ranking Analysis using compatibility metrics.
+- **`Methods/`** → Includes various relevance judgment methods** implemented in this study.
+- **`Pref/`** → Stores pairwise preference data and related scripts.
+- **`data/`** → Contains queries, qrels, and qrels raw text of collections used in the experiments.
+- **`raw_qrels/`** → Stores raw relevance judgments collected from both models using the four different methods.
 - **`runs/`** → Includes TREC 2019, 2020, and 2021 runs and evalaution files for system ranking experiments.
 
 ---
