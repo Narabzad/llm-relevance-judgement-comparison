@@ -55,7 +55,7 @@ This method includes the following steps:
 #### 1️) Rubrics Generation  
 This stage generates 10 rubrics per query.  
 Run the following command:  
-```python methods/exam/exam_generate_rubrics.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]
+```python methods/exam/exam_generate_rubrics.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
 
 #### 2) Rubrics Assignment
 Rubrics can be assigned using either of the following methods:
