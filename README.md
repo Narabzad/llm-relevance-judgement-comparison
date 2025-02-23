@@ -3,10 +3,15 @@
 This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2** interms of **alignment with Human Labels** and **Agreement with System Rankings**
 
 ## 📌 Relevance Judgment Methods
-This repository includes five relevance judgment methods:
+This repository includes five relevance judgment methods. The final output of each method is stored in the following directories:
+
+- ```raw_qrels/gpt-4o``` for judgments made by GPT-4o  
+- ```raw_qrels/llama3.2``` for judgments made by LLaMA 3.2  
+
+The available methods are:
 
 1. **Pointwise**:  
-   - Binary[paper](https://arxiv.org/abs/2304.09161)  
+   - Binary [[paper](https://arxiv.org/abs/2304.09161)]  
    - Graded (Umbrela) [[paper](https://github.com/castorini/umbrela/tree/main)]
    
 2. **Nugget-Based**:  
@@ -23,7 +28,7 @@ This repository includes five relevance judgment methods:
       - Exam Graded Mean    
    
 3. **Pairwise**:  
-   - Preference-based comparisons [paper](https://github.com/claclark/preferences) between document pairs.
+   - Preference-based comparisons [[paper](https://github.com/claclark/preferences)]
 
 ---
 
