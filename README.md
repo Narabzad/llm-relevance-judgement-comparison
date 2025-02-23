@@ -66,10 +66,13 @@ Rubrics can be assigned using either of the following methods:
 
 #### 3) Aggregation
 For binary, we calculate the average number of satisfied rubrics (out of 10).
+
 ```python exam_generate_qrels_binary.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_binary/```
+
 For graded, we compute:
       - Max relevance: The highest relevance score assigned to any rubric for a query.
       - Mean relevance: The average relevance score across all rubrics assigned to a query.
+      
 ```python exam_generate_qrels_graded.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_graded/```
 
 ### Autonuggetizer
