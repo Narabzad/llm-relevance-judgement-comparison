@@ -54,30 +54,37 @@ We note that while our repository is configured for llama3.2 and gpt-4o, it can 
 ### Exam:  
 This method includes the following steps:  
 
-#### 1️) Rubrics Generation  
-This stage generates 10 rubrics per query.  
+#### 1️) Nuggets Generation  
+This stage generates 10 Nuggets per query.  
 Run the following command:  
-```python Methods/Exam/exam_generate_rubrics.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+```python Methods/Exam/exam_generate_Nuggets.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
 
-#### 2) Rubrics Assignment
-Rubrics can be assigned using either of the following methods:
-- Binary: Checks whether each rubric is satisfied by each document (Yes/No).
+#### 2) Nuggets Assignment
+Nuggets can be assigned using either of the following methods:
+- Binary: Checks whether each Nugget is satisfied by each document (Yes/No).
 ```python Methods/Exam/exam_binary.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
-- Graded: Rates how much (on a scale of 0-5) the rubric is satisfied in the document.
+- Graded: Rates how much (on a scale of 0-5) the Nugget is satisfied in the document.
 ```python Methods/Exam//exam_graded.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
 
 #### 3) Aggregation
-For binary, we calculate the average number of satisfied rubrics (out of 10).
+For binary, we calculate the average number of satisfied Nuggets (out of 10).
 
-```python Methods/Exam/exam_generate_qrels_binary.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_binary/```
+```python Methods/Exam/exam_generate_qrels_binary.py --input_dir [output of binary Nugget assignment stage] --output_dir raw_qrels/[model_name]/exam_binary/```
 
 For graded, we compute:
-- Max relevance: The highest relevance score assigned to any rubric for a query.
-- Mean relevance: The average relevance score across all rubrics assigned to a query.
+- Max relevance: The highest relevance score assigned to any Nugget for a query.
+- Mean relevance: The average relevance score across all Nuggets assigned to a query.
       
-```python Methods/Exam/exam_generate_qrels_graded.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_graded/```
+```python Methods/Exam/exam_generate_qrels_graded.py --input_dir [output of binary Nugget assignment stage] --output_dir raw_qrels/[model_name]/exam_graded/```
 
 ---
 ### Autonuggetizer
+This method includes the following steps:  
+#### 1️) Nuggets Generation  
+#### 2) Nuggets Importance  
+#### 3) Nuggets Sort  
+#### 4) Nuggets Assignment
+#### 5) Aggregation
 
 ### Pariwise
+You can find instructions on running preference judgments in  ```[pref](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref)``` directory.
