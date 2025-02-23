@@ -7,11 +7,11 @@ This repository includes four relevance judgment methods:
 
 1. **Pointwise**:  
    - Binary (0/1 relevance)  
-     *Graded (*[UMBRELLA](https://github.com/castorini/umbrela/tree/main)*)
+     *Graded ([UMBRELLA](https://github.com/castorini/umbrela/tree/main))
    
 2. **Nugget-Based**:  
-   - Document-Dependent (*AutoNuggetizer*)  
-   - Document-Agnostic (*Exam*)
+   - Document-Dependent ([AutoNuggetizer](https://arxiv.org/abs/2411.09607))  
+   - Document-Agnostic ([Exam](https://github.com/laura-dietz/flan-t5-exam-appendix))
    
 3. **Pairwise**:  
    - Preference-based comparisons between document pairs.
