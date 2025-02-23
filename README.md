@@ -43,13 +43,35 @@ The available methods are:
 
 ---
 ##  Running Judgements
+We note that while our repository is configured for llama3.2 and gpt-4o, it can be adapted easily to any model working witht llama or OpenAI.
+
 ### Binary
   
-- Umbrela
+### Umbrela
   
-- Exam:
-         
-   -Rubrics generration    
-- Autonuggetizer
+### Exam:  
+This method includes the following steps:  
 
-- Pariwise
+#### 1️) Rubrics Generation  
+This stage generates 10 rubrics per query.  
+Run the following command:  
+```python methods/exam/exam_generate_rubrics.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]
+
+#### 2) Rubrics Assignment
+Rubrics can be assigned using either of the following methods:
+- Binary: Checks whether each rubric is satisfied by each document (Yes/No).
+```python methods/exam/exam_binary.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+- Graded: Rates how much (on a scale of 0-5) the rubric is satisfied in the document.
+```python methods/exam/exam_graded.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+
+#### 3) Aggregation
+For binary, we calculate the average number of satisfied rubrics (out of 10).
+```python exam_generate_qrels_binary.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_binary/```
+For graded, we compute:
+      - Max relevance: The highest relevance score assigned to any rubric for a query.
+      - Mean relevance: The average relevance score across all rubrics assigned to a query.
+```python exam_generate_qrels_graded.py --input_dir [output of binary rubric assignment stage] --output_dir raw_qrels/[model_name]/exam_graded/```
+
+### Autonuggetizer
+
+### Pariwise
