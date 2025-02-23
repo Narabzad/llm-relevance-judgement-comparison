@@ -6,12 +6,12 @@ This repository contains code and data for comparing different **relevance judgm
 This repository includes four relevance judgment methods:
 
 1. **Pointwise**:  
-   - **Binary** (0/1 relevance)  
-   - **Graded** (*UMBRELLA*, multi-level relevance)
+   - Binary (0/1 relevance)  
+     *Graded (*[UMBRELLA](https://github.com/castorini/umbrela/tree/main)*)
    
 2. **Nugget-Based**:  
-   - **Document-Dependent** (*AutoNuggetizer*)  
-   - **Document-Agnostic** (*Exam*)
+   - Document-Dependent (*AutoNuggetizer*)  
+   - Document-Agnostic (*Exam*)
    
 3. **Pairwise**:  
    - Preference-based comparisons between document pairs.
