@@ -1,17 +1,32 @@
 # LLM Relevance Judgment Comparison
 
-This repository contains code and data for comparing different relevance judgments methods made by two Large Language Models (LLMs) gpt-4o and llama3.2.
-The methods included in this repo:
- pointiwse: binary graded(UMBRELA)
- nuggetbased: document dependet (autonuggeizer), document agnostic (exam)
- pairwise
+This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2**.
 
-## Repository Structure
+## 📌 Included Judgment Methods
+This repository includes four relevance judgment methods:
 
-- **Compatibility/**: Contains scripts and data related to System Ranking Analysis with compatibility.
-- **Methods/**: Includes various methods and approaches implemented for relevance judgment.
-- **Pref/**: Pairwises preference data and related scripts.
-- **data/**: queries, qrels and other data .
-- **raw_qrels/**:  raw relevance judgments collected from both models and 4 different methods.
-- **runs/**: TREC 19,20,21 runs for system ranking experiment.
+1. **Pointwise**:  
+   - **Binary** (0/1 relevance)  
+   - **Graded** (*UMBRELLA*, multi-level relevance)
+   
+2. **Nugget-Based**:  
+   - **Document-Dependent** (*AutoNuggetizer*)  
+   - **Document-Agnostic** (*Exam*)
+   
+3. **Pairwise**:  
+   - Preference-based comparisons between document pairs.
 
+---
+
+## 📂 Repository Structure
+
+- **`Compatibility/`** → Contains scripts and data for **System Ranking Analysis** using compatibility metrics.
+- **`Methods/`** → Includes various **relevance judgment methods** implemented in this study.
+- **`Pref/`** → Stores **pairwise preference** data and related scripts.
+- **`data/`** → Contains **queries, qrels, and other datasets** used in the experiments.
+- **`raw_qrels/`** → Stores **raw relevance judgments** collected from both models using the four different methods.
+- **`runs/`** → Includes **TREC 2019, 2020, and 2021 system ranking experiment runs**.
+
+---
+
+Let me know if you need any further refinements! 🚀
