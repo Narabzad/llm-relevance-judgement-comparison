@@ -25,7 +25,7 @@ This repository includes four relevance judgment methods:
 - **`Pref/`** → Stores **pairwise preference** data and related scripts.
 - **`data/`** → Contains **queries, qrels, and other datasets** used in the experiments.
 - **`raw_qrels/`** → Stores **raw relevance judgments** collected from both models using the four different methods.
-- **`runs/`** → Includes **TREC 2019, 2020, and 2021 system ranking experiment runs**.
+- **`runs/`** → Includes TREC 2019, 2020, and 2021 runs and evalaution files for system ranking experiments.
 
 ---
 
