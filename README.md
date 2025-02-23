@@ -2,19 +2,28 @@
 
 This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2** interms of **alignment with Human Labels** and **Agreement with System Rankings**
 
-## 📌 Included Judgment Methods
+## 📌 Relevance Judgment Methods
 This repository includes five relevance judgment methods:
 
 1. **Pointwise**:  
-   - [Binary](https://arxiv.org/abs/2304.09161)  
-   - Graded ([UMBRELLA](https://github.com/castorini/umbrela/tree/main))
+   - Binary[paper](https://arxiv.org/abs/2304.09161)  
+   - Graded (Umbrela) [[paper](https://github.com/castorini/umbrela/tree/main)]
    
 2. **Nugget-Based**:  
-   - Document-Dependent ([AutoNuggetizer](https://arxiv.org/abs/2411.09607))  
-   - Document-Agnostic ([Exam](https://github.com/laura-dietz/flan-t5-exam-appendix))
+   - Document-Dependent (AutoNuggetizer) [[paper](https://arxiv.org/abs/2411.09607)]
+      - Autonuggetizer All
+      - Autonuggetizer All Strict
+      - Autonuggetizer Vital
+      - Autonuggetizer Vital Strict
+      - Autonuggetizer Weighted
+      - Autonuggetizer Weighted Strict
+   - Document-Agnostic [Exam] [[paper](https://github.com/laura-dietz/flan-t5-exam-appendix))]
+      - Exam Binary
+      - Exam Graded Max
+      - Exam Graded Mean    
    
 3. **Pairwise**:  
-   - [Preference-based comparisons](https://github.com/claclark/preferences) between document pairs.
+   - Preference-based comparisons [paper](https://github.com/claclark/preferences) between document pairs.
 
 ---
 
