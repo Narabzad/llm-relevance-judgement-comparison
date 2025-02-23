@@ -87,4 +87,4 @@ This method includes the following steps:
 #### 5) Aggregation
 
 ### Pariwise
-You can find instructions on running preference judgments in  ```[pref](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref)``` directory.
+You can find instructions on running preference judgments in  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
