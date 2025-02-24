@@ -87,7 +87,7 @@ Run the following command to generate nuggets for a specific dataset:
 python Methods/Exam/autonuggetizer_generate_Nuggets.py \
   --dataset [one of: '19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
-  --api_key [if using OpenAI]
+  --api_key [if using OpenAI]```
 
 It stores the generated nuggets as ```nuggets.{model_name}.dl{dataset}.txt```
  
