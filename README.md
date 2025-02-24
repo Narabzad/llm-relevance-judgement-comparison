@@ -81,7 +81,19 @@ For graded, we compute:
 ### Autonuggetizer
 This method includes the following steps:  
 #### 1️) Nuggets Generation  
+Run the following command to generate nuggets for a specific dataset:  
+
+```bash
+python Methods/Exam/autonuggetizer_generate_Nuggets.py \
+  --dataset [one of: '19', '20', '21', 'antique'] \
+  --model_name ['llama3.2' or 'gpt-4o'] \
+  --api_key [if using OpenAI]
+
+It stores the generated nuggets as ```nuggets.{model_name}.dl{dataset}.txt```
+ 
 #### 2) Nuggets Importance  
+Given the geenrated nuggets from previous step, now we want to see which nuggets are "Vital" and which are "okay". To do so , run the following command:
+```python Methods/Exam/autonuggetizer_nugget_importance.py [input from previous stage e.g. nuggets.gpt-4o.dl19.txt] --nugget_file --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI] ```
 #### 3) Nuggets Sort  
 #### 4) Nuggets Assignment
 #### 5) Aggregation
