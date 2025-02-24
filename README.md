@@ -83,7 +83,7 @@ This method includes the following steps:
 #### 1️) Nuggets Generation  
 Run the following command to generate nuggets for a specific dataset:  
 
-```bash
+```
 python Methods/Exam/autonuggetizer_generate_Nuggets.py \
   --dataset [one of: '19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
@@ -94,12 +94,14 @@ It stores the generated nuggets as ```nuggets.{model_name}.dl{dataset}.txt```
 #### 2) Nuggets Importance  
 Once the nuggets are generated, classify them as "Vital" or "Okay" using the following command:
 
-```bash
+```
 python Methods/Exam/autonuggetizer_nugget_importance.py \
   --nugget_file [e.g., nuggets.gpt-4o.dl19.txt] \
   --dataset ['19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
-  --api_key [if using OpenAI]```
+  --api_key [if using OpenAI]
+```
+  
 #### 3) Nuggets Sort  
 #### 4) Nuggets Assignment
 #### 5) Aggregation
