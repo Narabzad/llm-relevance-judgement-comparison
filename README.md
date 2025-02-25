@@ -5,8 +5,8 @@ This repository contains code and data for comparing different **relevance judgm
 ## 📌 Relevance Judgment Methods
 This repository includes five relevance judgment methods. The final output of each method is stored in the following directories:
 
-- ```raw_qrels/gpt-4o``` for judgments made by GPT-4o  
-- ```raw_qrels/llama3.2``` for judgments made by LLaMA 3.2  
+- **```raw_qrels/gpt-4o```** for judgments made by GPT-4o  
+- **```raw_qrels/llama3.2```** for judgments made by LLaMA 3.2  
 
 The available methods are:
 
