@@ -69,13 +69,17 @@ Nuggets can be assigned using either of the following methods:
 #### 3) Aggregation
 For binary, we calculate the average number of satisfied Nuggets (out of 10).
 
-```python Methods/Exam/exam_generate_qrels_binary.py --input_dir [output of binary Nugget assignment stage] --output_dir raw_qrels/[model_name]/exam_binary/```
+```python Methods/Exam/exam_generate_qrels_binary.py \
+      --input_dir [output of binary Nugget assignment stage] \
+      --output_dir raw_qrels/[model_name]/exam_binary/```
 
 For graded, we compute:
 - Max relevance: The highest relevance score assigned to any Nugget for a query.
 - Mean relevance: The average relevance score across all Nuggets assigned to a query.
       
-```python Methods/Exam/exam_generate_qrels_graded.py --input_dir [output of binary Nugget assignment stage] --output_dir raw_qrels/[model_name]/exam_graded/```
+```python Methods/Exam/exam_generate_qrels_graded.py \
+      --input_dir [output of binary Nugget assignment stage] \
+      --output_dir raw_qrels/[model_name]/exam_graded/```
 
 ---
 ### Autonuggetizer
@@ -103,9 +107,11 @@ python Methods/Exam/autonuggetizer_nugget_importance.py \
   --api_key [if using OpenAI]
 ```
   
-#### 3) Nuggets Sort  
-#### 4) Nuggets Assignment
-#### 5) Aggregation
+After running the nugget importance stage, the nuggets will also be sorted based on their importance. The sorted results will be saved in ```nuggets_importance_sorted.{nugget_file}```
+
+#### 3) Nuggets Assignment
+Now we have our nuggets sorted by their importance 
+#### 4) Aggregation
 
 ### Pariwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
