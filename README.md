@@ -62,16 +62,25 @@ Run the following command:
 #### 2) Nuggets Assignment
 Nuggets can be assigned using either of the following methods:
 - Binary: Checks whether each Nugget is satisfied by each document (Yes/No).
-```python Methods/Exam/exam_binary.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+```python Methods/Exam/exam_binary.py \
+      --dataset ['19', '20', '21', 'antique'] \
+      --model_name ['llama3.2' or 'gpt-4o'] \
+      --api_key [if using OpenAI]
+```
 - Graded: Rates how much (on a scale of 0-5) the Nugget is satisfied in the document.
-```python Methods/Exam//exam_graded.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+```python Methods/Exam//exam_graded.py \
+      --dataset ['19', '20', '21', 'antique'] \
+      --model_name ['llama3.2' or 'gpt-4o'] \
+      --api_key [if using OpenAI]
+```
 
 #### 3) Aggregation
 For binary, we calculate the average number of satisfied Nuggets (out of 10).
 
 ```python Methods/Exam/exam_generate_qrels_binary.py \
       --input_dir [output of binary Nugget assignment stage] \
-      --output_dir raw_qrels/[model_name]/exam_binary/```
+      --output_dir raw_qrels/[model_name]/exam_binary/
+```
 
 For graded, we compute:
 - Max relevance: The highest relevance score assigned to any Nugget for a query.
@@ -79,8 +88,8 @@ For graded, we compute:
       
 ```python Methods/Exam/exam_generate_qrels_graded.py \
       --input_dir [output of binary Nugget assignment stage] \
-      --output_dir raw_qrels/[model_name]/exam_graded/```
-
+      --output_dir raw_qrels/[model_name]/exam_graded/
+```
 ---
 ### Autonuggetizer
 This method includes the following steps:  
@@ -110,8 +119,22 @@ python Methods/Exam/autonuggetizer_nugget_importance.py \
 After running the nugget importance stage, the nuggets will also be sorted based on their importance. The sorted results will be saved in ```nuggets_importance_sorted.{nugget_file}```
 
 #### 3) Nuggets Assignment
-Now we have our nuggets sorted by their importance 
+Now that the nuggets are sorted by importance, the next step is to assign them to each document and determine the level of support. Each document will be evaluated based on whether it has one of the following situation with a given nugget:
+- "Support"
+- "Partial_support" 
+- "Not_support"
+
+To run the nugget assignment step run the following:
+python Methods/Exam/autonuggetizer_nugget_assignment.py \
+  --sorted_nugget_file [e.g., nuggets_importance_sorted.gpt-4o.dl19.txt] \
+  --dataset ['19', '20', '21', 'antique'] \
+  --model_name ['llama3.2' or 'gpt-4o'] \
+  --api_key [if using OpenAI]
+```
+the output will be stored as ```nuggets_assignments_{model_name}.{dataset}.txt```
+
 #### 4) Aggregation
+After assigning different levels of support to each nugget for each document, the next step is to aggregate these assignments to obtain the final Qrels. This is done using six different aggregation functions introduced in the original Autonuggetizer paper: all, all strict, vital, vital strict, weighted, and weighted strict. For more details on these aggregation functions, we refer readers to the original Autonuggetizer paper or our paper.
 
 ### Pariwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
