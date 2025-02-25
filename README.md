@@ -1,6 +1,6 @@
 # LLM Relevance Judgment Comparison
 
-This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2** interms of **alignment with Human Labels** and **Agreement with System Rankings**
+This repository contains code and data for comparing different relevance judgment methods across two Large Language Models (LLMs): GPT-4o and LLaMA 3.2 interms of alignment with Human Labels and Agreement with System Rankings
 
 ## 📌 Relevance Judgment Methods
 This repository includes five relevance judgment methods. The final output of each method is stored in the following directories:
