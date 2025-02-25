@@ -125,16 +125,25 @@ Now that the nuggets are sorted by importance, the next step is to assign them t
 - "Not_support"
 
 To run the nugget assignment step run the following:
+```
 python Methods/Exam/autonuggetizer_nugget_assignment.py \
   --sorted_nugget_file [e.g., nuggets_importance_sorted.gpt-4o.dl19.txt] \
   --dataset ['19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
   --api_key [if using OpenAI]
 ```
-the output will be stored as ```nuggets_assignments_{model_name}.{dataset}.txt```
+The output will be stored as ```nuggets_assignments_{model_name}.{dataset}.txt```
 
 #### 4) Aggregation
 After assigning different levels of support to each nugget for each document, the next step is to aggregate these assignments to obtain the final Qrels. This is done using six different aggregation functions introduced in the original Autonuggetizer paper: all, all strict, vital, vital strict, weighted, and weighted strict. For more details on these aggregation functions, we refer readers to the original Autonuggetizer paper or our paper.
-
+```
+python Methods/Exam/autonuggetizer_nugget_assignment.py \
+  --nugget_assignment_file [e.g., nuggets_assignments.gpt-4o.dl19.txt] \
+  --nugget_importance_file [e.g., nuggets_importance_sorted.gpt-4o.dl19.txt]
+  --dataset ['19', '20', '21', 'antique'] \
+  --model_name ['llama3.2' or 'gpt-4o'] \
+```
+It will store 6 different qrels for autonuggetizer under ```raw qrels/{model_name}/nuggets/```
+---
 ### Pariwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
