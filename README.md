@@ -47,7 +47,8 @@ We note that while our repository is configured for llama3.2 and gpt-4o, it can 
 
 ---
 ### Binary
-```python Methods/binary/judgement_binary.py \
+```
+python Methods/binary/judgement_binary.py \
    --dataset ['19', '20', '21', 'antique']\
    --model_name ['llama3.2' or 'gpt-4o'] \
    --api_key [if using OpenAI]
