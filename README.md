@@ -12,7 +12,7 @@ The available methods are:
 
 1. **Pointwise**:  
    - Binary [[paper](https://arxiv.org/abs/2304.09161)]  
-   - Graded (Umbrela) [[paper](https://github.com/castorini/umbrela/tree/main)]
+   - Graded (UMBRELA) [[paper](https://github.com/castorini/UMBRELA/tree/main)]
    
 2. **Nugget-Based**:  
    - Document-Dependent (AutoNuggetizer) [[paper](https://arxiv.org/abs/2411.09607)]
@@ -57,7 +57,15 @@ python Methods/binary/judgement_binary.py \
 
 ---
   
-### Umbrela
+### UMBRELA
+
+We borrowed UMBRELA implmenetation from [here](https://github.com/castorini/UMBRELA/tree/main). Hoever, we need to do some modification to make it also compatible with ollama package and LLama3.2. Therefore, once you have cloned the UMBRELA repo, you can run the following command to run it on either gpt-4o or llama3.2
+```
+python Methods/Umbrela/run_umbrela.py \
+   --dataset ['19', '20', '21', 'antique']\
+   --model_name ['llama3.2' or 'gpt-4o'] \
+   --api_key [if using OpenAI]
+```
 ---
 
 ### Exam:  
@@ -156,7 +164,9 @@ python Methods/Exam/autonuggetizer_nugget_assignment.py \
   --dataset ['19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
 ```
+
 It will store 6 different qrels for autonuggetizer under ```raw qrels/{model_name}/nuggets/```
+
 ---
 ### Pariwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
