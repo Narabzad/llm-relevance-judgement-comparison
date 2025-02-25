@@ -47,6 +47,7 @@ We note that while our repository is configured for llama3.2 and gpt-4o, it can 
 
 ---
 ### Binary
+To run binary relevance judgement, run the following command:
 ```
 python Methods/binary/judgement_binary.py \
    --dataset ['19', '20', '21', 'antique']\
