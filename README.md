@@ -45,7 +45,14 @@ The available methods are:
 ##  Running Judgements
 We note that while our repository is configured for llama3.2 and gpt-4o, it can be adapted easily to any model working witht llama or OpenAI.
 
+---
 ### Binary
+```python Methods/binary/judgement_binary.py \
+   --dataset ['19', '20', '21', 'antique']\
+   --model_name ['llama3.2' or 'gpt-4o'] \
+   --api_key [if using OpenAI]
+```
+
 ---
   
 ### Umbrela
@@ -57,7 +64,11 @@ This method includes the following steps:
 #### 1️) Nuggets Generation  
 This stage generates 10 Nuggets per query.  
 Run the following command:  
-```python Methods/Exam/exam_generate_Nuggets.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+```python Methods/Exam/exam_generate_Nuggets.py \
+   --dataset ['19', '20', '21', 'antique']\
+   --model_name ['llama3.2' or 'gpt-4o'] \
+   --api_key [if using OpenAI]
+```
 
 #### 2) Nuggets Assignment
 Nuggets can be assigned using either of the following methods:
