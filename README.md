@@ -60,12 +60,12 @@ python Methods/binary/judgement_binary.py \
 ### UMBRELA
 
 We borrowed UMBRELA implmenetation from [here](https://github.com/castorini/UMBRELA/tree/main). Hoever, we need to do some modification to make it also compatible with ollama package and LLama3.2. Therefore, once you have cloned the UMBRELA repo, you can run the following command to run it on either gpt-4o or llama3.2
-
+```
 python Methods/Umbrela/run_umbrela.py \
    --dataset ['19', '20', '21', 'antique']\
    --model_name ['llama3.2' or 'gpt-4o'] \
    --api_key [if using OpenAI]
-
+```
 ---
 
 ### Exam:  
