@@ -1,12 +1,12 @@
 # LLM Relevance Judgment Comparison
 
-This repository contains code and data for comparing different **relevance judgment methods** across two Large Language Models (LLMs): **GPT-4o** and **LLaMA 3.2** interms of **alignment with Human Labels** and **Agreement with System Rankings**
+This repository contains code and data for comparing different relevance judgment methods across two Large Language Models (LLMs): GPT-4o and LLaMA 3.2 interms of alignment with Human Labels and Agreement with System Rankings
 
 ## 📌 Relevance Judgment Methods
 This repository includes five relevance judgment methods. The final output of each method is stored in the following directories:
 
-- ```raw_qrels/gpt-4o``` for judgments made by GPT-4o  
-- ```raw_qrels/llama3.2``` for judgments made by LLaMA 3.2  
+- **```raw_qrels/gpt-4o```** for judgments made by GPT-4o  
+- **```raw_qrels/llama3.2```** for judgments made by LLaMA 3.2  
 
 The available methods are:
 
@@ -45,7 +45,14 @@ The available methods are:
 ##  Running Judgements
 We note that while our repository is configured for llama3.2 and gpt-4o, it can be adapted easily to any model working witht llama or OpenAI.
 
+---
 ### Binary
+```python Methods/binary/judgement_binary.py \
+   --dataset ['19', '20', '21', 'antique']\
+   --model_name ['llama3.2' or 'gpt-4o'] \
+   --api_key [if using OpenAI]
+```
+
 ---
   
 ### Umbrela
@@ -57,7 +64,11 @@ This method includes the following steps:
 #### 1️) Nuggets Generation  
 This stage generates 10 Nuggets per query.  
 Run the following command:  
-```python Methods/Exam/exam_generate_Nuggets.py --dataset ['19', '20', '21', 'antique'] --model_name ['llama3.2' or 'gpt-4o'] --api_key [if using OpenAI]```
+```python Methods/Exam/exam_generate_Nuggets.py \
+   --dataset ['19', '20', '21', 'antique']\
+   --model_name ['llama3.2' or 'gpt-4o'] \
+   --api_key [if using OpenAI]
+```
 
 #### 2) Nuggets Assignment
 Nuggets can be assigned using either of the following methods:
@@ -125,16 +136,25 @@ Now that the nuggets are sorted by importance, the next step is to assign them t
 - "Not_support"
 
 To run the nugget assignment step run the following:
+```
 python Methods/Exam/autonuggetizer_nugget_assignment.py \
   --sorted_nugget_file [e.g., nuggets_importance_sorted.gpt-4o.dl19.txt] \
   --dataset ['19', '20', '21', 'antique'] \
   --model_name ['llama3.2' or 'gpt-4o'] \
   --api_key [if using OpenAI]
 ```
-the output will be stored as ```nuggets_assignments_{model_name}.{dataset}.txt```
+The output will be stored as ```nuggets_assignments_{model_name}.{dataset}.txt```
 
 #### 4) Aggregation
 After assigning different levels of support to each nugget for each document, the next step is to aggregate these assignments to obtain the final Qrels. This is done using six different aggregation functions introduced in the original Autonuggetizer paper: all, all strict, vital, vital strict, weighted, and weighted strict. For more details on these aggregation functions, we refer readers to the original Autonuggetizer paper or our paper.
-
+```
+python Methods/Exam/autonuggetizer_nugget_assignment.py \
+  --nugget_assignment_file [e.g., nuggets_assignments.gpt-4o.dl19.txt] \
+  --nugget_importance_file [e.g., nuggets_importance_sorted.gpt-4o.dl19.txt]
+  --dataset ['19', '20', '21', 'antique'] \
+  --model_name ['llama3.2' or 'gpt-4o'] \
+```
+It will store 6 different qrels for autonuggetizer under ```raw qrels/{model_name}/nuggets/```
+---
 ### Pariwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
