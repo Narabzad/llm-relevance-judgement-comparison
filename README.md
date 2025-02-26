@@ -168,5 +168,5 @@ python Methods/Exam/autonuggetizer_nugget_assignment.py \
 It will store 6 different qrels for autonuggetizer under ```raw qrels/{model_name}/nuggets/```
 
 ---
-### Pariwise
+### Pairwise
 Since the instructions for running preference judgments are very detailed, we have documented them in the  [```pref```](https://github.com/Narabzad/llm-relevance-judgement-comparison/tree/main/Pref) directory.
